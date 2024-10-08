@@ -1,0 +1,153 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("POSTGRES_PRISMA_URL") // uses connection pooling
+  directUrl = env("POSTGRES_URL_NON_POOLING") // uses a direct connection
+}
+
+enum Status {
+  Active
+  Draft
+  Expired
+  Planned
+  Approval
+  Hidden
+}
+
+model Tag {
+  id          String    @id @default(cuid())
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  title       String
+  description String?   @db.Text
+  slug        String?
+  image       String?
+  tagGroup    TagGroup? @relation(fields: [tagGroupId], references: [id])
+  tagGroupId  String?
+  posts       Post[]
+  terms       Term[]
+
+  @@index([tagGroupId])
+}
+
+model TagGroup {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  title       String   @unique
+  description String?  @db.Text
+  slug        String?  @unique
+  tags        Tag[]
+}
+
+model QuestionGroup {
+  id          String     @id @default(cuid())
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  status      Status?
+  title       String     @unique
+  description String?    @db.Text
+  slug        String?    @unique
+  questions   Question[]
+}
+
+model Question {
+  id              String         @id @default(cuid())
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  title           String         @db.Text
+  description     String?        @db.Text
+  questionGroup   QuestionGroup? @relation(fields: [questionGroupId], references: [id], onDelete: Cascade)
+  questionGroupId String?
+  answers         Answer[]
+
+  @@index([questionGroupId])
+}
+
+model Answer {
+  id          String       @id @default(cuid())
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  title       String       @db.Text
+  description String?      @db.Text
+  question    Question?    @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  questionId  String?
+  userAnswers UserAnswer[]
+
+  @@index([questionId])
+}
+
+model UserAnswer {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  answer    Answer?  @relation(fields: [answerId], references: [id])
+  answerId  String?
+
+  @@index([answerId])
+}
+
+model Person {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  title       String   @unique
+  image       String?
+  description String?  @db.Text
+  position    String?
+  eMail       String?
+  phone       String?
+  socialLinks String?
+  slug        String?  @unique
+  posts       Post[]
+}
+
+model Post {
+  id          String    @id @default(cuid())
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  title       String    @db.Text
+  slug        String?   @unique
+  content     String?   @db.Text
+  summary     String?   @db.Text
+  status      Status?
+  tags        Tag[]
+  publishedAt DateTime?
+  titleImage  String?
+  author      Person?   @relation(fields: [authorId], references: [id])
+  authorId    String?
+
+  @@index([authorId])
+}
+
+model Term {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  title       String   @db.Text
+  slug        String?  @unique
+  description String?  @db.Text
+  tags        Tag[]
+  status      Status?  @default(Hidden)
+}
+
+model BookingSlot {
+  id                String    @id @default(cuid())
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+  title             String    @db.Text
+  status            Status?   @default(Draft)
+  dateFrom          DateTime?
+  dateTo            DateTime?
+  availableTimes    String?
+  availableWeekdays String?
+}

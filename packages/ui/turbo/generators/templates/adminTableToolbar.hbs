@@ -1,0 +1,51 @@
+"use client";
+import React from "react";
+import { DownloadIcon, PlusIcon } from "lucide-react";
+import { type Table } from "@tanstack/react-table";
+
+import { exportTableToCSV } from "@ui/lib/export";
+import { Button } from "@ui/components/ui/button";
+import { Admin{{pascalCase name}}Item } from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+import { Admin{{pascalCase name}}ItemsSheet } from "@ui/entities/{{name}}s/tables/admin/sheet";
+
+interface Admin{{pascalCase name}}ItemsToolbarProps {
+  table: Table<Admin{{pascalCase name}}Item>;
+}
+
+export function Admin{{pascalCase name}}ItemsToolbar({ table }: Admin{{pascalCase name}}ItemsToolbarProps) {
+  const [showAdmin{{pascalCase name}}ItemsSheet, setShowAdmin{{pascalCase name}}ItemsSheet] =
+    React.useState(false);
+
+  return (
+    <>
+      <Admin{{pascalCase name}}ItemsSheet
+        open={showAdmin{{pascalCase name}}ItemsSheet}
+        onOpenChange={setShowAdmin{{pascalCase name}}ItemsSheet}
+        {{name}}={undefined}
+      />
+      <div className="flex items-center gap-2">
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={() => setShowAdmin{{pascalCase name}}ItemsSheet(true)}
+        >
+          <PlusIcon className="mr-2 size-4" aria-hidden="true" />
+          {{pascalCase name}} erstellen
+        </Button>
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={() =>
+            exportTableToCSV(table, {
+              filename: "{{name}}s",
+              excludeColumns: ["select", "actions"],
+            })
+          }
+        >
+          <DownloadIcon className="mr-2 size-4" aria-hidden="true" />
+          Export
+        </Button>
+      </div>
+    </>
+  );
+}

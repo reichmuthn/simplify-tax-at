@@ -1,0 +1,48 @@
+"use server";
+
+import { unstable_noStore as noStore, revalidateTag } from "next/cache";
+import {
+  Create{{pascalCase name}}Command,
+  create{{pascalCase name}}CommandSchema,
+} from "@app/entities/{{name}}s/commands/create{{pascalCase name}}/schemas";
+import { create{{pascalCase name}}Command } from "@app/entities/{{name}}s/commands/create{{pascalCase name}}/command";
+import { update{{pascalCase name}}Command } from "@app/entities/{{name}}s/commands/update{{pascalCase name}}/command";
+import { delete{{pascalCase name}}Command } from "@app/entities/{{name}}s/commands/delete{{pascalCase name}}/command";
+
+export async function save{{pascalCase name}}(values: Create{{pascalCase name}}Command, id?: string) {
+  noStore();
+  const validatedFields = create{{pascalCase name}}CommandSchema.safeParse(values);
+
+  if (!validatedFields.success) {
+    return {
+      data: null,
+      errors: validatedFields.error.flatten().fieldErrors,
+    };
+  }
+
+  try {
+    id
+      ? await update{{pascalCase name}}Command(id, validatedFields.data)
+      : await create{{pascalCase name}}Command(validatedFields.data);
+    revalidateTag("{{name}}s");
+  } catch (err: any) {
+    return {
+      data: null,
+      errors: { root: [err.message] },
+    };
+  }
+}
+
+export async function delete{{pascalCase name}}(id: string) {
+  noStore();
+  try {
+    await delete{{pascalCase name}}Command(id);
+  } catch (err: any) {
+    return {
+      data: null,
+      errors: { root: [err.message] },
+    };
+  }
+
+  revalidateTag("{{name}}s");
+}

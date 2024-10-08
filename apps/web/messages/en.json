@@ -1,0 +1,2862 @@
+{
+  "Navigation": {
+    "CoreCompetences": {
+      "dropdownButton": "Core Competences"
+    },
+    "Services": {
+      "dropdownButton": "Services"
+    },
+    "AboutUs": {
+      "dropdownButton": "Simplify Tax",
+      "Links": {
+        "AboutUs": {
+          "title": "About Us",
+          "description": "Discover our company's vision and mission.",
+          "moreLink": "Learn more"
+        },
+        "Career": {
+          "title": "Career",
+          "description": "Learn more about career opportunities with us.",
+          "moreLink": "Learn more"
+        },
+        "SimplifyArt": {
+          "title": "Simplify Art",
+          "description": "Explore our creative side and art projects.",
+          "moreLink": "Learn more"
+        }
+      }
+    },
+    "Resources": {
+      "dropdownButton": "Resources",
+      "Links": {
+        "Resource2": {
+          "title": "Glossary",
+          "description": "An extensive collection of legal terms.",
+          "moreLink": "Learn more"
+        },
+        "Resource3": {
+          "title": "Blog",
+          "description": "Current articles and news on legal topics.",
+          "moreLink": "Learn more"
+        },
+        "Resource4": {
+          "title": "Newsletter",
+          "description": "Regular updates directly to your inbox.",
+          "moreLink": "Learn more"
+        },
+        "Resource1": {
+          "title": "Appointment Booking",
+          "description": "Schedule appointments quickly and easily online.",
+          "moreLink": "Learn more"
+        }
+      }
+    },
+    "Contact": {
+      "title": "Contact"
+    }
+  },
+  "FooterNavigation": {
+    "services": "Services",
+    "financialAccounting": "Financial Accounting",
+    "payrollAccounting": "Payroll Accounting",
+    "annualFinancialStatementsAndAccounting": "Annual Financial Statements and Accounting",
+    "taxReturns": "Tax Returns",
+    "adviceOnTaxMatters": "Advice on Tax Matters",
+    "businessAdvice": "Business Advice",
+    "successionPlanningAndBusinessValuation": "Succession Planning and Business Valuation",
+    "taxAdviceOnInternationalMatters": "Tax Advice on International Matters",
+    "adviceInFinancialCriminalLaw": "Advice & Support in Financial Criminal Law Matters",
+    "expertise": "Core Competences",
+    "eCommerce": "E-Commerce",
+    "startUps": "Start-Ups",
+    "realEstate": "Real Estate",
+    "doctors": "Doctors",
+    "pharmacy": "Pharmacists",
+    "hotelsGastronomy": "Hotels and Gastronomy",
+    "classicTaxAdvice": "Classic Tax Advice",
+    "choiceOfLegalFormRestructuring": "Choice of Legal Form and Restructuring",
+    "contentCreatorInfluencerESports": "Content Creator, Influencer, and E-Sports",
+    "simplifyTax": "Simplify Tax",
+    "aboutUs": "About Us",
+    "career": "Career",
+    "simplifyArt": "Simplify Art",
+    "contact": "Contact",
+    "resources": "Resources",
+    "iurio": "IURIO",
+    "lexicon": "Glossary",
+    "newsletter": "Newsletter",
+    "booking": "Appointment Booking",
+    "blog": "Blog",
+    "legal": "Legal",
+    "imprint": "Imprint",
+    "dataPolicy": "Data Policy",
+    "aab": "General Terms and Conditions"
+  },
+  "HomePage": {
+    "HeroArticle": {
+      "subtitle": "Reliable and Simple",
+      "title": "Your Digital Tax Advisor in Vienna",
+      "description": "Competent and reliable tax advice. From SMEs and start-ups to doctors and pharmacists.",
+      "secondaryButton": "Book an Appointment",
+      "primaryButton": "Contact"
+    },
+    "ReferencesArticle": {
+      "subtitle": "References"
+    },
+    "ServicesArticle": {
+      "subtitle": "Services",
+      "title": "Competent and Reliable Tax Advice",
+      "description": "We support you in tax matters. We take over time-consuming and complex tasks, creating more space for your business success.",
+      "moreLink": "More"
+    },
+    "PartnersArticle": {
+      "subtitle": "Partners",
+      "title": "Stronger Together",
+      "description": "Our partnerships and seamless integrations optimize your financial strategies and enhance your success."
+    },
+    "CoreCompetencesArticle": {
+      "subtitle": "Core Competences",
+      "title": "Tax Advice for Key Industries",
+      "description": "Simplify Tax offers comprehensive tax advisory services for e-commerce, start-ups, real estate, and more, providing tailored solutions to clients in these key areas.",
+      "moreLink": "More"
+    },
+    "PrinciplesArticle": {
+      "subtitle": "About Us",
+      "title": "Principles that Guide Simplify Tax",
+      "moreLink": "More",
+      "Clarity": {
+        "title": "Clarity",
+        "description": "We communicate clearly and understandably to promote transparency and trust among customers and employees."
+      },
+      "Security": {
+        "title": "Security",
+        "description": "We protect our customers' financial interests and ensure confidentiality through robust security measures and ethical conduct."
+      },
+      "Economics": {
+        "title": "Economics",
+        "description": "We optimize resources to offer high-quality services at competitive prices and ensure long-term value creation."
+      }
+    },
+    "CareersArticle": {
+      "subtitle": "Career",
+      "title": "Take the Next Step in Your Career",
+      "moreLink": "More",
+      "Success": {
+        "title": "Shaping Success Together",
+        "description": "At Simplify Tax, we foster a motivated, team-oriented environment through regular exchange, collaboration, and mutual support."
+      },
+      "Innovation": {
+        "title": "Innovation That Drives Us",
+        "description": "We use modern technologies for efficient work, create space for creativity, and promote innovative approaches through digital tools."
+      }
+    },
+    "BlogArticle": {
+      "subtitle": "Blog",
+      "title": "Finance and Tax News",
+      "description": "Stay informed about current developments, tips, and advice in our blog for tax advice and finance.",
+      "moreLink": "More"
+    }
+  },
+  "Quotes": {
+    "Quote1": {
+      "subtitle": "Commitment and Expertise",
+      "quote": "At Simplify Tax, our goal is to provide each client with a tailored solution that meets their individual needs and goals.",
+      "name": "Anna Pasquale, LL.M. (WU) BSC (WU)",
+      "position": "Director, Tax Advisor"
+    },
+    "Quote2": {
+      "subtitle": "Reliability and Precision",
+      "quote": "Our precise working methods and commitment to accuracy ensure that our clients are always well advised.",
+      "name": "Fatma Sahin",
+      "position": "Manager Financial Accountant"
+    },
+    "Quote3": {
+      "subtitle": "Trust and Collaboration",
+      "quote": "We build on long-term relationships and trust to provide our clients with the best possible advice.",
+      "name": "Jinwen Song",
+      "position": "Financial Accountant"
+    },
+    "Quote6": {
+      "subtitle": "Teamwork and Support",
+      "quote": "Through close collaboration and mutual support, we achieve the best results for our clients.",
+      "name": "Marco Elsner",
+      "position": "Associate"
+    },
+    "Quote7": {
+      "subtitle": "Quality and Reliability",
+      "quote": "Our high quality and reliability are the foundation of our clients' trust in our work.",
+      "name": "Patrizia Schuster",
+      "position": "Associate"
+    },
+    "Quote8": {
+      "subtitle": "Professionalism and Commitment",
+      "quote": "Our commitment and professionalism are reflected in each of our services.",
+      "name": "Vesna Jokic",
+      "position": "Assistant"
+    },
+    "Quote9": {
+      "subtitle": "Long-term Partnerships",
+      "quote": "We focus on long-term partnerships and accompany our clients through all economic challenges.",
+      "name": "Maja Bogosavljevic",
+      "position": "Assistant (On Leave)"
+    },
+    "Quote10": {
+      "subtitle": "Expertise and Experience",
+      "quote": "Our in-depth expertise and years of experience make us a trusted partner in all tax matters.",
+      "name": "Dimitar Zlatev",
+      "position": "Managing Director | Tax Advisor"
+    },
+    "Quote11": {
+      "subtitle": "Customer Focus and Excellence",
+      "quote": "Our focus is on excellent customer service and meeting the highest standards in tax consulting.",
+      "name": "Silvie Zlateva",
+      "position": "Manager"
+    }
+  },
+  "Contact": {
+    "subtitle": "Contact",
+    "title": "Contact Us",
+    "description": "We are always here for questions, suggestions, or inquiries. Feel free to contact us.",
+    "EMail": {
+      "title": "E-Mail",
+      "description": "Send us a message."
+    },
+    "Location": {
+      "title": "Location",
+      "description": "Appointments by arrangement only."
+    },
+    "Phone": {
+      "title": "Phone",
+      "description": "Mon - Fri: 09:00 - 18:00"
+    }
+  },
+  "Newsletter": {
+    "subtitle": "Tax News",
+    "title": "Never Miss a Tax Change Again!",
+    "description": "Get exclusive insights into the world of tax consulting with our newsletter.",
+    "Form": {
+      "FirstName": {
+        "label": "First Name",
+        "error": "This field cannot be empty."
+      },
+      "LastName": {
+        "label": "Last Name",
+        "error": "This field cannot be empty."
+      },
+      "EMail": {
+        "label": "E-Mail",
+        "error": "This field cannot be empty."
+      },
+      "button": "Sign Up Now",
+      "concent": "Please note our",
+      "concentLink": "Privacy Policy",
+      "StatusMessages": {
+        "SubmitSuccessful": {
+          "headline": "Please Confirm Your Registration",
+          "message": "Please confirm your newsletter registration by clicking the link sent to your email. Otherwise, we cannot send you the newsletter."
+        },
+        "ContactExists": {
+          "headline": "This Contact Already Exists",
+          "message": "This contact already exists in our list. Please confirm the newsletter registration sent to your email to complete the registration."
+        },
+        "EmailConfirmed": {
+          "headline": "Thank You!",
+          "message": "We are excited to keep you updated on the latest developments and offers."
+        }
+      }
+    }
+  },
+  "NewsletterPage": {
+    "HeroArticle": {
+      "subtitle": "Newsletter",
+      "title": "Our Updates for You",
+      "description": "Regularly learn about the latest tax developments and benefit from exclusive insights and tips directly from our experts. Become part of our tax community and sign up!"
+    }
+  },
+  "Booking": {
+    "Form": {
+      "FirstName": {
+        "label": "First Name",
+        "error": "This field cannot be empty."
+      },
+      "LastName": {
+        "label": "Last Name",
+        "error": "This field cannot be empty."
+      },
+      "Phone": {
+        "label": "Phone Number",
+        "error": "This field cannot be empty."
+      },
+      "AppointmentType": {
+        "label": "Appointment Type",
+        "placeholder": "",
+        "Option": {
+          "one": "In Person",
+          "two": "Online"
+        },
+        "error": "This field cannot be empty."
+      },
+      "EMail": {
+        "label": "E-Mail",
+        "error": "This field cannot be empty."
+      },
+      "AdditionalInfos": {
+        "label": "Additional Info",
+        "description": "Please share anything that helps us prepare for our meeting."
+      },
+      "Button": {
+        "Ghost": {
+          "label": "Back"
+        },
+        "AppPrimary": {
+          "label": "Request Appointment"
+        }
+      },
+      "concent": "By submitting the form, you accept our",
+      "concentLink": "Privacy Policy",
+      "optional": "(optional)",
+      "ContactDetails": {
+        "label": "Contact Details"
+      },
+      "AppointmentDetails": {
+        "label": "Appointment"
+      },
+      "Date": {
+        "label": "Date"
+      },
+      "Time": {
+        "label": "Time",
+        "timeFormat": "o'clock"
+      }
+    },
+    "StatusMessages": {
+      "SubmitSuccessful": {
+        "headline": "Thank you for your booking request!",
+        "message": "Your request has been successfully submitted. We will confirm your appointment as soon as possible and notify you. If you have any questions, please feel free to contact us.",
+        "button": "Back"
+      }
+    }
+  },
+  "BookingPage": {
+    "HeroArticle": {
+      "subtitle": "Appointment Booking",
+      "title": "Get Advice Easily and Quickly",
+      "description": "Use our user-friendly booking tool to quickly and easily schedule a consultation appointment."
+    },
+    "BookingArticle": {
+      "subtitle": "Book Now",
+      "title": "Schedule Your Appointment in a Few Clicks",
+      "description": "Our integrated calendar makes it easy for you to schedule your appointment. Please note that the appointment is only binding after our confirmation. If you can't find a suitable time, please contact us by phone."
+    }
+  },
+  "AboutUsPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Tax",
+      "title": "Tax Consulting with Expertise and Commitment",
+      "description": "At Simplify Tax, you are at the center of our focus. We listen to you to find the most economically viable solution for your business together. We act swiftly. With certainty.",
+      "BlockOne": {
+        "title": "Competent Tax Consulting",
+        "description": "Simplify Tax offers competent tax consulting in a prestigious environment. Our services guarantee you security in tax matters. We take on complex tasks and provide convenience that simplifies your everyday life."
+      },
+      "BlockTwo": {
+        "title": "Client-Centered Consulting",
+        "description": "Clarity, openness, and transparency with our clients, as well as confidentiality towards third parties, form the basis of our actions. Our focus is on clear and economically viable solutions that clearly benefit the client."
+      }
+    },
+    "NominationArticle": {
+      "BlockOne": {
+        "title": "Top Consultants in Austria 2024",
+        "description": "Simplify Tax Consulting has been recognized by IMWF Austria as one of the top tax consultants in 2024."
+      },
+      "BlockTwo": {
+        "title": "Member of the Chamber of Tax Consultants and Auditors",
+        "description": "Simplify Tax is a proud member of the Chamber of Tax Consultants and Auditors."
+      },
+      "BlockThree": {
+        "title": "Supporter of Young Caritas",
+        "description": "Simplify Tax supports YoungCaritas Wien for a fair and self-determined future."
+      }
+    },
+    "TeamArticle": {
+      "subtitle": "Our Team",
+      "title": "Experienced Team for Tax Matters",
+      "description": "At Simplify Tax, a dedicated and experienced team of experts work together to provide competent support for all tax matters.",
+      "sendLink": "Send Email",
+      "DimitarZlatev": {
+        "name": "Mag. Dimitar Zlatev",
+        "position": "Managing Director | Tax Consultant"
+      },
+      "AnnaPasquale": {
+        "name": "Anna Pasquale, LL.M.(WU) BSC (WU)",
+        "position": "Director | Tax Consultant"
+      },
+      "Employee": {
+        "FatmaSahin": {
+          "name": "Fatma Sahin",
+          "position": "Manager Financial Accountant"
+        },
+        "JinwenSong": {
+          "name": "Jinwen Song",
+          "position": "Financial Accountant"
+        },
+        "SilvieZlateva": {
+          "name": "Silvie Zlateva, LL.M.",
+          "position": "Manager"
+        },
+        "YagmurKeske": {
+          "name": "Yagmur Keske",
+          "position": "Associate"
+        },
+        "MarcoElsner": {
+          "name": "Marco Elsner",
+          "position": "Associate"
+        },
+        "PatriziaSchuster": {
+          "name": "Patrizia Schuster",
+          "position": "Associate"
+        },
+        "ArianaZeqiri": {
+          "name": "Ariana Zeqiri, (LL.B.)",
+          "position": "Associate"
+        },
+        "MajaBogosavljevic": {
+          "name": "Maja Bogosavljevic",
+          "position": "Assistant (Maternity Leave)"
+        },
+        "VesnaJokic": {
+          "name": "Vesna Jokic",
+          "position": "Assistant"
+        }
+      }
+    },
+    "CareerArticle": {
+      "subtitle": "Careers",
+      "title": "Join Our Team",
+      "description": "Our passionate team strives for innovation, quality, and customer satisfaction to exceed your expectations and build long-term partnerships.",
+      "buttonLinkOne": "Careers",
+      "buttonLinkTwo": "Apply Now!"
+    },
+    "ValuesArticle": {
+      "subtitle": "Our Company Values",
+      "title": "Foundation for Your Success",
+      "description": "Our company values form the solid foundation on which we build our work at Simplify Tax and provide our clients with top-notch services.",
+      "Values": {
+        "ValueOne": {
+          "title": "Trust and Integrity",
+          "description": "We build on trust and integrity in everything we do. The confidentiality of our clients' information is our top priority, and we always adhere to the highest ethical standards."
+        },
+        "ValueTwo": {
+          "title": "Professional Excellence",
+          "description": "We strive for professional excellence in all areas of our services. Through continuous education and development, we ensure high-quality consulting and solutions for our clients."
+        },
+        "ValueThree": {
+          "title": "Customer Focus",
+          "description": "The needs of our clients are at the heart of our work. We listen attentively, understand their challenges, and offer tailored solutions that meet their individual requirements."
+        },
+        "ValueFour": {
+          "title": "Innovation and Progress",
+          "description": "We are pioneers in applying innovative technologies and concepts to always offer our clients the most effective solutions. Through continuous innovation, we remain flexible and adaptable in a constantly changing business world."
+        },
+        "ValueFive": {
+          "title": "Teamwork and Collaboration",
+          "description": "We believe in the strength of teamwork and foster a culture of collaboration and mutual respect. By exchanging knowledge and experiences, we work together to achieve the best results for our clients."
+        },
+        "ValueSix": {
+          "title": "Commitment to Success",
+          "description": "We are passionate and committed to the success of our clients. Our goal is to build long-term partnerships and help our clients achieve their goals and successfully lead their businesses."
+        }
+      }
+    }
+  },
+  "CareerPage": {
+    "HeroArticle": {
+      "subtitle": "Career",
+      "title": "Discover Your Opportunities!",
+      "description": "Join our team and shape your future in tax consulting with us."
+    },
+    "JobAdvertismentArticle": {
+      "subtitle": "Open Positions"
+    },
+    "SimplifyTaxFeaturesArticle": {
+      "subtitle": "Why Simplify Tax",
+      "title": "Why Choose Tax Consulting at Simplify Tax?",
+      "description": "All of this makes working at Simplify Tax Consulting an exciting and diverse job.",
+      "Feature1": {
+        "title": "Our Impact on Various Stakeholders",
+        "description": "As a tax consultant at Simplify Tax, you bear immense responsibility, as your work is crucial for various stakeholders. You are an indispensable interface between businesses and governmental institutions, and your work significantly contributes to maintaining financial stability and legal compliance."
+      },
+      "Feature2": {
+        "title": "Reliability and Professional Expertise",
+        "description": "At Simplify Tax, we adhere to the highest professional standards and continuous education to provide our clients with reliable and competent advice. As part of our team, you can trust that your professional expertise will be valued and supported."
+      },
+      "Feature3": {
+        "title": "Insights into Diverse Companies",
+        "description": "With the diversity of our clients, Simplify Tax offers you the opportunity to gain insights into various industries and company structures. This allows you to continuously expand your expertise and develop professionally."
+      },
+      "Feature4": {
+        "title": "Training and Career Opportunities",
+        "description": "At Simplify Tax, we value the development of our employees. We offer a variety of training and career opportunities to fully utilize your potential and achieve your career goals."
+      },
+      "Feature5": {
+        "title": "Crisis-Resilient Industry",
+        "description": "The tax consulting industry is inherently crisis-resistant, as businesses and individuals rely on competent tax advice even in economically challenging times. As part of our team at Simplify Tax, you can build a stable and future-proof career."
+      },
+      "Feature6": {
+        "title": "Intersection of Law and Business Administration",
+        "description": "As a tax consultant at Simplify Tax, you operate at an exciting intersection of law and business administration. You combine profound tax expertise with business analysis to offer holistic solutions to our clients."
+      },
+      "Feature7": {
+        "title": "Personal Client Contact from the Start",
+        "description": "At Simplify Tax, we emphasize personal contact and close collaboration with our clients. From the beginning of your career, you will have the opportunity to directly interact with our clients and support them in their tax matters."
+      }
+    },
+    "CTAArticle": {
+      "subtitle": "Your Career Starts Here",
+      "title": "Take the Next Step",
+      "description": "Discover exciting career paths at Simplify Tax and shape the future with us. We look forward to receiving your application.",
+      "buttonOutline": "Contact",
+      "buttonPrimary": "Apply Now"
+    }
+  },
+  "SimplifyArtPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Art",
+      "title": "Between the Worlds of Finance and Creativity",
+      "description": "We are pleased to present the works of the highly esteemed artist Antje Liemann in our premises."
+    },
+    "SectionOne": {
+      "subtitle": "Art and Capital",
+      "title": "A Symbiosis",
+      "description": "Our commitment to art and creativity extends far beyond numbers. We firmly believe that art can bridge gaps – between the worlds of finance and creativity, between our everyday work and the bigger questions of our time. That's why we are proud to showcase the impressive works of an exceptional artist."
+    },
+    "SectionTwo": {
+      "subtitle": "Creativity Meets Calculation",
+      "title": "The Works of Antje Liemann",
+      "description": "Antje Liemann explores the human dimension in space and time. She combines vintage pieces of industrial mass production with millions of years old natural materials to question the fragility of humanity and our existence. Through presenting these artworks, we aim to create a space where our clients and visitors can be inspired and foster dialogue between disciplines."
+    }
+  },
+  "LexiconPage": {
+    "HeroArticle": {
+      "subtitle": "Lexicon",
+      "title": "Glossary of Tax Advisory Terms",
+      "description": "Explore the key terms of tax advisory explained clearly – for clear and informed communication in tax matters."
+    }
+  },
+  "BlogPage": {
+    "HeroArticle": {
+      "subtitle": "Блог",
+      "title": "Новости финансов и налогов",
+      "description": "Будьте в курсе текущих событий, советов и рекомендаций в нашем блоге по налоговому консалтингу и финансам."
+    }
+  },
+  "BlogCategoriesPage": {
+    "HeroArticle": {
+      "subtitle": "Blog",
+      "title": "Categories",
+      "description": "Use the filters to find specific articles and topics that interest you. Choose from categories such as tax planning, corporate finance, legal changes, and more."
+    }
+  },
+  "BlogSlugPage": {
+    "HeroArticle": {
+      "subtitle": "Blog",
+      "description": "Stay informed about the latest developments and best practices in tax consultancy and finance. Our articles provide practical tips and insightful analyses."
+    }
+  },
+  "ImprintPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Tax",
+      "title": "Imprint",
+      "description": "Disclosures according to § 25 Media Act, § 14 Commercial Code, and § 5 E-Commerce Act. This section contains legal information about this website, including responsibilities and contact details. We value transparency and are available for any inquiries."
+    },
+    "CompanyOwner": {
+      "title": "Media Owner",
+      "CompanyName": "Simplify Tax Steuerberatung GmbH",
+      "Street": "Mommsengasse 33 Top 2+5",
+      "ZIPCode": "AT-1040 Vienna"
+    },
+    "ContactInformation": {
+      "title": "Contact Information",
+      "Landline": {
+        "title": "Phone:",
+        "description": "+43 1 925 86 48"
+      },
+      "Mobile": {
+        "title": "Mobile:",
+        "description": "+43 664 991 154 12"
+      },
+      "Email": {
+        "title": "Email:",
+        "description": "office@simplifytax.at"
+      }
+    },
+    "CompanyDirector": {
+      "title": "Managing Director",
+      "description": "Mag. Dimitar Zlatev"
+    },
+    "CompanyHeadquarters": {
+      "title": "Registered Office",
+      "description": "Vienna"
+    },
+    "CompanyRegistrationNumber": {
+      "title": "Commercial Register Number",
+      "description": "FN 503466 t"
+    },
+    "VATNumber": {
+      "title": "VAT Number",
+      "description": "ATU 738 53 617"
+    },
+    "Chamber": {
+      "title": "Chamber Membership and Regulatory Authority",
+      "description": "Member of the Chamber of Tax Consultants and Auditors (KSW)"
+    },
+    "CorporatePurpose": {
+      "title": "Corporate Purpose",
+      "description": "Tax consultancy and advisory services in business matters"
+    },
+    "DevelopedBy": {
+      "title": "Concept, Web Design and Implementation",
+      "description": "AngelStone Media GmbH"
+    },
+    "Liability": {
+      "title": "Liability",
+      "description": "The content of the homepage www.simplifytax.at has been researched with the utmost care and is regularly checked for completeness and correctness. However, we cannot guarantee the full functionality and accuracy. All information is provided without guarantee. Liability for damages resulting from the use of content or services published on www.simplifytax.at is excluded."
+    }
+  },
+  "Services": {
+    "FinancialAccounting": {
+      "title": "Financial Accounting",
+      "description": "Recording and processing of all business transactions. This includes preparation of general ledgers, accounts receivable and accounts payable accounting, as well as account reconciliation."
+    },
+    "PayrollAccounting": {
+      "title": "Payroll Accounting",
+      "description": "Management of payroll accounting, social security contributions, and wage tax declarations. This also includes support for labor law matters."
+    },
+    "AnnualFinancialStatementsAndAccounting": {
+      "title": "Annual Financial Statements and Accounting",
+      "description": "Preparation of annual financial statements, profit and loss statements, and balance sheets for sole proprietors, partnerships, and corporations."
+    },
+    "TaxReturns": {
+      "title": "Tax Returns",
+      "description": "Preparation and submission of various tax returns for businesses and individuals, including income tax, corporate tax, and VAT returns."
+    },
+    "AdviceOnTaxMatters": {
+      "title": "Advice on Tax Matters",
+      "description": "Consultation on various tax law topics, such as tax optimization, tax planning and structuring, as well as assistance with tax audits."
+    },
+    "BusinessAdvice": {
+      "title": "Business Advisory",
+      "description": "Support in financial planning, budgeting, investment planning, and other business decisions."
+    },
+    "SuccessionPlanningAndBusinessValuation": {
+      "title": "Succession Planning and Business Valuation",
+      "description": "Consultation regarding business succession, business valuation, as well as support for mergers and acquisitions."
+    },
+    "TaxAdviceOnInternationalMatters": {
+      "title": "Tax Advice on International Matters",
+      "description": "Assistance with tax issues related to international business activities, including double taxation agreements and cross-border tax planning."
+    },
+    "AdviceInFinancialCriminalLaw": {
+      "title": "Advice and Support in Financial Criminal Law Matters",
+      "description": "Financial criminal law is a subset of economic criminal law dealing with legal frameworks for sanctioning violations of tax obligations."
+    }
+  },
+  "FinancialAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Financial Accounting",
+      "description": "Recording and processing of all business transactions, including preparation of general ledgers, accounts receivable and accounts payable accounting, as well as account reconciliation."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Efficiency, Transparency, and Strategic Decision-Making",
+      "Advantage1": {
+        "title": "Financial Overview",
+        "description": "Clarity on income and expenses for better management."
+      },
+      "Advantage2": {
+        "title": "Performance Analysis",
+        "description": "Evaluation of business performance for strategic improvements."
+      },
+      "Advantage3": {
+        "title": "Decision-Making",
+        "description": "Making informed decisions based on reliable financial data."
+      },
+      "Advantage4": {
+        "title": "Budgeting and Forecasting",
+        "description": "Planning and predicting future financial activities for optimal resource management."
+      },
+      "Advantage5": {
+        "title": "Transparency to Stakeholders",
+        "description": "Building trust through open presentation of financial situation to investors and partners."
+      },
+      "Advantage6": {
+        "title": "Compliance with Legal Regulations",
+        "description": "Avoiding penalties through accurate accounting in accordance with legal guidelines."
+      },
+      "Advantage7": {
+        "title": "Efficiency Improvement",
+        "description": "Process automation reduces effort and costs."
+      },
+      "Advantage8": {
+        "title": "Risk Management",
+        "description": "Early detection and minimization of financial risks."
+      },
+      "Advantage9": {
+        "title": "Tax Planning",
+        "description": "Optimizing tax strategy to maximize savings and comply with regulations."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQs",
+      "title": "Financial Accounting",
+      "description": "Find answers to frequently asked questions here. For more specific inquiries or consultation needs, feel free to contact us.",
+      "Question1": {
+        "question": "What accounting software does Simplify Tax Steuerberatung use?",
+        "answer": "Since the beginning of our operations, we have been using BMD NTCS. This software offers extensive functionality and a modular structure. It is a cloud-based solution that is highly automated and offers interface integration."
+      },
+      "Question2": {
+        "question": "What are the costs of accounting services at Simplify Tax Steuerberatung?",
+        "answer": "We calculate the fee for accounting services based on the number of incoming invoices, outgoing invoices, number of bank accounts and other payment accounts. We also calculate time for correspondence with clients and posting of tax accounts. We are happy to create an individual offer tailored to your company."
+      },
+      "Question3": {
+        "question": "How complicated is changing the tax consultant regarding my accounting?",
+        "answer": "In principle, changing the tax consultant is not a complicated matter. However, the change should be well prepared. Before a change is made, we recommend having a clarifying discussion with the current tax advisor, where any discrepancies can be clarified and cooperation can be restored. If this is no longer possible, please note the following points:<ul><li>Check the contractual commitment: are notice periods to be observed? If you want to terminate, it is best to do so in writing and observe the contractual deadlines.</li><li>New tax advisor: does the new tax advisor have the necessary industry-specific knowledge? In a personal discussion, you can assess whether there is a good \"chemistry\" and whether the new tax advisor understands your needs.</li><li>Power of attorney: once you have chosen a new tax advisor, you must grant them power of attorney for representation before the tax office and other relevant authorities. Inform the current tax advisor about the termination of the mandate and power of attorney.</li><li>Exchange of information: collect all relevant documents from the previous tax advisor and submit them to the new tax advisor. The new tax advisor should inform you about the relevant documents.</li><li>Transfer and transmission of data: ideally, data can be exported from the system of the previous tax advisor and imported into the system of the new tax advisor.</li></ul>"
+      },
+      "Question4": {
+        "question": "When must the VAT be paid to the tax office?",
+        "answer": "The VAT liability must be transferred to the tax office on the 15th of the second following month after the end of the pre-registration period. Please note whether you must submit the VAT pre-registration monthly or quarterly.<ul><li>Example for monthly VAT pre-registration: the tax due for February is to be paid by 15 April.</li><li>Example for quarterly VAT pre-registration: the tax liability for the first quarter is to be paid by 15 May.</li></ul>We expressly point out that these are general information, which are not considered complete and not viewed as advice. In any case, we recommend contacting a tax advisor on this issue."
+      }
+    }
+  },
+  "PayrollAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Payroll Accounting",
+      "description": "Management of payroll processing, social security contributions, and wage tax declarations. This includes support for labor law questions."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Compliance, Data Protection, and Expertise",
+      "Advantage1": {
+        "title": "Compliance with Legal Requirements",
+        "description": "Ensures compliance with current tax and labor laws."
+      },
+      "Advantage2": {
+        "title": "Data Protection and Security",
+        "description": "Protection of sensitive data through modern security technologies."
+      },
+      "Advantage3": {
+        "title": "Access to Expertise",
+        "description": "Benefit from the expertise of experienced payroll accountants."
+      },
+      "Advantage4": {
+        "title": "Improved Employee Satisfaction",
+        "description": "Timely and accurate payroll processing enhances employee well-being."
+      },
+      "Advantage5": {
+        "title": "Detailed Reports and Analysis",
+        "description": "Gain insights for optimizing personnel costs."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQs",
+      "title": "Payroll Accounting",
+      "description": "Find answers to frequently asked questions here. For more specific inquiries or consultation needs, feel free to contact us.",
+      "Question1": {
+        "question": "By when must wage tax, local tax, fringe benefits, and social security contributions be paid?",
+        "answer": "<ul><li>Wage tax: by the 15th of the following month</li><li>Fringe benefits (DB, DZ): by the 15th of the following month</li><li>Local tax: by the 15th of the following month</li><li>Social security contributions: by the 15th of the following month</li><li>We explicitly point out that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question2": {
+        "question": "By when must the annual wage statement be submitted?",
+        "answer": "<ul><li>The annual wage statement must be submitted to the tax authorities by the end of February of the following year. This is typically handled by the payroll accounting firm.</li><li>We explicitly point out that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question3": {
+        "question": "What is a GPLB?",
+        "answer": "<ul><li>GPLB stands for 'Gemeinsame Prüfung der Lohnabgaben und Beiträge' (Joint examination of wage taxes and contributions). During this process, the authorities examine wage tax, employer contributions to the Family Burden Equalization Fund, supplement to employer contributions, local tax, and social security contributions. They particularly review payroll records, work time records, employment contracts, travel cost documents, and payment receipts.</li><li>We explicitly point out that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question4": {
+        "question": "When is the best time to change payroll accounting providers?",
+        "answer": "Generally, the least effort is involved when changing providers at the end of the respective year. This is not a legal requirement. Changing providers during the year is possible at any time. However, we recommend contacting your current firm before changing providers to resolve any possible discrepancies."
+      }
+    }
+  },
+  "AnnualFinancialStatementsAndAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Annual Financial Statements and Accounting",
+      "description": "Preparation of annual financial statements, income statements, and balance sheets for sole proprietorships, partnerships, and corporations."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Transparency, Compliance, and Strategic Planning",
+      "Advantage1": {
+        "title": "Legal Compliance",
+        "description": "Ensures compliance with legal requirements."
+      },
+      "Advantage2": {
+        "title": "Financial Transparency",
+        "description": "Provides a clear overview of the company's financial position."
+      },
+      "Advantage3": {
+        "title": "Decision Support for Management",
+        "description": "Provides valuable data for strategic decision-making."
+      },
+      "Advantage4": {
+        "title": "Benchmarking and Performance Monitoring",
+        "description": "Enables comparison with industry standards and performance monitoring."
+      },
+      "Advantage5": {
+        "title": "Support for Loan Applications",
+        "description": "Improves chances of loan approvals from banks."
+      },
+      "Advantage6": {
+        "title": "Strategic Planning and Forecasts",
+        "description": "Foundation for future planning and growth forecasts."
+      },
+      "Advantage7": {
+        "title": "Enhanced Risk Management",
+        "description": "Helps identify and manage financial risks more effectively."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQs",
+      "title": "Annual Financial Statements and Accounting",
+      "description": "Find answers to frequently asked questions here. For more specific inquiries or consultation needs, feel free to contact us.",
+      "Question1": {
+        "question": "By when must the annual financial statements be submitted to the Commercial Register ('Firmenbuch')?",
+        "answer": "<ul><li>The annual financial statements must be submitted (disclosed) to the Commercial Register no later than 9 months after the balance sheet date.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question2": {
+        "question": "Who is required to disclose the annual financial statements to the Commercial Register ('Firmenbuch')?",
+        "answer": "<ul><li>The obligation to disclose lies with corporations (e.g., GmbH or AG).</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li><ul>"
+      },
+      "Question3": {
+        "question": "What are the consequences if the annual financial statements are submitted late to the Commercial Register ('Firmenbuch')?",
+        "answer": "<ul><li>If the annual financial statements are disclosed late, penalties of at least EUR 350.00 apply to micro-enterprises and EUR 700.00 to all other corporations. These penalties apply per managing director and additionally for the company.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question4": {
+        "question": "Must the annual financial statements also be submitted to the tax authorities?",
+        "answer": "<ul><li>Yes, the annual financial statements must be submitted to the tax authorities. This is done through electronic balance sheets ('E-Bilanz'). Submitting tax returns alone is not sufficient.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      }
+    }
+  },
+  "TaxReturnsPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Tax Returns",
+      "description": "Preparation and submission of various tax returns for businesses and individuals, including income tax, corporate tax, and VAT returns."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Compliance, Tax Savings, and Error Prevention",
+      "Advantage1": {
+        "title": "Compliance with Legal Requirements",
+        "description": "Avoid fines through compliance with tax laws."
+      },
+      "Advantage2": {
+        "title": "Tax Savings and Optimization",
+        "description": "Reduce tax burden through strategic planning."
+      },
+      "Advantage3": {
+        "title": "Error Avoidance",
+        "description": "Minimize the risk of costly errors."
+      },
+      "Advantage4": {
+        "title": "Improved Financial Planning and Management",
+        "description": "Facilitate more precise budgeting."
+      },
+      "Advantage5": {
+        "title": "Transparency and Credibility",
+        "description": "Enhance trust with partners and investors."
+      },
+      "Advantage6": {
+        "title": "Support for Financings and Loan Applications",
+        "description": "Enhance creditworthiness with banks."
+      },
+      "Advantage7": {
+        "title": "Updates on Changes in Tax Law",
+        "description": "Keep your business up to date with the latest tax regulations."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQs",
+      "title": "Tax Returns",
+      "description": "Find answers to frequently asked questions here. For more specific inquiries or consultation needs, feel free to contact us.",
+      "Question1": {
+        "question": "By when must the tax return be submitted to the tax authorities?",
+        "answer": "<ul><li>Annual tax returns must be submitted in paper form by April 30 of the following year. Through FinanzOnline, submissions can be made until June 30 of the following year. This deadline is extended when represented by a tax advisor.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question2": {
+        "question": "What happens if the deadline for submitting tax returns is missed?",
+        "answer": "<ul><li>We recommend completing the tax return as soon as possible. In cases of tax underpayment, it may be advisable to make a voluntary disclosure. A successful voluntary disclosure can help avoid penalties under the tax penal code. However, the tax must still be paid, and additional interest and surcharges may apply.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      },
+      "Question3": {
+        "question": "What happens if I have reported too low income or revenues in my tax return?",
+        "answer": "<ul><li>You have the option to make a voluntary disclosure. A voluntary disclosure can prevent financial criminal consequences, provided that the conditions for an effective voluntary disclosure are met. We are here to support you with this process.</li><li>We explicitly state that this information is general and not exhaustive. It should not be considered as advice. We recommend contacting a tax advisor on this matter.</li></ul>"
+      }
+    }
+  },
+  "AdviceOnTaxMattersPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Advice on Tax Matters",
+      "description": "Consulting on various tax law issues, such as tax optimization, tax planning and structuring, as well as support during tax audits."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Focus",
+      "title": "Advantages of Our Tax Advice for Businesses",
+      "Advantage1": {
+        "title": "Tax Savings and Optimization",
+        "description": "Reduction of the tax burden through strategic planning and use of all legal options."
+      },
+      "Advantage2": {
+        "title": "Avoidance of Tax Penalties",
+        "description": "Prevents costly mistakes and penalties through compliance with current tax regulations."
+      },
+      "Advantage3": {
+        "title": "Support in Complex Transactions",
+        "description": "Expertise in mergers, acquisitions, and other tax-relevant transactions."
+      },
+      "Advantage4": {
+        "title": "Up-to-date Information on Tax Laws and Regulations",
+        "description": "Ensures the use of current tax benefits through continuous legal monitoring."
+      },
+      "Advantage5": {
+        "title": "Risk Management",
+        "description": "Identification and minimization of tax risks to secure the future of the company."
+      },
+      "Advantage6": {
+        "title": "Advice on International Tax Law",
+        "description": "Optimization of the tax burden for cross-border activities and structures."
+      },
+      "Advantage7": {
+        "title": "Individualized Solutions",
+        "description": "Tailor-made tax strategies adapted to the specific needs of the company."
+      },
+      "Advantage8": {
+        "title": "Trusting Relationship and Ongoing Support",
+        "description": "Building a long-term partnership for continuous tax optimization."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQ",
+      "title": "Advice on Tax Matters",
+      "description": "Here you will find answers to the most frequently asked questions. For further individual questions or advisory needs, we are happy to assist you.",
+      "Question1": {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit et dolore magna aliqua.",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "Question2": {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit et dolore magna aliqua.",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "Question3": {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit et dolore magna aliqua.",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "Question4": {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit et dolore magna aliqua.",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    }
+  },
+  "BusinessAdvicePage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Business Advisory Services",
+      "description": "Support in financial planning, budgeting, investment planning, and other business decisions."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Efficiency, Strategy, and Sustainability",
+      "Advantage1": {
+        "title": "Organizational Development",
+        "description": "Optimization of internal processes and structures to increase operational efficiency."
+      },
+      "Advantage2": {
+        "title": "Personnel Management",
+        "description": "Strategies for personnel development, motivation, and performance enhancement for a strong team."
+      },
+      "Advantage3": {
+        "title": "Long-Term Planning and Sustainability",
+        "description": "Promotion of growth and future viability through sustainable business strategies."
+      },
+      "Advantage4": {
+        "title": "Strategic Decision Making",
+        "description": "Support in the development and implementation of effective strategies."
+      },
+      "Advantage5": {
+        "title": "Efficiency Improvement",
+        "description": "Identification and minimization of inefficiencies to reduce costs and increase productivity."
+      },
+      "Advantage6": {
+        "title": "Financial Analysis and Management",
+        "description": "Detailed financial analysis for better budget control and financial decision-making."
+      },
+      "Advantage7": {
+        "title": "Risk Management",
+        "description": "Identification and minimization of potential risks to ensure business stability."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    }
+  },
+  "SuccessionPlanningAndBusinessValuationPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Succession Planning and Business Valuation",
+      "description": "Consultation regarding succession planning, business valuation, and support in business sales and acquisitions."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Continuity, Value Enhancement, and Risk Management",
+      "Advantage1": {
+        "title": "Ensuring Business Continuity",
+        "description": "Ensures a smooth transition and secures the continuity of the business."
+      },
+      "Advantage2": {
+        "title": "Maximizing Business Value",
+        "description": "Identifies and enhances value drivers, optimizing financial performance before a sale."
+      },
+      "Advantage3": {
+        "title": "Conflict Avoidance",
+        "description": "Clear succession plans minimize risks of disputes among stakeholders or family members."
+      },
+      "Advantage4": {
+        "title": "Adaptation to Personal Goals and Circumstances",
+        "description": "Allows for individual solutions aligned with personal and business objectives."
+      },
+      "Advantage5": {
+        "title": "Risk Management",
+        "description": "Early identification and minimization of risks that could threaten the company's value and stability."
+      },
+      "Advantage6": {
+        "title": "Attraction for Investors and Lenders",
+        "description": "Solid valuation and succession planning increase trust and investment readiness."
+      },
+      "Advantage7": {
+        "title": "Preparation for Unexpected Events",
+        "description": "Provides a Plan B for sudden changes such as the loss of key personnel."
+      },
+      "Advantage8": {
+        "title": "Preservation of Legacy and Corporate Culture",
+        "description": "Safeguards the values and traditions of the company for future generations."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    }
+  },
+  "TaxAdviceOnInternationalMattersPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Tax Advice on International Matters",
+      "description": "Support on tax issues related to international business activities, including double taxation treaties and cross-border tax planning."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Double Taxation, Compliance, and Structuring",
+      "Advantage1": {
+        "title": "Consultation on Double Taxation Treaties",
+        "description": "Comprehensive advice on utilizing double taxation treaties to minimize tax burdens for internationally operating companies and individuals."
+      },
+      "Advantage2": {
+        "title": "Structuring International Business Activities",
+        "description": "Optimizing corporate structure to enhance efficiency and minimize risks in international business operations."
+      },
+      "Advantage3": {
+        "title": "Consultation on Cross-Border M&A Transactions",
+        "description": "Specialized support for tax optimization and compliance in cross-border mergers, acquisitions, and restructurings."
+      },
+      "Advantage4": {
+        "title": "Compliance and Reporting",
+        "description": "Ensuring compliance with international tax regulations and assisting in the preparation and submission of necessary documents and reports."
+      },
+      "Advantage5": {
+        "title": "VAT Consultation",
+        "description": "Advising on VAT issues in an international context, including registration and compliance in various jurisdictions."
+      },
+      "Advantage6": {
+        "title": "Consultation on Foreign Investments",
+        "description": "Strategic advice on tax-efficient structuring and planning of investments abroad."
+      },
+      "Advantage7": {
+        "title": "Tax Planning for Expatriates",
+        "description": "Individual tax planning and compliance services for expatriates, including advice on tax residency issues and avoidance of double taxation."
+      },
+      "Advantage8": {
+        "title": "Consultation on Digital Taxes",
+        "description": "Proactive advice and adaptation strategies for companies affected by or looking to leverage digital tax laws and regulations."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    }
+  },
+  "AdviceInFinancialCriminalLawPage": {
+    "HeroArticle": {
+      "subtitle": "Services",
+      "title": "Consultation & Support in Financial Criminal Law Matters",
+      "description": "Financial criminal law is a subfield of economic criminal law dealing with the legal framework for sanctioning violations of tax obligations."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Legal Protection, Avoidance of Penalties, and Efficient Procedure Management",
+      "Advantage1": {
+        "title": "Dialogue on Equal Footing with Authorities",
+        "description": "Promotion of an open dialogue and understanding of complex tax law issues, leading to more transparent and efficient communication."
+      },
+      "Advantage2": {
+        "title": "Protection of Taxpayer Rights",
+        "description": "Ensuring compliance with the statutory rights afforded to taxpayers or accused individuals."
+      },
+      "Advantage3": {
+        "title": "Avoidance of Penalties",
+        "description": "Possible avoidance of financial criminal law consequences by presenting legally provided grounds for exemption from guilt and punishment (e.g., voluntary disclosures, statute of limitations, incapacity, etc.)."
+      },
+      "Advantage4": {
+        "title": "Ensuring a Fair and Swift Procedure",
+        "description": "Facilitating a quick and fair resolution of issues to minimize inconvenience and financial burdens."
+      },
+      "Advantage5": {
+        "title": "Cooperation and Informal Discussions with Authorities",
+        "description": "Building a trusting relationship with financial authorities to support constructive problem-solving in contentious cases."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partners",
+      "title": "Integrations for Efficient Workflow Management",
+      "description": "Seamless connections for efficient collaboration - our integrated solutions optimize your business processes."
+    }
+  },
+  "CoreCompetences": {
+    "ECommerce": {
+      "title": "E-Commerce",
+      "description": "We optimize tax structures, provide VAT advice for cross-border trade, and assist in the tax structuring of digital business models."
+    },
+    "StartUps": {
+      "title": "Start-Ups",
+      "description": "We offer founding advice including legal form selection, provide ongoing tax support for the development and scaling of start-ups, and assist with subsidies and tax incentives."
+    },
+    "RealEstate": {
+      "title": "Real Estate",
+      "description": "Our expertise includes tax optimization of investments, advice on buying and selling real estate, and the creation of tax-efficient concepts for real estate portfolios."
+    },
+    "Doctors": {
+      "title": "Doctors",
+      "description": "We offer extensive expertise in the everyday tax matters of medical practices, as well as other incidental sources of income."
+    },
+    "Pharmacies": {
+      "title": "Pharmacies",
+      "description": "We support with our tax expertise regarding the purchase and sale of medicines and products, diagnostic activities, and more."
+    },
+    "HotelsGastronomy": {
+      "title": "Hotels and Gastronomy",
+      "description": "We offer tailor-made solutions for your hotel and gastronomy business so you can focus on your guests."
+    },
+    "ClassicTaxAdvice": {
+      "title": "Classic Tax Advice",
+      "description": "We provide comprehensive and complete tax advice to individuals and entrepreneurs on all tax matters."
+    },
+    "ChoiceOfLegalFormRestructuring": {
+      "title": "Choice of Legal Form and Restructuring",
+      "description": "Choosing the right legal form and restructuring at the right time are crucial for the success of your company."
+    },
+    "ContentCreatorInfluencerESports": {
+      "title": "Content Creators, Influencers, and E-Sports",
+      "description": "We support content creators and e-sports athletes in accurately capturing their diverse sources of income."
+    }
+  },
+  "ECommercePage": {
+    "HeroArticle": {
+      "subtitle": "Core Area",
+      "title": "E-Commerce",
+      "description": "Successfully navigate the digital market by offering innovative solutions for your trading needs."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Advice",
+      "title": "Digital Commerce Solutions",
+      "description": "Optimize your e-commerce strategy with tailored digital solutions and comprehensive tax advice.",
+      "moreLink": "Read More",
+      "Block1": {
+        "title": "Automation and Digitalization",
+        "description": "Automation and digitalization of accounting bring numerous benefits, improving both the efficiency and accuracy of financial processes."
+      },
+      "Block2": {
+        "title": "Interfaces",
+        "description": "The use of interfaces in accounting, often seen in the context of software integrations, offers numerous advantages. These interfaces enable communication between different accounting systems and other business applications, leading to more efficient and error-free data management."
+      },
+      "Block3": {
+        "title": "Automated Invoicing to Customers",
+        "description": "Automated invoicing offers many benefits that can be useful for both small and large companies."
+      },
+      "Block4": {
+        "title": "Digital Sales Channels",
+        "description": "Digital sales channels offer companies a variety of advantages, particularly important in today's technologically interconnected world."
+      },
+      "Block5": {
+        "title": "Compliance with Legal Regulations",
+        "description": "Tax regulations for digital sales channels can be complex, varying by country and type of digital products or services sold. We assist you, together with partners inside and outside Austria, in complying with these regulations."
+      }
+    }
+  },
+  "ECommerceAutomatedInvoicingToCustomersPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Automated Invoicing to Customers",
+      "description": "If you already have an automated invoicing system in operation, we will show you the benefits you can derive from it. If you currently do not have an automated invoicing system, we will present alternatives to make your invoicing faster, more efficient, and cost-effective."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Why You Should Opt for Automation",
+      "description": "Automated invoicing offers many advantages that can be useful for both small and large companies.",
+      "Advantage1": {
+        "title": "Time Savings",
+        "description": "Automating the invoicing process saves significant time by minimizing manual tasks such as creating, sending, and tracking invoices."
+      },
+      "Advantage2": {
+        "title": "Reduction of Errors",
+        "description": "Automated systems reduce the risk of human errors that can occur during manual data transfer, thus increasing accuracy and reliability."
+      },
+      "Advantage3": {
+        "title": "Improved Cash Flows",
+        "description": "Faster invoicing leads to quicker receipt of payments. Automatic reminders and payment requests can also help ensure timely payments."
+      },
+      "Advantage4": {
+        "title": "Scalability",
+        "description": "Automation facilitates the scaling of business processes. Companies can more easily grow as systems can flexibly handle increasing invoice volumes without the need to hire additional personnel."
+      },
+      "Advantage5": {
+        "title": "Cost Reduction",
+        "description": "By reducing the need for manual labor, administrative costs associated with invoicing can also be lowered."
+      },
+      "Advantage6": {
+        "title": "Improved Customer Relationships",
+        "description": "A professional and consistent invoicing system enhances the customer experience. Clear and accurate invoices, together with timely deliveries, strengthen customer trust."
+      },
+      "Advantage7": {
+        "title": "Environmentally Friendly",
+        "description": "Reducing paper consumption through digital invoices contributes to environmental protection."
+      },
+      "Advantage8": {
+        "title": "Integration Capability",
+        "description": "Modern invoicing systems can often seamlessly integrate with other business systems such as accounting, CRM, and ERP, improving data consistency and workflow efficiency."
+      },
+      "Advantage9": {
+        "title": "Improved Data Security",
+        "description": "Automated systems often offer advanced security measures to protect sensitive financial data."
+      },
+      "Advantage10": {
+        "title": "Detailed Reporting",
+        "description": "Automated systems can generate extensive analyses and reports that provide insights into sales trends, customer behavior, and other key business metrics."
+      }
+    }
+  },
+  "ECommerceAutomationAndDigitalisationPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Automation and Digitalization",
+      "description": "Automation and digitalization of accounting bring numerous benefits that improve both the efficiency and accuracy of financial processes."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "The Future of E-Commerce",
+      "description": "How modern technologies are revolutionizing e-commerce and increasing efficiency.",
+      "Advantage1": {
+        "title": "Time Savings",
+        "description": "By automating recurring tasks such as data entry and invoicing, accountants can save significant time. This allows them to focus on more complex and value-added activities."
+      },
+      "Advantage2": {
+        "title": "Cost Efficiency",
+        "description": "Automated systems reduce the need for manual labor, which can lead to lower personnel costs. Moreover, errors that could result in financial losses can be minimized."
+      },
+      "Advantage3": {
+        "title": "Improved Accuracy",
+        "description": "Automated accounting systems reduce the risk of human errors. The accuracy of financial data is increased, leading to more reliable financial reporting."
+      },
+      "Advantage4": {
+        "title": "Real-Time Information",
+        "description": "Digitalized systems provide access to real-time financial data. Decision-makers can react faster to changes and make more informed decisions."
+      },
+      "Advantage5": {
+        "title": "Enhanced Compliance",
+        "description": "Automation helps ensure that all accounting operations are conducted in accordance with applicable laws and regulations. Automatic updates ensure that systems are always up-to-date with regulatory requirements."
+      },
+      "Advantage6": {
+        "title": "Simplified Audits",
+        "description": "Digitalized records are easier to audit than manual accounting records. This simplifies the audit process and reduces the risk of compliance issues."
+      },
+      "Advantage7": {
+        "title": "Improved Data Analysis and Reporting",
+        "description": "With modern accounting tools, businesses can perform complex data analysis and create detailed reports. This contributes to better strategic planning and performance monitoring."
+      },
+      "Advantage8": {
+        "title": "Centralization of Financial Management",
+        "description": "Digital systems enable the centralization of financial processes, facilitating the management of multiple accounts and transactions, especially in larger companies or companies with multiple locations."
+      },
+      "Advantage9": {
+        "title": "Scalability",
+        "description": "Automated and digitalized accounting systems can be easily scaled to accommodate business growth without significantly increasing resources."
+      },
+      "Advantage10": {
+        "title": "Mobility and Flexibility",
+        "description": "Cloud-based accounting solutions enable access to financial data from any location and at any time, which is particularly advantageous for mobile workforce or remote work."
+      }
+    }
+  },
+  "ECommerceDigitalSalesChannelsPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Digital Sales Channels",
+      "description": "Digital sales channels offer businesses a variety of advantages, especially in today's technologically interconnected world. Here are some of the key benefits:"
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Focus",
+      "title": "Advantages",
+      "description": "We support you in expanding your business model and provide advice on dropshipping, Pan-EU, multichannel, and much more.",
+      "Advantage1": {
+        "title": "Extended Reach",
+        "description": "Digital channels allow businesses to reach customers across geographical and time boundaries. This opens access to global markets and enables businesses to reach a much broader customer base."
+      },
+      "Advantage2": {
+        "title": "Cost Efficiency",
+        "description": "Compared to traditional distribution channels, digital channels are often more cost-effective. For example, setting up and maintaining an online store can be less expensive than maintaining physical retail spaces."
+      },
+      "Advantage3": {
+        "title": "Data Analysis and Customer Insights",
+        "description": "Digital channels offer extensive opportunities for data collection and analysis. Businesses can better understand their customers' behaviors and preferences, using this knowledge to optimize their offerings and marketing strategies."
+      },
+      "Advantage4": {
+        "title": "Personalization",
+        "description": "Digital technologies enable high levels of personalization in customer experiences. Companies can offer personalized recommendations, offers, and content based on customer purchasing behavior and preferences, enhancing customer satisfaction and loyalty."
+      },
+      "Advantage5": {
+        "title": "Speed and Convenience",
+        "description": "Digital sales channels enable fast transactions and high convenience for customers. Online purchases can be made anytime, day or night, without customers needing to leave their homes."
+      },
+      "Advantage6": {
+        "title": "Flexibility and Scalability",
+        "description": "Digital sales channels are highly scalable. Companies can quickly and flexibly respond to market changes, introduce new products, or launch promotions without significant lead times or additional infrastructure."
+      },
+      "Advantage7": {
+        "title": "Direct Customer Contact and Feedback",
+        "description": "Digital channels facilitate direct dialogue with customers. Companies can receive real-time customer feedback and respond to it, contributing to product and service improvements."
+      },
+      "Advantage8": {
+        "title": "Integration with Other Digital Marketing Strategies",
+        "description": "Digital sales channels can seamlessly integrate with other marketing strategies such as social media marketing, email campaigns, and search engine optimization (SEO), enhancing the overall effectiveness of sales and marketing efforts."
+      },
+      "Advantage9": {
+        "title": "Enhanced Crisis Resilience",
+        "description": "Digital sales channels provide greater resilience against external shocks such as natural disasters or pandemics. Companies with strong digital presences can often continue operating even under challenging conditions."
+      },
+      "Advantage10": {
+        "title": "Promotion of Innovation",
+        "description": "The use of digital channels promotes business innovation by enabling new business models and service offerings that may not be feasible through traditional distribution channels."
+      }
+    }
+  },
+  "ECommerceComplianceWithLegalRegulationsPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Compliance with Legal Regulations",
+      "description": "Tax regulations for digital sales channels can be complex, varying by country and type of digital products or services sold. We assist you, along with partners within and outside Austria, in complying with these regulations."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Focus",
+      "title": "Advantages",
+      "description": "Here are some general aspects to consider from a tax perspective when using digital sales channels. These points underscore the need for careful planning and compliance to minimize tax risks and avoid legal issues across different markets. We support you and your company in achieving tax compliance.",
+      "Advantage1": {
+        "title": "Value Added Tax (VAT) or Sales Tax",
+        "description": "In many countries, digital products and services are subject to value added tax (VAT) or sales tax. Companies must charge and remit tax on the sale of digital products to end consumers, especially within the European Union where VAT is charged at the consumer's location, not the company's headquarters."
+      },
+      "Advantage2": {
+        "title": "Tax Liability in Various Jurisdictions",
+        "description": "Companies selling digital content or services internationally may need to pay taxes in multiple countries. This may require VAT registration in each country where customers reside."
+      },
+      "Advantage3": {
+        "title": "Tax Returns and Compliance",
+        "description": "Digital sales channels require accurate record keeping and regular tax filings. In some countries, companies must submit monthly or quarterly VAT returns. Non-compliance with these requirements can lead to penalties and interest charges."
+      },
+      "Advantage4": {
+        "title": "Compliance with Invoicing Regulations",
+        "description": "Digital invoices often need to include specific information such as tax numbers, exact tax rates, and other legally required details. In the EU, for example, electronic invoices must meet the same requirements as paper-based invoices."
+      },
+      "Advantage5": {
+        "title": "Double Taxation Treaties",
+        "description": "Companies should be aware of double taxation treaties between their home country and others to understand how income from abroad is taxed. These treaties help avoid double taxation."
+      },
+      "Advantage6": {
+        "title": "Digital Service Taxes",
+        "description": "Some countries have introduced specific taxes for companies providing digital services, such as the digital services tax in France or Italy. These taxes often target large multinational technology companies."
+      },
+      "Advantage7": {
+        "title": "Thresholds for Small Businesses",
+        "description": "In some regions, there are thresholds below which small businesses are exempt from VAT. It's important to know and monitor these thresholds, as exceeding them leads to tax obligations."
+      },
+      "Advantage8": {
+        "title": "Consultation by Professionals",
+        "description": "Due to the complexity and constantly changing nature of tax laws, seeking professional tax advice is advisable, especially when operating in multiple countries."
+      }
+    }
+  },
+  "ECommerceInterfacesPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Interfaces",
+      "description": "The use of interfaces in accounting, often seen in the context of software integrations, offers numerous benefits. These interfaces facilitate communication between different accounting systems and other business applications, leading to more efficient and error-free data management."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "How Interfaces Can Improve Your Accounting",
+      "description": "We offer a range of interfaces, such as for Amazon, Billbee, Shopify, and others.",
+      "Advantage1": {
+        "title": "Automated Data Exchange",
+        "description": "Interfaces enable seamless data transfer between different systems (e.g., between accounting software and ERP systems). This reduces the need for manual data entry and minimizes associated errors."
+      },
+      "Advantage2": {
+        "title": "Time Savings",
+        "description": "Automating data transfers through interfaces saves considerable time. Information no longer needs to be manually transferred from one system to another, reducing processing times."
+      },
+      "Advantage3": {
+        "title": "Improved Data Consistency and Quality",
+        "description": "Using interfaces ensures data consistency across various platforms. All systems have access to the same updated and accurate data, leading to more reliable business decisions."
+      },
+      "Advantage4": {
+        "title": "Increased Efficiency in Business Processes",
+        "description": "Interfaces allow accounting systems to seamlessly interact with other business processes. For example, sales data can automatically transfer from the CRM system to accounting, improving the efficiency of the entire sales and accounting process."
+      },
+      "Advantage5": {
+        "title": "Scalability",
+        "description": "Interfaces support the scalability of business processes. As a company grows, additional systems or modules can be easily integrated through interfaces without disrupting existing processes."
+      },
+      "Advantage6": {
+        "title": "Enhanced Reporting and Analysis",
+        "description": "Integrating different systems allows for comprehensive data collection that can be used for deeper analysis and more accurate reporting. This can provide critical insights that contribute to strategic planning and decision-making."
+      },
+      "Advantage7": {
+        "title": "Compliance with Regulatory Requirements",
+        "description": "Interfaces can help ensure that accounting processes comply with legal regulations and standards by ensuring that all relevant data is captured and reported correctly and promptly."
+      },
+      "Advantage8": {
+        "title": "Reduction of Operating Costs",
+        "description": "While setting up interfaces may require initial investment, the long-term efficiency gains and error reductions often lead to a reduction in operating costs."
+      },
+      "Advantage9": {
+        "title": "Flexibility and Adaptability",
+        "description": "Interfaces provide flexibility in adapting systems to specific business requirements. Companies can add specific functions or modules that best support their processes."
+      }
+    }
+  },
+  "StartUpsPage": {
+    "HeroArticle": {
+      "subtitle": "Core Area",
+      "title": "Start-Ups",
+      "description": "We are the anchor point for startups looking to expand horizons and forge new paths."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Advice",
+      "title": "Entrepreneurial Visions",
+      "description": "From inception to growth, we support startups at every step with tailored advice and strategic solutions.",
+      "moreLink": "More",
+      "Block1": {
+        "title": "Choice of Legal Form",
+        "description": "Choosing the right legal form for a business is a fundamental decision that has far-reaching implications for administration, taxation, liability, and the financial success of the company."
+      },
+      "Block2": {
+        "title": "Grants and Subsidies",
+        "description": "Grants can play a crucial role for businesses, organizations, and individuals by providing financial support and other benefits that contribute to project realization or achieving specific goals."
+      },
+      "Block3": {
+        "title": "International Investors",
+        "description": "When it comes to international investors and their tax obligations, a variety of complex issues can arise. The precise treatment depends on the countries involved, specific types of investments, and respective tax laws."
+      },
+      "Block4": {
+        "title": "Business Plan Creation",
+        "description": "A business plan is an essential tool for launching and managing a business. It serves not only as a guide for strategic planning but also as a communication tool for potential investors, partners, and employees."
+      },
+      "Block5": {
+        "title": "Growth Strategies",
+        "description": "Implementing targeted growth strategies offers businesses a variety of advantages that go beyond mere revenue increases."
+      },
+      "Block6": {
+        "title": "Liquidity Planning",
+        "description": "Liquidity planning is an essential part of a company's financial management and plays a crucial role in ensuring financial health and stability."
+      },
+      "Block7": {
+        "title": "Employee Participation",
+        "description": "Attracting talented employees and keeping them engaged for the long term while acting in a tax-efficient manner and keeping the company's profits in focus."
+      }
+    }
+  },
+  "StartUpsChoiceOfLegalFormPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Choice of Legal Form",
+      "description": "Choosing the right legal form depends on many factors, including the size of the company, the number of owners, the desired capital structure, and the risk tolerance of the parties involved. We provide reliable tax advice to ensure that the chosen form aligns with the long-term goals and requirements of the company."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Benefits",
+      "title": "Benefits of Strategic Choice of Legal Form",
+      "description": "Choosing the right legal form for a company is a fundamental decision that has far-reaching implications for administration, taxation, liability, and the financial success of the company. Here are some benefits that arise from careful selection of the appropriate legal form:",
+      "Advantage1": {
+        "title": "Limited Liability",
+        "description": "Certain legal forms such as GmbH (Gesellschaft mit beschränkter Haftung) or AG (Aktiengesellschaft) offer limited liability to their owners. This means that the personal assets of shareholders or stockholders are protected in case of debts or legal claims against the company."
+      },
+      "Advantage2": {
+        "title": "Tax Advantages",
+        "description": "Different legal forms are treated differently for tax purposes. For example, corporations like GmbH or AG may benefit from lower corporate tax rates, while partnerships like OHG (Offene Handelsgesellschaft) or KG (Kommanditgesellschaft) can utilize the advantage of pass-through taxation of the partners, which can lead to tax benefits depending on the individual tax situation of the partners."
+      },
+      "Advantage3": {
+        "title": "Flexibility in Corporate Governance",
+        "description": "Sole proprietorships and partnerships typically offer more flexibility in decision-making processes as they are less regulated compared to corporations. On the other hand, GmbH or AG have formal requirements such as director meetings and record-keeping, leading to a structured but less flexible corporate governance."
+      },
+      "Advantage4": {
+        "title": "Capital Procurement",
+        "description": "Corporations often have easier access to sources of capital such as venture capital or public stock markets. This can be crucial for company growth, especially when large investments or rapid expansion are planned."
+      },
+      "Advantage5": {
+        "title": "Professional Image",
+        "description": "Legal forms such as GmbH or AG can give a company a more professional image, which can build trust among business partners and customers. This can be particularly advantageous when securing large contracts or negotiating with other businesses."
+      },
+      "Advantage6": {
+        "title": "Succession Planning",
+        "description": "Some legal forms facilitate succession planning. For corporations, the transfer of shares is often easier and can occur without major legal difficulties, which is important for the long-term stability and continuity of the company."
+      },
+      "Advantage7": {
+        "title": "International Business Operations",
+        "description": "Certain legal forms may be better suited for companies aiming to operate internationally. Major legal forms like AG or GmbH are internationally recognized and can be helpful when expanding into new markets."
+      }
+    }
+  },
+  "StartUpsFundingPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Funding",
+      "description": "Grants are a powerful tool that can be strategically used to not only receive financial support but also to promote broader business and research goals. We assist you with financial planning and the tax considerations of grants."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Benefits",
+      "title": "Benefits of Grants",
+      "description": "Grants can play a crucial role for companies, organizations, and individuals by providing financial support and additional benefits that contribute to the realization of projects or the achievement of specific goals. Here are some benefits of grants:",
+      "Advantage1": {
+        "title": "Financial Relief",
+        "description": "Grants reduce the financial burden for recipients by providing necessary funds for executing projects or developing new products and services. This can be particularly important for startups, small and medium-sized enterprises (SMEs), or research projects that may otherwise struggle to raise sufficient capital."
+      },
+      "Advantage2": {
+        "title": "Risk Mitigation",
+        "description": "With financial support from grants, companies and researchers can tackle riskier, innovative projects that they might otherwise avoid without this support. This promotes innovation and technological advancement."
+      },
+      "Advantage3": {
+        "title": "Leverage for Additional Funding",
+        "description": "Grant funding can serve as leverage to secure additional financing. The presence of grant funding demonstrates to other potential investors that the project has already received some validation and support."
+      },
+      "Advantage4": {
+        "title": "Networking and Partnerships",
+        "description": "Many grant programs encourage networking among various stakeholders such as universities, research institutions, businesses, and governments. This can lead to forming partnerships that extend beyond the individual project."
+      },
+      "Advantage5": {
+        "title": "Enhanced Credibility and Visibility",
+        "description": "Funded projects often receive more attention in the media and professional circles, which can enhance the credibility and visibility of the recipient. This can be particularly beneficial when it comes to attracting customers or additional investors."
+      },
+      "Advantage6": {
+        "title": "Access to New Markets",
+        "description": "Grants can specifically support the development of products or services targeting new or underserved markets. This can help companies expand their reach and tap into new revenue streams."
+      },
+      "Advantage7": {
+        "title": "Technical Support",
+        "description": "In addition to financial support, many grant programs also provide access to technical and expert advice, which can help recipients achieve their goals more efficiently and effectively."
+      },
+      "Advantage8": {
+        "title": "Promotion of Sustainability and Social Responsibility",
+        "description": "Many grants aim to support projects that promote ecological sustainability, social justice, or economic inclusion. This allows organizations to make contributions that go beyond commercial success."
+      },
+      "Advantage9": {
+        "title": "Education and Skill Development",
+        "description": "Grant programs can also contribute to improving the knowledge and skills of employees by funding specialized training or workshops."
+      }
+    }
+  },
+  "StartUpsInternationalInvestorsPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "International Investors",
+      "description": "Due to the complexity of these issues, it is advisable for international investors to consult qualified tax advisors to ensure compliance with their tax obligations while optimizing their tax burden worldwide."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Benefits",
+      "title": "Benefits of International Investing",
+      "description": "When it comes to international investors and their tax obligations, a variety of complex issues can arise. The exact treatment depends on the countries involved, the specific types of investments, and the respective tax laws. Here are some key tax aspects that international investors should consider:",
+      "Advantage1": {
+        "title": "Withholding Tax",
+        "description": "Many countries impose withholding tax on income paid to non-resident investors, such as dividends, interest, and royalties. The withholding tax rate can vary and is often influenced by Double Taxation Agreements (DTAs) between countries."
+      },
+      "Advantage2": {
+        "title": "Double Taxation Agreements (DTAs)",
+        "description": "These agreements between two countries aim to avoid double taxation of income that could be earned in one country and taxed in another. DTAs typically determine which country has the right to tax certain incomes and how the credit for taxes paid abroad should be granted."
+      },
+      "Advantage3": {
+        "title": "Corporate Tax",
+        "description": "When an investor directly invests in a foreign company, they must consider the tax laws of the country where the company is based. This includes assessing corporate tax rates and any tax exemptions or reliefs."
+      },
+      "Advantage4": {
+        "title": "Taxation of Capital Gains",
+        "description": "International investors must also consider taxes on capital gains resulting from the sale of investments. Some countries may not tax capital gains of non-residents, while others may impose high tax rates."
+      },
+      "Advantage5": {
+        "title": "Information Exchange and Compliance",
+        "description": "Due to global initiatives such as the OECD's Common Reporting Standard (CRS), financial institutions are required to report information about account holders and certain financial accounts to the tax authorities of their country, which then automatically exchange this information with tax authorities in other countries."
+      },
+      "Advantage6": {
+        "title": "Tax Optimization and Planning",
+        "description": "International investors need to engage in effective tax planning to minimize their global tax burden. This may involve structuring investments through the use of holding companies in strategically chosen jurisdictions."
+      },
+      "Advantage7": {
+        "title": "Consideration of Tax Residence and Presence",
+        "description": "Determining tax residence and the resulting tax obligations can be complex, especially when investors operate in multiple countries or derive income from various sources."
+      },
+      "Advantage8": {
+        "title": "Value Added Tax",
+        "description": "Investments in certain services or products may also trigger VAT liability, depending on the specific tax laws of the country where the service is provided or the product is sold."
+      },
+      "Advantage9": {
+        "title": "Management of Tax Compliance",
+        "description": "International investors must ensure they fulfill their tax reporting obligations in all relevant jurisdictions, often requiring support from local tax advisors or international tax consulting services."
+      }
+    }
+  },
+  "StartUpsBusinessplanPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Creating a Business Plan",
+      "description": "A business plan is not just a document for internal use or capital acquisition, but a dynamic tool that helps to clarify, implement, and adjust the company's vision as it grows and develops. We assist you in creating the business plan and provide input from an entrepreneurial perspective."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "The Importance of a Business Plan",
+      "description": "A business plan is an essential instrument for establishing and managing a business. It serves not only as a guide for strategic planning but also as a communication tool for potential investors, partners, and employees. Here are some key advantages that a well-developed business plan offers:",
+      "Advantage1": {
+        "title": "Clarity and Direction",
+        "description": "A business plan defines the goals of a company, the strategies to achieve those goals, and the timelines. It provides clear guidance on how the company should operate, helping to maintain focus and direction."
+      },
+      "Advantage2": {
+        "title": "Assistance in Decision Making",
+        "description": "The plan helps entrepreneurs make informed decisions by providing important information such as market analysis, competitive landscape, target customers, marketing strategies, and financial forecasts."
+      },
+      "Advantage3": {
+        "title": "Attraction for Investors",
+        "description": "Investors look for companies with a clear plan and a solid strategy. A well-thought-out business plan shows potential investors that the company takes its goals seriously and has a realistic idea of how to achieve them."
+      },
+      "Advantage4": {
+        "title": "Resource Planning",
+        "description": "A business plan facilitates the efficient allocation of resources by detailing where and how capital, personnel, and other resources should be deployed to achieve maximum efficiency and profitability."
+      },
+      "Advantage5": {
+        "title": "Risk Management",
+        "description": "By identifying potential risks and developing plans to mitigate them, a business plan helps to anticipate pitfalls in advance and develop strategies to address them."
+      },
+      "Advantage6": {
+        "title": "Measurement of Progress",
+        "description": "A business plan sets benchmarks and performance indicators that enable entrepreneurs to measure the progress of their company and make adjustments as needed."
+      },
+      "Advantage7": {
+        "title": "Communication Tool",
+        "description": "The plan serves as an effective communication tool for the company's goals, strategies, and finances to employees, partners, and other stakeholders."
+      },
+      "Advantage8": {
+        "title": "Support in Financial Planning",
+        "description": "A detailed financial section in the business plan, covering revenue, expenses, cash flow, and forecasts, is crucial for daily financial management and long-term financial strategies."
+      },
+      "Advantage9": {
+        "title": "Assistance in Applying for Grants or Loans",
+        "description": "Many banks and funding institutions require a detailed business plan as part of the application process. A compelling plan can increase the chances of securing financial support."
+      },
+      "Advantage10": {
+        "title": "Facilitation of Licensing and Approval",
+        "description": "In certain industries, a business plan may be required to obtain permits or licenses from government authorities. The plan demonstrates that the company is taking necessary steps to comply with regulations."
+      }
+    }
+  },
+  "StartUpsGrowthStrategyPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Growth Strategies",
+      "description": "By developing and implementing targeted growth strategies, companies can achieve their goals more effectively and sustainably establish themselves in dynamic markets."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Benefits of Effective Growth Strategies",
+      "description": "Implementing targeted growth strategies offers companies a variety of advantages that go beyond mere revenue increases. Here are some of the key benefits that can be achieved through effective growth strategies:",
+      "Advantage1": {
+        "title": "Increased Market Share",
+        "description": "A successful growth strategy can help a company increase its market share by acquiring more customers or deepening existing customer relationships. This can lead to a stronger market position and increased market power."
+      },
+      "Advantage2": {
+        "title": "Risk Diversification",
+        "description": "By diversifying into new products, services, or markets, a company can better spread risk and become less dependent on a single market or product. This contributes to stabilizing the business and can provide an important buffer during economically uncertain times."
+      },
+      "Advantage3": {
+        "title": "Economies of Scale",
+        "description": "Growth enables companies to benefit from economies of scale, reducing unit costs and potentially increasing profitability. Larger companies often negotiate better terms with suppliers and utilize more efficient production methods."
+      },
+      "Advantage4": {
+        "title": "Improved Financial Performance",
+        "description": "With increased size and reach, a company's financial stability often improves. Larger companies typically have better access to sources of capital, including loans, bonds, and equity financing."
+      },
+      "Advantage5": {
+        "title": "Boost in Innovation",
+        "description": "Growth strategies focusing on product development and innovation can lead to the creation of new and improved products that give the company a competitive edge. Innovation is often key to differentiation in saturated markets."
+      },
+      "Advantage6": {
+        "title": "Enhanced Attraction for Talent",
+        "description": "Larger and successfully growing companies tend to attract talented employees seeking career opportunities and stable work environments. This can lead to higher employee satisfaction and retention."
+      },
+      "Advantage7": {
+        "title": "Expansion of Geographic Reach",
+        "description": "Through international expansion or entering new regional markets, a company can acquire new customers and reduce dependence on local markets."
+      },
+      "Advantage8": {
+        "title": "Improved Customer Perception",
+        "description": "Growing companies are often perceived as successful and stable, which can strengthen customer and partner trust. A larger company may be seen as more reliable and capable of fulfilling large orders or providing comprehensive service."
+      },
+      "Advantage9": {
+        "title": "Long-term Sustainability",
+        "description": "By continually adapting to market changes and actively pursuing growth opportunities, a company can secure its long-term viability and competitiveness."
+      },
+      "Advantage10": {
+        "title": "Expansion of Business Operations",
+        "description": "Companies can explore new business areas through strategic acquisitions or partnerships that offer synergies with existing business and generate additional income streams."
+      }
+    }
+  },
+  "StartUpsLiquidityPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Liquidity Planning",
+      "description": "Overall, good liquidity planning helps proactively manage financial challenges and supports the sustainable growth of the company. It is essential for long-term financial stability and success. We assist you in liquidity planning and help ensure critical liquid assets."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "The Importance of Effective Liquidity Planning",
+      "description": "Liquidity planning is an essential part of a company's financial management and plays a crucial role in ensuring financial health and stability. Here are the main benefits that careful liquidity planning provides:",
+      "Advantage1": {
+        "title": "Ensuring Solvency",
+        "description": "The primary function of liquidity planning is to ensure that the company is able to meet its short-term obligations at all times. This prevents payment defaults and protects the company's creditworthiness."
+      },
+      "Advantage2": {
+        "title": "Avoiding Liquidity Shortages",
+        "description": "By forecasting revenues and expenses, potential liquidity shortages can be identified early, allowing appropriate countermeasures to be taken, such as obtaining short-term loans or postponing non-urgent expenditures."
+      },
+      "Advantage3": {
+        "title": "Optimizing Cash Management",
+        "description": "Effective liquidity planning enables the company to optimize its cash utilization. This can be achieved through targeted management of receivables and payables, as well as the timing of inflows and outflows."
+      },
+      "Advantage4": {
+        "title": "Enhancing Negotiating Position",
+        "description": "Companies with good liquidity planning and strong cash positions are in a better position when negotiating with suppliers, lenders, and other business partners. They can often negotiate better terms, such as discounts or favorable financing rates."
+      },
+      "Advantage5": {
+        "title": "Supporting Strategic Planning",
+        "description": "Liquidity planning is closely linked to the company's strategic planning. It supports management decision-making, especially regarding investments, expansion, and other long-term projects, by illustrating how these plans will impact liquidity."
+      },
+      "Advantage6": {
+        "title": "Early Problem Detection",
+        "description": "Regular liquidity analysis can help identify financial problems early, before they adversely affect the business. This allows the company to proactively take measures to address the issues."
+      },
+      "Advantage7": {
+        "title": "Improving Investment Decisions",
+        "description": "With a clear picture of available liquidity, companies can make better decisions about capital investments that are both profitable and financially sustainable."
+      },
+      "Advantage8": {
+        "title": "Risk Management",
+        "description": "Liquidity planning helps manage financial risk by ensuring that the company does not live beyond its means and that sufficient reserves are available for unexpected expenses or economic downturns."
+      },
+      "Advantage9": {
+        "title": "Increasing Company Value",
+        "description": "Companies that effectively manage their liquidity are generally financially healthier and therefore more valuable. This can positively impact the stock price if the company is publicly traded."
+      },
+      "Advantage10": {
+        "title": "Improving Internal Processes",
+        "description": "The need for precise liquidity planning often leads to improvements in other internal processes, such as accounting and reporting, resulting in overall increased efficiency."
+      }
+    }
+  },
+  "StartUpsEmployeeParticipationPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Employee Participation",
+      "description": "Employee participation is an effective strategy to increase employee motivation, enhance company performance, and create stronger bonds between employees and the company. It's a win-win situation that has the potential to significantly boost job satisfaction and company success. We assist you in tax-optimized selection of employee participation schemes."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Employee Participation as a Strategic Asset",
+      "description": "Employee participation in a company, whether through stock options, profit-sharing, or similar programs, offers a variety of benefits for both the company and its employees. Here are some key advantages of this strategy:",
+      "Advantage1": {
+        "title": "Increased Employee Motivation and Engagement",
+        "description": "When employees have a stake in the company, they feel more connected to its success. This can lead to higher motivation, greater engagement, and stronger bonds with the company, as employees directly benefit from its success."
+      },
+      "Advantage2": {
+        "title": "Enhanced Employee Retention",
+        "description": "Employee participation programs are attractive benefits that can help retain talented employees within the company. The prospect of financial rewards beyond basic salary and bonuses can strengthen employee loyalty and reduce turnover."
+      },
+      "Advantage3": {
+        "title": "Promotion of a Collaborative Corporate Culture",
+        "description": "Employees who are shareholders tend to be more interested in collaborative and team-oriented work environments. This can foster a stronger corporate culture that emphasizes cooperation and mutual support."
+      },
+      "Advantage4": {
+        "title": "Increased Productivity",
+        "description": "Studies show that companies with employee participation programs often exhibit higher levels of productivity. Employees who share in profits can see a direct incentive to work harder and be more efficient, knowing that their contribution to company success also affects their personal financial gain."
+      },
+      "Advantage5": {
+        "title": "Recruitment Advantages",
+        "description": "Companies offering employee participation programs may be more attractive to potential new hires. This is particularly important in industries where competition for highly skilled talent is fierce."
+      },
+      "Advantage6": {
+        "title": "Improvement of Employees' Financial Well-being",
+        "description": "Employee participation programs can be a significant source of wealth accumulation for employees. They provide the opportunity to participate in the long-term value appreciation of the company, which can be especially beneficial during economic uncertainty."
+      },
+      "Advantage7": {
+        "title": "Promotion of Transparency and Communication",
+        "description": "Companies implementing employee participation programs tend to be more transparent about finances and operations. This promotes a culture of openness and can help strengthen employees' trust in management."
+      },
+      "Advantage8": {
+        "title": "Alignment of Interests between Management and Employees",
+        "description": "By involving employees in the company, their interests become more aligned with those of management and shareholders. This can lead to better decision-making that is in the best interest of the entire company."
+      },
+      "Advantage9": {
+        "title": "Facilitation of Corporate Succession and Transitions",
+        "description": "In some cases, employee participation can offer a practical solution for corporate succession by enabling a smooth transition while ensuring ongoing employee commitment to the company."
+      }
+    }
+  },
+  "RealEstatePage": {
+    "HeroArticle": {
+      "subtitle": "Core Area",
+      "title": "Real Estate",
+      "description": "Our commitment to real estate provides clear guidance and deep expertise for long-term success."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Comprehensive Tax Advice",
+      "title": "Real Estate Investment Strategies",
+      "description": "Utilize our comprehensive consultancy to optimize your real estate investments and ensure long-term success.",
+      "Advantage1": {
+        "title": "Acquisition and Sale",
+        "description": "Analyze and understand the tax implications to make informed decisions."
+      },
+      "Advantage2": {
+        "title": "Overall Concept",
+        "description": "Gain an overview of all applicable taxes and fees to assess the profitability of purchasing/selling a property."
+      },
+      "Advantage3": {
+        "title": "Financing",
+        "description": "Consultation on financing options, optimizing the tax impact of repayments, financing costs, and interest to make the right decisions."
+      },
+      "Advantage4": {
+        "title": "Renovations and Refurbishments",
+        "description": "Analyze, assess, and plan costs, depreciation, and profitability of renovations and refurbishments."
+      },
+      "Advantage5": {
+        "title": "Rental Income",
+        "description": "Understanding the tax treatment of rental income and deductible expenses helps in making informed decisions about the investment and optimizing the profit or surplus from renting."
+      }
+    }
+  },
+  "DoctorsPage": {
+    "HeroArticle": {
+      "subtitle": "Core Area",
+      "title": "Doctors",
+      "description": "We are the anchor point for startups looking to expand horizons and innovate."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Advice",
+      "title": "Customized Solutions for Doctors",
+      "description": "Our specialized services provide comprehensive support for tax and financial issues that affect doctors throughout their careers.",
+      "moreLink": "More",
+      "Block1": {
+        "title": "Practice Establishment and Management",
+        "description": "Establishing a medical practice involves specific tax challenges and considerations. Professional tax advice can be crucial to act efficiently and compliantly."
+      },
+      "Block2": {
+        "title": "Insurance and Retirement Planning",
+        "description": "Insurance and retirement planning for doctors offer specific benefits that support financial security in retirement and professional flexibility during active career years."
+      },
+      "Block3": {
+        "title": "Practice Sale and Succession Planning",
+        "description": "Selling a medical practice is a complex process that requires careful planning and strategic considerations."
+      },
+      "Block4": {
+        "title": "Investments in the Medical Practice",
+        "description": "Investments in a medical practice can enhance patient care quality, improve efficiency, and ultimately increase profitability."
+      },
+      "Block5": {
+        "title": "Operating Expenses",
+        "description": "Operating expenses of a medical practice include all costs necessary for its ongoing operation and to provide medical services. These expenses can vary based on the type, size, and location of the practice."
+      },
+      "Block6": {
+        "title": "Staff Management",
+        "description": "Managing and leading staff in a medical practice involves numerous aspects essential for smooth operations and efficient patient care."
+      }
+    }
+  },
+  "DoctorsEstablishingAndManagingAPracticePage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Establishing and Managing a Practice",
+      "description": "Tax advice in establishing and operating a medical practice is essential to maximize all tax benefits and avoid legal pitfalls. We are here to support you."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Optimal Tax Guidance for Your Medical Practice",
+      "description": "Establishing a medical practice involves specific tax challenges and considerations. Professional tax advice can be crucial to act efficiently and compliantly. Here are some key points to consider:",
+      "Advantage1": {
+        "title": "Choice of Legal Form",
+        "description": "Choosing the legal form (e.g., sole proprietorship, partnership, or corporation) has significant tax implications. Depending on the legal form, income taxation, handling of profits and losses, and social security obligations vary."
+      },
+      "Advantage2": {
+        "title": "Value Added Tax (VAT)",
+        "description": "Medical services are generally exempt from VAT if they are for medical treatment. However, other services, such as cosmetic procedures that are not medically necessary, may be subject to VAT."
+      },
+      "Advantage3": {
+        "title": "Depreciation (AfA)",
+        "description": "Depreciation can be claimed for the acquisition of practice equipment and medical devices. These reduce taxable income and are therefore an important part of tax planning."
+      },
+      "Advantage4": {
+        "title": "Operating Expenses",
+        "description": "It is important to be aware of all possible operating expenses that can be deducted, including rent, insurance, personnel, training costs, and other ongoing operating expenses."
+      },
+      "Advantage5": {
+        "title": "Input Tax Deduction",
+        "description": "If the practice provides taxable services, it can deduct the input tax from its input services, especially for the acquisition of equipment and materials."
+      },
+      "Advantage6": {
+        "title": "Staff Hiring",
+        "description": "Employing staff leads to additional tax and social security obligations."
+      },
+      "Advantage7": {
+        "title": "Succession Planning and Practice Sale",
+        "description": "Long-term, tax planning regarding a potential practice sale or transfer should also be considered. Aspects such as the taxation of practice value and the tax consequences of the sale play a role here."
+      }
+    }
+  },
+  "DoctorsProvisionAndRetirementProvisionPage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Provision and Retirement Provision",
+      "description": "These benefits underscore the importance of well-considered retirement provision specifically for doctors, covering their specific risks and needs. We outline the tax advantages for you."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Financial Security and Flexibility for Doctors in Retirement",
+      "description": "Retirement provision for doctors offers several specific advantages that support both financial security in retirement and professional flexibility during active career years. Here are some key aspects:",
+      "Advantage1": {
+        "title": "Financial Security in Retirement",
+        "description": "Doctors often have higher incomes than average, which means they also face a higher risk of not being able to maintain their standard of living in retirement without adequate provision. Effective retirement provision allows doctors to remain financially independent even after ceasing active professional activities."
+      },
+      "Advantage2": {
+        "title": "Tax Advantages",
+        "description": "Many retirement plans offer tax benefits. Contributions to pension funds or private pension insurance policies can often be deducted from taxes, reducing the tax burden during the active professional phase."
+      },
+      "Advantage3": {
+        "title": "Career Flexibility",
+        "description": "With secure retirement provision, doctors can make more flexible decisions about when to retire. This is particularly relevant in a profession where workload is high and burnout rates are significant."
+      },
+      "Advantage4": {
+        "title": "Protection against Disability",
+        "description": "Special retirement provision products for doctors may also include components to protect against disability. This is crucial as the practice of medicine often imposes high physical and psychological demands."
+      },
+      "Advantage5": {
+        "title": "Succession Planning and Practice Transition",
+        "description": "For doctors who own their practice, retirement provision can also play a role in practice transition. Financial security through retirement provision can allow for a more flexible transition process, without financial constraints heavily influencing decisions."
+      },
+      "Advantage6": {
+        "title": "Maintaining Standard of Living",
+        "description": "During their active professional years, doctors often become accustomed to a certain standard of living. Solid retirement provision helps maintain this standard in retirement by providing sufficient funds for healthcare, leisure activities, and unforeseen expenses."
+      },
+      "Advantage7": {
+        "title": "Family Security",
+        "description": "Good retirement plans also offer protections for the doctor's family, such as survivor benefits, contributing to the family's financial security in case something happens to the doctor."
+      }
+    }
+  },
+  "DoctorsSalesOfPracticesAndSuccessionPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Sales of Practices and Succession Planning",
+      "description": "Selling a medical practice is a complex process that requires careful planning and strategic considerations. Here are some key points to consider:"
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Strategic Approaches for Practice Sale and Succession Planning",
+      "description": "By considering these aspects, you can optimize the sale process of your practice and ensure that you are financially and legally secure. We provide support in tax matters related to practice sales and succession planning.",
+      "Advantage1": {
+        "title": "Early Planning",
+        "description": "Start planning the sale of your practice ideally several years in advance. This allows you time to prepare the practice financially and organizationally for the sale."
+      },
+      "Advantage2": {
+        "title": "Practice Valuation",
+        "description": "Professional valuation of the practice is crucial. You should involve an expert experienced in valuing medical practices. The valuation should consider financial, physical, and market-specific factors."
+      },
+      "Advantage3": {
+        "title": "Legal and Tax Advisory",
+        "description": "It is important to involve legal and tax advisors early on to ensure that all aspects of the sale are handled properly and to minimize your tax and legal risks."
+      },
+      "Advantage4": {
+        "title": "Transfer of Contracts and Licenses",
+        "description": "Ensure that all relevant contracts, licenses, and permits can be properly transferred to the new owner. This includes contracts with employees, lease agreements, insurance policies, and agreements with service providers."
+      },
+      "Advantage5": {
+        "title": "Transfer of Patient Records",
+        "description": "Handling patient records requires special care to protect patient privacy and comply with legal requirements. Clarify how the transfer of patient records will take place while ensuring data protection."
+      },
+      "Advantage6": {
+        "title": "Communication with Staff and Patients",
+        "description": "Open and honest communication with staff and patients about the impending sale is important. This helps reduce uncertainties and facilitates the transition phase for all involved."
+      },
+      "Advantage7": {
+        "title": "Market Conditions",
+        "description": "Consider current market conditions in the healthcare sector, which can vary regionally and nationally. Timing can make a significant difference in the sale price."
+      },
+      "Advantage8": {
+        "title": "Succession Planning",
+        "description": "Consider what role you want to play after selling the practice. Some sellers remain in an advisory role to ensure a smooth transition."
+      },
+      "Advantage9": {
+        "title": "Competitive and Location Analysis",
+        "description": "Assessments of local competition and the practice's location can be crucial in realistically assessing the value of your practice and marketing it accordingly."
+      }
+    }
+  },
+  "DoctorsInvestingInYourOwnMedicalPracticePage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Investing in Your Own Medical Practice",
+      "description": "By carefully considering these points, you can ensure that your investments in your own medical practice are well-planned and bring the desired benefits. We assist you with tax matters and the feasibility analysis of investments."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Maximizing Efficiency and Profitability in Your Medical Practice",
+      "description": "Investments in your own medical practice can improve patient care quality, increase efficiency, and ultimately enhance profitability. When planning such investments, doctors should pay particular attention to the following points:",
+      "Advantage1": {
+        "title": "Needs Analysis",
+        "description": "Before investing, carefully analyze which areas of your practice need improvement. This could include technological equipment, renovation of practice spaces, or staff training."
+      },
+      "Advantage2": {
+        "title": "Cost-Benefit Analysis",
+        "description": "Evaluate the potential benefits of each investment compared to its costs. It is crucial that investments yield a positive return, whether through increased efficiency, higher patient satisfaction, or direct financial gains."
+      },
+      "Advantage3": {
+        "title": "Financing Options",
+        "description": "Explore various financing options, including leasing, loans, or even grants, especially for expensive medical equipment or major renovation projects."
+      },
+      "Advantage4": {
+        "title": "Technological Upgrades",
+        "description": "The digitization of medical practices is advancing. Investments in electronic health records, telemedicine platforms, or advanced diagnostic tools can enhance efficiency and improve patient care."
+      },
+      "Advantage5": {
+        "title": "Compliance and Regulations",
+        "description": "Ensure that all investments comply with applicable legal and professional standards and regulations. This includes data protection laws, hygiene regulations, and specific medical norms."
+      },
+      "Advantage6": {
+        "title": "Market Research",
+        "description": "Understand the needs and preferences of your patients as well as healthcare trends. An investment that addresses current or future trends can be particularly effective."
+      },
+      "Advantage7": {
+        "title": "Competitive Advantages",
+        "description": "Consider how the investment can position your practice against local competitors. Unique or improved services can attract new patients and strengthen the bond with existing ones."
+      },
+      "Advantage8": {
+        "title": "Risk Management",
+        "description": "Consider potential risks associated with new investments, such as technical issues, increased operating costs, or longer amortization periods."
+      },
+      "Advantage9": {
+        "title": "Sustainability and Growth",
+        "description": "Think about how investments can support the long-term growth and sustainability of your practice. Long-term planning is crucial for continuously developing and adapting your practice to changing market conditions."
+      },
+      "Advantage10": {
+        "title": "Seek Expertise",
+        "description": "Consult advisors or experts to evaluate specific investment decisions, especially when dealing with complex technological or financial matters."
+      }
+    }
+  },
+  "DoctorsOperatingExpensesPage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Operating Expenses of a Medical Practice",
+      "description": "These expenses are generally tax deductible as long as they are considered necessary and appropriate for the operation of the practice. We assist doctors in maintaining accurate accounting and documentation of their operating expenses to ensure the financial health of their practice and to maximize tax benefits."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Typical Operating Expenses of a Medical Practice",
+      "description": "The operating expenses of a medical practice include all costs incurred for ongoing operations necessary to run the practice and provide medical services. These expenses may vary depending on the type of practice, its size, and location. Here are some of the typical operating expenses:",
+      "Advantage1": {
+        "title": "Rent or Mortgage Payments",
+        "description": "Costs for the commercial space where the practice is located."
+      },
+      "Advantage2": {
+        "title": "Personnel Costs",
+        "description": "Salaries, wages, social security contributions, and possibly training costs for practice staff, including medical assistants, receptionists, and possibly other doctors."
+      },
+      "Advantage3": {
+        "title": "Medical Consumables",
+        "description": "Includes disposable items such as gloves, masks, syringes, bandages, and other medical materials that need regular replacement."
+      },
+      "Advantage4": {
+        "title": "Medical Equipment",
+        "description": "Acquisition, maintenance, and repair of medical equipment such as ultrasound machines, EKGs, laboratory equipment, etc."
+      },
+      "Advantage5": {
+        "title": "Insurance",
+        "description": "Professional liability insurance, business liability insurance, building insurance, and other relevant insurances."
+      },
+      "Advantage6": {
+        "title": "Utilities and Operating Costs",
+        "description": "Electricity, water, heating, telephone, internet, and other necessary services."
+      },
+      "Advantage7": {
+        "title": "Software and IT Costs",
+        "description": "Costs for practice management software, electronic medical records, IT support, and data protection measures."
+      },
+      "Advantage8": {
+        "title": "Marketing and Advertising",
+        "description": "Expenses for promoting the practice, including website maintenance, online marketing, print materials, and other advertising activities."
+      },
+      "Advantage9": {
+        "title": "Training Costs",
+        "description": "Costs for attending conferences, seminars, and other training sessions for the doctor and possibly the staff."
+      },
+      "Advantage10": {
+        "title": "Travel Expenses",
+        "description": "Costs for business trips, such as attending medical conferences or training sessions."
+      },
+      "Advantage11": {
+        "title": "Accounting and Legal Services",
+        "description": "Fees for tax advisors, accountants, or lawyers who assist the practice in financial or legal matters."
+      },
+      "Advantage12": {
+        "title": "Depreciation",
+        "description": "Depreciation of fixed assets, such as medical equipment and office furnishings, over their useful life."
+      }
+    }
+  },
+  "DoctorsEmployeesPage": {
+    "HeroArticle": {
+      "subtitle": "Doctors",
+      "title": "Employees of a Medical Practice",
+      "description": "Considering these aspects helps ensure that employees are well-led and supported, directly contributing to the quality of patient care and the overall success of the practice. We provide advice on wage tax and social security law."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Effective Employee Management in a Medical Practice",
+      "description": "Managing and leading employees in a medical practice involves numerous aspects essential for smooth operations and efficient patient care. Here are key points to consider:",
+      "Advantage1": {
+        "title": "Recruitment and Hiring",
+        "description": "Selecting the right employees is crucial for a practice's success. Qualifications, experience, and personal suitability play a major role. Job descriptions should be clearly defined, and hiring processes carefully designed to attract the best candidates."
+      },
+      "Advantage2": {
+        "title": "Training and Development",
+        "description": "Regular training is necessary to keep employees' expertise up to date and ensure they are familiar with the latest technologies and procedures. This includes training in patient communication and data protection."
+      },
+      "Advantage3": {
+        "title": "Labor Law Regulations",
+        "description": "Compliance with labor law regulations is essential. This includes working hours, vacation policies, sick leave, maternity protection, and compliance with minimum wage requirements."
+      },
+      "Advantage4": {
+        "title": "Salary and Benefits",
+        "description": "To attract and retain qualified personnel, the practice must offer competitive salaries and possibly additional benefits such as health care, retirement plans, and potentially bonus payments."
+      },
+      "Advantage5": {
+        "title": "Work Environment",
+        "description": "A positive and healthy work environment enhances employee satisfaction and productivity. This includes ergonomic workplace design."
+      },
+      "Advantage6": {
+        "title": "Communication",
+        "description": "Open and effective communication channels between all employees and practice management are crucial for operational management. Regular meetings and feedback sessions can help identify and resolve issues early."
+      },
+      "Advantage7": {
+        "title": "Performance Evaluation",
+        "description": "Regular evaluations help recognize and promote employee performance. Goal setting and performance evaluations are important tools for employee management and development."
+      },
+      "Advantage8": {
+        "title": "Conflict Management",
+        "description": "Conflicts can arise in any work environment. Effective conflict resolution strategies are necessary to maintain workplace harmony and resolve issues professionally."
+      },
+      "Advantage9": {
+        "title": "Data Protection and Patient Confidentiality",
+        "description": "Employees need thorough training in data protection regulations, especially regarding the handling of patient data."
+      },
+      "Advantage10": {
+        "title": "Compliance and Ethics",
+        "description": "It is important for all employees to understand and adhere to the ethical standards and compliance rules of the medical practice."
+      }
+    }
+  },
+  "PharmacistPage": {
+    "HeroArticle": {
+      "subtitle": "Core Areas",
+      "title": "Pharmacists",
+      "description": "We support with our tax expertise regarding the purchase and sale of medicines and products, diagnostic activities, and more."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Advisory",
+      "title": "Financial Health for Pharmacies",
+      "description": "We are your partner for a healthy, reliable financial strategy in the world of pharmacies!",
+      "moreLink": "More",
+      "Block1": {
+        "title": "Establishment and Management",
+        "description": "The establishment of a pharmacy requires careful planning and compliance with specific legal requirements."
+      },
+      "Block2": {
+        "title": "Value Added Tax (VAT)",
+        "description": "VAT regulations for pharmacies can be complex as they involve both taxable and exempted sales."
+      },
+      "Block3": {
+        "title": "Negotiations with Pharmaceutical Wholesalers",
+        "description": "Negotiations between pharmacists and pharmaceutical wholesalers are a crucial aspect of pharmacy business, influencing its profitability and competitiveness."
+      },
+      "Block4": {
+        "title": "Profitability Analysis",
+        "description": "Analyzing the profitability of a pharmacy is crucial to understand the financial health and long-term sustainability of the business."
+      },
+      "Block5": {
+        "title": "Retirement and Pension Plans",
+        "description": "Retirement planning for pharmacists offers numerous benefits that affect both financial security in retirement and tax advantages."
+      },
+      "Block6": {
+        "title": "Sale and Succession Planning",
+        "description": "Selling a pharmacy is a complex process involving both legal and financial aspects."
+      },
+      "Block7": {
+        "title": "Investments",
+        "description": "Investments in a pharmacy require careful planning and strategic considerations to ensure they support the long-term success and profitability of the pharmacy."
+      },
+      "Block8": {
+        "title": "Operating Expenses",
+        "description": "Operating expenses are all costs incurred in operating a pharmacy and are tax deductible."
+      },
+      "Block9": {
+        "title": "Employees",
+        "description": "Employing staff in pharmacies involves numerous aspects to consider, ensuring compliance with legal requirements and creating an efficient and pleasant working environment."
+      }
+    }
+  },
+  "PharmacyFoundingAndManagementPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Founding and Management of a Pharmacy",
+      "description": "Establishing a pharmacy is a challenging endeavor that requires comprehensive preparations and continuous management. However, through careful planning and compliance with legal frameworks, the foundation for a successful and sustainable pharmacy business can be laid."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Key Aspects of Establishing a Pharmacy",
+      "description": "Establishing a pharmacy requires careful planning and compliance with specific legal requirements. Here are some important aspects to consider when opening a pharmacy:",
+      "Advantage1": {
+        "title": "Legal Requirements",
+        "description": "Regarding permits and other legal regulations, we recommend contacting the Chamber of Pharmacists or a lawyer specializing in this field."
+      },
+      "Advantage2": {
+        "title": "Location Selection",
+        "description": "The location is crucial for the success of a pharmacy. It should be easily accessible and ideally located near medical facilities such as doctor's offices or hospitals."
+      },
+      "Advantage3": {
+        "title": "Business Plan",
+        "description": "A detailed business plan that includes financial planning, marketing strategy, target market analysis, and competitive analysis is essential. This plan not only aids in securing financing but also serves as a guide for operations."
+      },
+      "Advantage4": {
+        "title": "Financing",
+        "description": "Startup costs for a pharmacy can be significant, as investments in inventory, equipment, and premises are necessary. Securing adequate financing through loans, grants, or investors is therefore essential."
+      },
+      "Advantage5": {
+        "title": "Facilities and Equipment",
+        "description": "The pharmacy must be equipped in accordance with legal requirements. This includes secure storage facilities for medicines, adequate consultation areas, and modern sales technology."
+      },
+      "Advantage6": {
+        "title": "Inventory Management",
+        "description": "An efficient inventory management system is crucial to ensure the pharmacy is well-stocked and that inventory remains fresh and relevant. Automated systems can help maintain oversight and manage expiration dates."
+      },
+      "Advantage7": {
+        "title": "Personnel",
+        "description": "Qualified and licensed staff are essential for operating a pharmacy. Ongoing training and education should be conducted to keep staff informed about new medications and health regulations."
+      },
+      "Advantage8": {
+        "title": "Data Protection and Security",
+        "description": "Pharmacies must adhere to strict data protection policies, especially concerning patient data. Security measures against theft and misuse of sensitive information and medications are also crucial."
+      },
+      "Advantage9": {
+        "title": "Marketing and Customer Retention",
+        "description": "An effective marketing plan that includes advertising, customer loyalty programs, and community engagement can help build and maintain a stable customer base."
+      },
+      "Advantage10": {
+        "title": "Regulatory Compliance",
+        "description": "Pharmacies are subject to stringent regulatory requirements that are regularly updated. Continuous monitoring of these regulations is necessary to ensure compliance and avoid penalties."
+      }
+    }
+  },
+  "PharmacySalesTaxPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Sales Tax for Pharmacies",
+      "description": "Sales tax regulations are complex and subject to changes. Therefore, it is advisable for pharmacy owners to regularly work with a tax advisor to ensure compliance with all applicable tax regulations and fulfill their tax obligations correctly."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Sales Tax Aspects",
+      "description": "Sales tax regulations for pharmacies can be complex, as they involve both taxable and exempt sales. Here are some key sales tax aspects to consider when managing a pharmacy:",
+      "Advantage1": {
+        "title": "Tax Exemption for Medicines",
+        "description": "In Austria, sales of prescription medicines are exempt from sales tax. This means that no sales tax is charged for these sales, and accordingly, no input tax deduction is possible."
+      },
+      "Advantage2": {
+        "title": "Taxable Sales",
+        "description": "Other products and services sold in pharmacies, such as over-the-counter medicines, cosmetics, dietary supplements, or medical products, are generally subject to sales tax. Sales tax must be calculated and remitted for these items."
+      },
+      "Advantage3": {
+        "title": "Input Tax Deduction",
+        "description": "Pharmacies can usually deduct the input tax they have paid on their business expenses (e.g., for the procurement of goods or operating supplies) as long as they generate taxable sales with it. For mixed sales (partly exempt, partly taxable), however, input tax must be allocated according to the ratio of sales."
+      },
+      "Advantage4": {
+        "title": "Sales Tax Returns",
+        "description": "Pharmacists must regularly submit sales tax returns to the tax authorities when making taxable sales. This involves reporting how much sales tax was collected for the respective period and how much input tax was deducted."
+      },
+      "Advantage5": {
+        "title": "Bookkeeping and Documentation",
+        "description": "It is important for pharmacies to maintain accurate bookkeeping to correctly document all taxable and exempt sales. This includes sales of medicines, other products, and additional services."
+      },
+      "Advantage6": {
+        "title": "Verification of Sales Tax Rates",
+        "description": "Specific sales tax rates may vary depending on the product category. Pharmacies must ensure they apply the correct tax rates to different product groups."
+      },
+      "Advantage7": {
+        "title": "Handling of Vouchers and Discounts",
+        "description": "The tax treatment of vouchers, discounts, and similar price reductions can be complicated and should be carefully considered to ensure correct tax calculation."
+      }
+    }
+  },
+  "PharmacyConditionNegotiationsWithPharmaceuticalWholesalersPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Negotiating Conditions",
+      "description": "It is advisable to involve an experienced consultant or lawyer when negotiating complex contract details or making significant financial decisions. This ensures that all agreements are made in the best interest of the pharmacy."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Optimizing Condition Negotiations",
+      "description": "Negotiations between pharmacists and pharmaceutical wholesalers are a crucial aspect of pharmacy business. They influence the profitability and competitiveness of the pharmacy. Here are some key points a pharmacist should consider during such negotiations:",
+      "Advantage1": {
+        "title": "Market Knowledge",
+        "description": "Before negotiations, conducting a thorough market analysis is important. Knowledge of competitor prices and conditions, as well as understanding supply and demand in the pharmaceutical market, can support a strong negotiating position."
+      },
+      "Advantage2": {
+        "title": "Pricing and Discounts",
+        "description": "Negotiate not only list prices but also potential discounts, quantity discounts, and bonus programs. Such conditions can significantly impact the cost structure and profitability of the pharmacy."
+      },
+      "Advantage3": {
+        "title": "Delivery Terms",
+        "description": "Clarify delivery conditions, including lead times, minimum order quantities, shipping costs, and return policies. Short lead times and flexible order quantities can make inventory management more efficient."
+      },
+      "Advantage4": {
+        "title": "Payment Terms",
+        "description": "Negotiate payment terms that match your cash flow situation. Longer payment terms improve the pharmacy's liquidity, while discounts for prompt payment can save costs."
+      },
+      "Advantage5": {
+        "title": "Exclusivity Agreements",
+        "description": "Sometimes wholesalers offer better terms if selected as the exclusive supplier. However, such agreements should be carefully reviewed as they may limit flexibility in procurement."
+      },
+      "Advantage6": {
+        "title": "Quality and Product Availability",
+        "description": "Ensure that the agreed-upon products meet quality requirements and are consistently available. Shortages of key medications can adversely affect business."
+      },
+      "Advantage7": {
+        "title": "Contract Duration and Termination Rights",
+        "description": "Pay attention to the contract duration and ensure appropriate termination rights are agreed upon. Flexibility in contract duration can provide protection if a reassessment of the business relationship becomes necessary."
+      },
+      "Advantage8": {
+        "title": "Service and Support",
+        "description": "Discuss additional services provided by the wholesaler, such as product placement support, training, or technical support."
+      },
+      "Advantage9": {
+        "title": "Legal Aspects and Compliance",
+        "description": "All agreements should comply with applicable legal requirements, including competition law aspects and specific pharmaceutical regulations."
+      },
+      "Advantage10": {
+        "title": "Negotiation Leadership and Strategy",
+        "description": "Maintain professionalism and objectivity during negotiations. Good preparation, clear objectives, and a flexible strategy can help achieve optimal results."
+      }
+    }
+  },
+  "PharmacyEconomicAnalysisPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Economic Analysis",
+      "description": "This comprehensive analysis provides a detailed overview of the financial performance of a pharmacy, offering valuable insights for strategic decisions such as investments, cost management, and expansion plans. It is recommended to conduct these analyses regularly to respond to changes in the market or business operations."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Understanding the Financial Health of a Pharmacy",
+      "description": "Economic analysis of a pharmacy is crucial to understand its financial health and long-term sustainability. Here are important steps and metrics to consider when analyzing the profitability of a pharmacy:",
+      "Advantage1": {
+        "title": "Sales Analysis",
+        "description": "<ul><li><b>Total Revenue:</b> Review of total income from sales of medications and other products.</li><li><b>Sales by Product Categories:</b> Analysis of sales by different categories.</li><li><b>Average Basket Size:</b> Determination of the average sales value per customer visit.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Cost Analysis",
+        "description": "<ul><li>Cost of Goods Sold (COGS)</li><li>Personnel Costs</li><li>Rental Costs</li><li>Operating Expenses</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Profitability Ratios",
+        "description": "<ul><li>Gross Profit Margin</li><li>EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)</li><li>Net Profit Margin</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Customer Analysis",
+        "description": "<ul><li>Customer Frequency</li><li>Customer Loyalty</li><li>Average Spending per Customer</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Efficiency Metrics",
+        "description": "<ul><li>Inventory Turnover</li><li>Employee Productivity</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Strategic Review",
+        "description": "<ul><li>Market Positioning</li><li>SWOT Analysis</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Compliance and Regulatory Aspects",
+        "description": "Review of compliance with legal regulations and requirements that can have financial implications."
+      }
+    }
+  },
+  "PharmacyPensionAndRetirementProvisionPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Pension and Retirement Provision",
+      "description": "By combining these various benefits and options, pharmacists can build a comprehensive and flexible retirement plan tailored to their specific needs and professional requirements. This significantly contributes to financial security and quality of life in retirement."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Optimizing Pension and Retirement Provision",
+      "description": "Retirement provision for pharmacists offers numerous benefits, including both financial security in retirement and tax advantages. Here are some of the key advantages:",
+      "Advantage1": {
+        "title": "Professional Pension Funds",
+        "description": "<ul><li>Reliable security</li><li>Additional benefits</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Tax Benefits",
+        "description": "<b>Deductibility of Contributions:</b> Contributions to retirement plans can be tax-deductible, reducing taxable income and thus the tax burden."
+      },
+      "Advantage3": {
+        "title": "Diverse Provision Options",
+        "description": "<ul><li><b>Private Pension Insurance:</b> In addition to mandatory provisions through professional pension funds, pharmacists can also opt for private pension insurances that can be individually tailored.</li><li><b>Company Pension Schemes:</b> Pharmacists, as employers, can offer company pension schemes to their employees and themselves, which are tax-advantaged.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Flexibility and Adjustment Options",
+        "description": "<ul><li><b>Individual Contribution Structure:</b> Depending on personal and professional circumstances, pharmacists can adjust the amount of their contributions.</li><li><b>Supplementary Provision Products:</b> In addition to statutory and professional provisions, supplementary provision products such as equity funds, real estate investments, or company pension schemes can be utilized.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Inflation Protection",
+        "description": "<b>Dynamic Adjustment:</b> Many retirement provision products offer the option of dynamically adjusting contributions and benefits to ensure inflation protection."
+      },
+      "Advantage6": {
+        "title": "Long-term Planning Security",
+        "description": "<b>Lifetime Pension Payments:</b> Many retirement provision products guarantee lifetime pension payments, providing planning security and financial stability in old age."
+      },
+      "Advantage7": {
+        "title": "Security and Reliability",
+        "description": "<ul><li><b>Security-oriented Investments:</b> Retirement provision products like professional pension funds often focus on secure and stable investments to ensure pension payments.</li><li><b>Regulation and Oversight:</b> Pension funds and retirement provision products are subject to strict regulations and oversight, providing additional protection.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Additional Security for Family Members",
+        "description": "<b>Survivor's Pension:</b> Many retirement provision products also offer survivor benefits, providing additional security for the pharmacist's family."
+      }
+    }
+  },
+  "PharmacySaleAndSuccessionPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Sale and Succession Planning",
+      "description": "Selling a pharmacy requires careful preparation and planning. Key aspects include accurate valuation of the pharmacy, legal and tax advice, meticulous contract drafting, and a well-planned transition phase. Collaboration with specialized consultants and transparent communication with employees and customers are crucial for a successful sale."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Strategies for Sale",
+      "description": "Selling a pharmacy is a complex process involving both legal and financial aspects. Here are the key points to consider:",
+      "Advantage1": {
+        "title": "Preparation and Planning",
+        "description": "<ul><li><b>Valuation of the Pharmacy:</b> Accurate valuation by a professional is essential, including assessing the asset value (property, inventory, stock) and income value (future profits).</li><li><b>Tax Advice:</b> Comprehensive tax advice helps understand and optimize tax consequences.</li><li><b>Preparatory Measures:</b> Organizing accounting, reviewing all contracts, and possibly adjusting them to ensure a smooth sales process.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Legal Aspects",
+        "description": "<ul><li><b>Permits and Licenses:</b> Ensuring all necessary permits and licenses for operating the pharmacy are up to date.</li><li><b>Pharmacy Regulations:</b> Compliance with all legal requirements relevant to the operation and sale of the pharmacy.</li><li><b>Sales Contract:</b> Drafting a detailed sales contract covering all key points such as purchase price, payment terms, handover date, and liability issues.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Financial Aspects",
+        "description": "<ul><li><b>Buyer Financing Options:</b> Providing information on possible financing models for the buyer.</li><li><b>Tax Consequences of Sale:</b> Considering tax implications of the sale, such as capital gains taxation.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Succession and Handover",
+        "description": "<ul><li><b>Planning the Transition Phase:</b> A well-planned transition phase ensures seamless continuity of operations, informing and involving customers and employees.</li><li><b>Introducing the Successor:</b> Supporting the successor in acclimatizing and transferring knowledge and contacts.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Communication",
+        "description": "<ul><li><b>Informing Employees:</b> Early and transparent communication with employees to avoid uncertainty and unrest.</li><li><b>Informing Customers:</b> Communicating with customers about the change to ensure trust and continuity.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Contractual Arrangements",
+        "description": "<ul><li><b>Purchase Price Payment:</b> Clear agreements on the modalities of the purchase price payment (e.g., lump sum, installment payments).</li><li><b>Warranty and Liability:</b> Provisions for warranties and liabilities for any defects or issues post-sale.</li><li><b>Non-Compete Clause:</b> Potential agreement of a non-compete clause to protect the buyer from direct competition by the seller.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Consultation by Experts",
+        "description": "<ul><li><b>Legal Consultation:</b> A lawyer specialized in pharmacy law assists in drafting and reviewing the sales contract and complying with all legal requirements.</li><li><b>Tax Advisors and Auditors:</b> Support in tax optimization and financial planning.</li><li><b>Pharmacy Consultants:</b> Industry-specific consultants provide expertise and support in valuation and the sales process.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Market Analysis and Finding Buyers",
+        "description": "<ul><li><b>Market Analysis:</b> Analyzing the current pharmacy market and competitive landscape.</li><li><b>Finding Buyers:</b> Utilizing networks, consultants, and industry portals to identify and approach potential buyers.</li></ul>"
+      }
+    }
+  },
+  "PharmacyInvestmentsPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Investments",
+      "description": "Investments in a pharmacy should be well-planned and strategically aligned. Key aspects include needs analysis, financing, risk management, market analysis, technological and staffing investments, marketing, location optimization, and compliance with legal requirements. Continuous monitoring and adjustment of the investment strategy are crucial for the long-term success of the pharmacy."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Strategic Investments",
+      "description": "Investments in a pharmacy require careful planning and strategic considerations to ensure they support the long-term success and profitability of the pharmacy. Here are the key points to consider when investing in a pharmacy:",
+      "Advantage1": {
+        "title": "Needs Analysis and Planning",
+        "description": "<ul><li><b>Identifying Needs:</b> Identify areas where investments are needed, such as facility modernization, expanding product offerings, or introducing new technologies.</li><li><b>Goal Setting:</b> Clearly define the objectives of the investment, whether it's increasing revenue, improving efficiency, or enhancing customer satisfaction.</li><li><b>Business Plan:</b> Create a detailed business plan outlining the planned investments, their costs, and expected benefits.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Financing",
+        "description": "<ul><li><b>Equity vs. Debt Financing:</b> Decide whether investments will be made from equity or through debt financing (e.g., loans).</li><li><b>Grants and Subsidies:</b> Explore the availability of government grants or subsidies for pharmacies.</li><li><b>Loans and Financing:</b> Compare different financing offers and select the best option in terms of interest rates and terms.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Risk Management",
+        "description": "<ul><li><b>Risk Analysis:</b> Identify potential risks associated with the investment and develop strategies to mitigate them.</li><li><b>Insurance:</b> Review and adjust insurance coverage as needed to cover new risks.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Market Analysis and Competition",
+        "description": "<ul><li><b>Competitive Analysis:</b> Analyze competitors and their investment strategies to gain a competitive advantage.</li><li><b>Market Trends:</b> Monitor current market trends and developments in the healthcare sector to future-proof investments.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Technological Investments",
+        "description": "<ul><li><b>Digitalization:</b> Invest in digital technologies such as modern pharmacy software, e-prescription systems, or online ordering capabilities.</li><li><b>Automation:</b> Consider investing in automated inventory systems or picking robots to increase efficiency.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Staffing",
+        "description": "<ul><li><b>Training and Education:</b> Invest in training and continuing education for staff to enhance their skills and improve service quality.</li><li><b>Staff Planning:</b> Ensure there is enough qualified staff to operate and manage the new investments.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Marketing and Customer Retention",
+        "description": "<ul><li><b>Marketing Initiatives:</b> Invest in marketing and advertising to attract new customers and retain existing ones.</li><li><b>Customer Loyalty Programs:</b> Develop and implement customer loyalty programs.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Location and Facility",
+        "description": "<ul><li><b>Location Analysis:</b> Review the pharmacy's location and consider investing in a better location or modernizing the existing one.</li><li><b>Facility and Equipment:</b> Invest in modern and attractive facilities that are both functional and inviting to customers.</li></ul>"
+      },
+      "Advantage9": {
+        "title": "Regulatory and Legal Aspects",
+        "description": "<ul><li><b>Compliance:</b> Ensure all investments comply with legal and regulatory requirements.</li><li><b>Expert Consultation:</b> Consult professionals such as tax advisors, lawyers, and pharmacy consultants to ensure investments are legally and financially optimized.</li></ul>"
+      },
+      "Advantage10": {
+        "title": "Control and Tracking",
+        "description": "<ul><li><b>Monitoring and Control:</b> Continuously monitor investments and their impact on business success.</li><li><b>Performance Measurement:</b> Regularly assess whether set goals are being achieved and adjust the strategy if necessary.</li></ul>"
+      }
+    }
+  },
+  "PharmacyOperatingExpensesPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Operating Expenses",
+      "description": "The operating expenses of a pharmacy are diverse and encompass all costs associated with the operation of the pharmacy. These expenses are tax-deductible and must be carefully documented and managed to leverage tax benefits and ensure the economic stability of the pharmacy."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Typical Operating Expenses",
+      "description": "Operating expenses are all costs incurred in the operation of a pharmacy that are tax-deductible. Here are the key operating expenses that may apply to a pharmacy:",
+      "Advantage1": {
+        "title": "Goods and Material Costs",
+        "description": "<ul><li>Purchase of medicines and remedies</li><li>Consumables</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Personnel Costs",
+        "description": "<ul><li>Wages and salaries</li><li>Social security contributions</li><li>Training costs</li><li>Company pension schemes</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Rent and Overhead Costs",
+        "description": "<ul><li>Rent for business premises</li><li>Overhead costs</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Depreciation",
+        "description": "<ul><li>Depreciation on fixed assets</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Marketing and Advertising",
+        "description": "<ul><li>Advertising costs</li><li>Marketing materials</li><li>Website and online marketing</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Office Expenses",
+        "description": "<ul><li>Office supplies</li><li>IT and software</li><li>Telephone and internet costs</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Insurance",
+        "description": "<ul><li><b>Public liability insurance</b></li><li><b>Professional indemnity insurance:</b> Insurance specifically for pharmacists to cover against professional liability risks.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Finance Costs",
+        "description": "<ul><li>Interest expenses</li><li>Bank charges</li></ul>"
+      },
+      "Advantage9": {
+        "title": "Legal and Consultancy Costs",
+        "description": "<ul><li>Tax consultancy</li><li>Legal advice</li></ul>"
+      },
+      "Advantage10": {
+        "title": "Other Operating Expenses",
+        "description": "<ul><li>Travel and transportation costs</li><li>Membership fees</li><li>Entertainment expenses</li><li>Continuing education costs</li><li>Costs for external services</li></ul>"
+      }
+    }
+  },
+  "PharmacyEmployeesPage": {
+    "HeroArticle": {
+      "subtitle": "Pharmacists",
+      "title": "Employees",
+      "description": "Employing staff in pharmacies requires compliance with legal requirements, careful workforce planning and organization, and creating a positive work environment. Key aspects include employee qualifications and training, transparent communication, fair working conditions, and promoting teamwork and motivation. Special attention is also given to data protection and ensuring the confidentiality of patient data. By considering all these factors, a pharmacy can be operated successfully and efficiently."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Advantages",
+      "title": "Effective Employee Management",
+      "description": "When employing staff in pharmacies, there are numerous aspects to consider to meet legal requirements and create an efficient and pleasant working environment. Here are the key points to consider for pharmacy employees:",
+      "Advantage1": {
+        "title": "Legal Framework",
+        "description": "<ul><li><b>Employment Contracts: </b>Ensure that each employee receives a written employment contract outlining key terms such as working hours, salary, holiday entitlement, notice periods, and job description.</li><li><b>Working Time Laws: </b>Compliance with legal regulations on working hours, breaks, and rest periods, particularly important for shift work and emergency services.</li><li><b>Minimum Wage and Collective Agreements: </b>Ensure that wages paid do not fall below the legal minimum wage and comply with any applicable collective agreements.</li><li><b>Occupational Health and Safety: </b>Provide a safe working environment and comply with occupational health and safety regulations (e.g., regular training sessions, provision of protective clothing).</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Qualifications and Training",
+        "description": "<ul><li><b>Professional Qualifications: </b>Ensure that all employees possess the necessary qualifications and licenses.</li><li><b>Training: </b>Promote continuous training and development of employees to maintain high-quality advice and services.</li><li><b>Training Obligations: </b>Pharmacists and pharmaceutical technical assistants (PTAs) are legally obliged to undergo regular training.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Workforce Planning and Organization",
+        "description": "<ul><li><b>Scheduling: </b>Create a fair and transparent work schedule that considers employee needs while ensuring operational coverage.</li><li><b>Holiday Planning: </b>Timely and fair planning of vacation days to avoid operational disruptions.</li><li><b>Substitute Arrangements: </b>Clear policies for sickness and vacation coverage to ensure continuous service provision.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Communication and Teamwork",
+        "description": "<ul><li><b>Team Leadership: </b>Effective team leadership is crucial for a positive work environment. This includes regular team meetings, clear communication, and promoting teamwork.</li><li><b>Feedback Culture: </b>Establish an open feedback culture where employees can give and receive feedback.</li><li><b>Conflict Management: </b>Mechanisms for resolving workplace conflicts should be in place to ensure a harmonious work environment.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Motivation and Employee Retention",
+        "description": "<ul><li><b>Incentives and Benefits: </b>Offer incentives such as flexible working hours, training opportunities, company pension schemes, or additional vacation days to increase employee motivation and satisfaction.</li><li><b>Career Opportunities: </b>Show career paths within the pharmacy or through further qualifications and specializations.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Data Protection and Confidentiality",
+        "description": "<ul><li><b>Data Protection Policies: </b>Compliance with data protection laws (GDPR) when handling employee data.</li><li><b>Confidentiality: </b>Ensure that employees maintain the confidentiality of patient data and internal information.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Social Aspects",
+        "description": "<ul><li><b>Health Promotion: </b>Measures to promote employee health, such as ergonomic workplaces, health checks, or support for work-life balance.</li><li><b>Equality and Diversity: </b>Promote equality and diversity in the workplace to create an inclusive and respectful work environment.</li></ul>"
+      }
+    }
+  },
+  "HotelsGastronomyPage": {
+    "HeroArticle": {
+      "subtitle": "Core Areas",
+      "title": "Hotels and Gastronomy",
+      "description": "Seasoned with expertise: We make your hotel and gastronomy business ready for financial success!"
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Consulting",
+      "title": "Successful Gastronomy and Hospitality",
+      "description": "Benefit from our comprehensive tax expertise and tailored solutions for the hotel and gastronomy industry.",
+      "Block1": {
+        "title": "Industry Knowledge",
+        "description": "We have in-depth knowledge of the specific tax requirements and challenges faced by hotels and gastronomy businesses. Our expertise allows us to develop tailored solutions that meet the needs of these industries."
+      },
+      "Block2": {
+        "title": "Establishment and Management",
+        "description": "Address numerous (tax) questions such as choice of legal form, staffing, initial investments in a clear and understandable manner."
+      },
+      "Block3": {
+        "title": "Interfaces",
+        "description": "Setup and optimization of interfaces with common software solutions (e.g., Protel, Ready2Order, SumUp, Paymash, etc.) to ensure efficient booking."
+      },
+      "Block4": {
+        "title": "Expense Optimization",
+        "description": "Joint analysis and assessment of the profitability of costly investments, hiring new employees, making other ongoing expenditures, etc."
+      },
+      "Block5": {
+        "title": "Profitability Analysis",
+        "description": "Assistance in determining the profitability of the overall company or specific areas, providing a solid basis for decisions regarding continuation or initiation of products/business segments."
+      },
+      "Block6": {
+        "title": "Sales and Succession Planning",
+        "description": "Joint determination of the optimal sales price or timing, including all fees and taxes to be considered."
+      },
+      "Block7": {
+        "title": "Employees",
+        "description": "Consultation on salaries and employment contracts, various work schedule models, employee training and development, etc."
+      }
+    }
+  },
+  "ClassicTaxAdvicePage": {
+    "HeroArticle": {
+      "subtitle": "Core Areas",
+      "title": "Classic Tax Advice",
+      "description": "Maximize your tax benefits through expert advice, minimize your risks, and optimize your financial future."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Consulting",
+      "title": "Holistic Tax Solutions for Your Business",
+      "description": "Our services cover all aspects of classic tax consulting, providing you with comprehensive support.",
+      "Block1": {
+        "title": "Tax Returns",
+        "description": "Preparation and timely submission of tax documents to tax authorities to calculate taxes due and avoid penalties."
+      },
+      "Block2": {
+        "title": "Accounting",
+        "description": "Systematic recording and evaluation of all financial transactions of a company to prepare annual financial statements and financial overviews."
+      },
+      "Block3": {
+        "title": "Payroll Accounting",
+        "description": "Calculation and payment of wages and salaries considering taxes, social security contributions, and legal deductions."
+      },
+      "Block4": {
+        "title": "Financial Statements (Completion of Corporate Books According to UGB)",
+        "description": "Completion of a company's books in accordance with UGB, including income statements and balance sheet accounting of assets and liabilities."
+      },
+      "Block5": {
+        "title": "Representation before Tax Authorities",
+        "description": "Communication and negotiation with tax offices on behalf of companies or individuals in tax matters."
+      },
+      "Block6": {
+        "title": "Consulting Services on Various Topics (Social Security, Corporate Accounting, Employment Law, Service and Employment Contracts, etc.)",
+        "description": "Expert support in areas such as social security, accounting, employment law, and contract drafting."
+      },
+      "Block7": {
+        "title": "Representation in Tax Audits",
+        "description": "Support and defense of a company during tax authority audits, including preparation of documentation."
+      },
+      "Block8": {
+        "title": "Expert Reports on Financial, Tax, or Economic Issues",
+        "description": "Preparation of informed opinions on financial, tax, or economic issues as decision-making basis."
+      },
+      "Block9": {
+        "title": "Representation in Matters of the Register of Beneficial Owners, Including Reporting of Beneficial Owners",
+        "description": "Submission and updating of beneficial ownership information in accordance with legal requirements."
+      },
+      "Block10": {
+        "title": "Compliance with Deadlines",
+        "description": "Adherence to legal deadlines for tax returns and other financial or administrative obligations to avoid penalties."
+      }
+    }
+  },
+  "ChoiceOfLegalFormRestructuringPage": {
+    "HeroArticle": {
+      "subtitle": "Core Areas",
+      "title": "Choice of Legal Form and Restructuring",
+      "description": "We develop tailored solutions to position your company for long-term success."
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Consulting",
+      "title": "Strategic Choice of Legal Form and Restructuring",
+      "description": "Our specialized consulting services help you choose the best legal form and successfully carry out restructuring.",
+      "Block1": {
+        "title": "Tax Implications",
+        "description": "Comparison of the tax implications of different legal forms."
+      },
+      "Block2": {
+        "title": "Liability, Organizational Effort, and Structure",
+        "description": "Consideration of aspects such as liability, organizational effort, and company structure."
+      },
+      "Block3": {
+        "title": "Treatment of Profits and Losses",
+        "description": "Analysis of the tax treatment of profits, losses, and distributions for each legal form."
+      },
+      "Block4": {
+        "title": "Flexibility and Scalability",
+        "description": "Evaluation of the flexibility and scalability of different legal forms with regard to future business developments."
+      },
+      "Block5": {
+        "title": "Restructuring Advice",
+        "description": "Consultation on restructuring options and types, such as transformations, mergers, divisions, contributions of businesses, etc."
+      },
+      "Block6": {
+        "title": "Implementation and Compliance",
+        "description": "Optimal implementation of restructuring and ensuring tax compliance during the restructuring process."
+      },
+      "Block7": {
+        "title": "Cross-Border Taxes",
+        "description": "Consideration of tax implications in cross-border restructuring."
+      },
+      "Block8": {
+        "title": "Tax Risks and Strategies",
+        "description": "Identification and evaluation of potential tax risks related to restructuring and development of strategies to minimize them."
+      }
+    }
+  },
+  "ContentCreatorInfluencerESportsPage": {
+    "HeroArticle": {
+      "subtitle": "Core Areas",
+      "title": "Content Creator, Influencer, and E-Sports Athlete",
+      "description": "A successful future as a content creator and e-sports athlete begins with sound tax advice!"
+    },
+    "BlockArticle": {
+      "subtitle": "Comprehensive Tax Consulting",
+      "title": "Optimal Tax Strategies for Digital Professions",
+      "description": "Comprehensive advice for the specific tax requirements of content creators, influencers, and e-sports athletes to ensure financial security and compliance.",
+      "Block1": {
+        "title": "Tax Regulations for International Activities",
+        "description": "Content creators and influencers operating internationally must also consider international tax regulations. Tax consulting helps clarify cross-border tax issues and avoid double taxation."
+      },
+      "Block2": {
+        "title": "Taxation of Various Income Sources",
+        "description": "Proper recording and tax treatment of income from Google, Twitch, YouTube, Instagram, Facebook, TikTok, etc."
+      },
+      "Block3": {
+        "title": "Value Added Tax (VAT)",
+        "description": "Consultation on cross-border VAT issues, especially regarding income received from other EU countries or third countries."
+      },
+      "Block4": {
+        "title": "Deductible Business Expenses",
+        "description": "Consultation and optimization of deductible business expenses such as travel, claimed services, investments, etc."
+      },
+      "Block5": {
+        "title": "Tax Optimization and Planning",
+        "description": "Development of tax-efficient structures and strategies, especially regarding choosing the optimal legal form, utilizing tax allowances and deductions, and planning for future tax obligations."
+      },
+      "Block6": {
+        "title": "Taxation of Material and Intangible Benefits",
+        "description": "Taxation of material and service benefits such as product samples, vouchers, discounts, event invitations, travel, etc."
+      }
+    }
+  }
+}

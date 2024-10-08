@@ -1,0 +1,9 @@
+import { prisma } from "@simplifytax/database";
+import "server-only";
+import { Create{{pascalCase name}}Command } from "@app/entities/{{name}}s/commands/create{{pascalCase name}}/schemas";
+
+export async function create{{pascalCase name}}Command(values: Create{{pascalCase name}}Command) {
+    await prisma.{{name}}.create({
+        data: values,
+    });
+}

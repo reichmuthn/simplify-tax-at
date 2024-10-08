@@ -1,0 +1,3 @@
+{
+  "extends": "@simplifytax/typescript-config/base.json"
+}

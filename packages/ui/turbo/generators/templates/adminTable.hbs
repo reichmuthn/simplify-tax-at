@@ -1,0 +1,51 @@
+"use client";
+import React from "react";
+import {getAdmin{{pascalCase name}}ItemsQuery} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/query";
+import {getAdmin{{pascalCase name}}ItemsTableColumns} from "@ui/entities/{{name}}s/tables/admin/columns";
+import {DataTableFilterField} from "@ui/types";
+import {Admin{{pascalCase name}}Item} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+import {useDataTable} from "@ui/hooks/use-data-table";
+import {DataTableToolbar} from "@ui/components/data-table/data-table-toolbar";
+import {Admin{{pascalCase name}}ItemsToolbar} from "@ui/entities/{{name}}s/tables/admin/toolbar";
+import {DataTable} from "@ui/components/data-table/data-table";
+import {Admin{{pascalCase name}}ItemsFloatingBar} from "@ui/entities/{{name}}s/tables/admin/floatingBar";
+
+interface Admin{{pascalCase name}}ItemsTableProps {
+  {{name}}Items: ReturnType<typeof getAdmin{{pascalCase name}}ItemsQuery>;
+}
+
+export function Admin{{pascalCase name}}ItemsTable({ {{name}}Items}: Admin{{pascalCase name}}ItemsTableProps) {
+  const {data, pageCount} = React.use({{name}}Items);
+
+  const columns = React.useMemo(() => getAdmin{{pascalCase name}}ItemsTableColumns(), []);
+
+  const filterFields: DataTableFilterField<Admin{{pascalCase name}}Item>[] = [
+    {
+      label: "Titel",
+      value: "title",
+      placeholder: "Titel filtern...",
+    },
+  ];
+
+  const {table} = useDataTable({
+    data,
+    columns,
+    pageCount,
+    filterFields,
+    enableAdvancedFilter: false,
+    defaultPerPage: 10,
+    defaultSort: "title.asc",
+  });
+
+  return (
+    <div className={"w-full space-y-2.5 overflow-auto"}>
+      <DataTableToolbar table={table} filterFields={filterFields}>
+        <Admin{{pascalCase name}}ItemsToolbar table={table}/>
+      </DataTableToolbar>
+      <DataTable
+        table={table}
+        floatingBar={<Admin{{pascalCase name}}ItemsFloatingBar table={table}/>}
+      />
+    </div>
+  );
+}

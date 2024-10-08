@@ -1,0 +1,18 @@
+{
+  "extends": "@simplifytax/typescript-config/react-library.json",
+  "compilerOptions": {
+    "declaration": false,
+    "declarationMap": false,
+    "baseUrl": ".",
+    "paths": {
+      "@ui/*": ["./src/*"],
+      "@app/*": ["../application/src/*"],
+    },
+  },
+  "include": [
+    ".next/types/**/*.ts",
+    "next-env.d.ts",
+    "src",
+  ],
+  "exclude": ["node_modules"]
+}

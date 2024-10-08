@@ -1,0 +1,37 @@
+import React, {Suspense} from "react";
+import {unstable_noStore as noStore} from "next/cache";
+import {GetAdmin{{pascalCase name}}ItemsSearchParams} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+import {getAdmin{{pascalCase name}}ItemsQuery} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/query";
+import {DataTableSkeleton} from "@ui/components/data-table/data-table-skeleton";
+import {Admin{{pascalCase name}}ItemsTable} from "@ui/entities/{{name}}s/tables/admin/table";
+import {Card, CardContent, CardHeader, CardTitle,} from "@ui/components/ui/card";
+
+export function Admin{{pascalCase name}}ItemsView({searchParams}: { searchParams?: GetAdmin{{pascalCase name}}ItemsSearchParams; }) {
+  noStore();
+  const {{name}}Items = getAdmin{{pascalCase name}}ItemsQuery(searchParams);
+
+  return (
+    <div>
+      <Card x-chunk="dashboard-06-chunk-0">
+        <CardHeader>
+          <CardTitle>Alle {{pascalCase name}}s</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <Suspense
+            fallback={
+              <DataTableSkeleton
+                columnCount={3}
+                searchableColumnCount={1}
+                filterableColumnCount={0}
+                cellWidths={["10rem", "40rem", "12rem"]}
+                shrinkZero
+              />
+            }
+          >
+            <Admin{{pascalCase name}}ItemsTable {{name}}Items={ {{name}}Items}/>
+          </Suspense>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}

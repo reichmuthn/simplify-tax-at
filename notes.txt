@@ -1,0 +1,12 @@
+<div className="bg-gradient-to-b from-surface-2 to-surface-1">
+  <div className="w-full h-auto max-w-7xl mx-auto px-4 md:px-8 ">
+    <a href={"https://angelstone.at"} target={"_blank"}>
+      <CldImage
+        src={"/simplifytax-at/content/earth1x_kfhzhf"}
+        alt={"banner"}
+        width={1400}
+        height={300}
+        className={"object-cover object-top w-full h-full rounded-xl md:rounded-2xl shadow-img border-[0.75px] border-surface-1/80"}/>
+    </a>
+  </div>
+</div>

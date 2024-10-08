@@ -1,0 +1,31 @@
+import React from "react";
+import {Sheet, SheetContent, SheetHeader, SheetTitle,} from "@ui/components/ui/sheet";
+import {Admin{{pascalCase name}}ItemForm} from "@ui/entities/{{name}}s/forms/admin/form";
+import {Admin{{pascalCase name}}Item} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+
+interface Admin{{pascalCase name}}ItemsSheetProps
+  extends React.ComponentPropsWithRef<typeof Sheet> {
+  {{name}}?: Admin{{pascalCase name}}Item;
+}
+
+export function Admin{{pascalCase name}}ItemsSheet({ {{name}}, onOpenChange, ...props}: Admin{{pascalCase name}}ItemsSheetProps) {
+  return (
+    <Sheet onOpenChange={onOpenChange} {...props} modal={false}>
+      <SheetContent
+        className="flex flex-col gap-6 w-full sm:max-w-md overflow-y-auto"
+        onInteractOutside={(event) => event.preventDefault()}
+        onOpenAutoFocus={(event) => event.preventDefault()}
+      >
+        <SheetHeader className="text-left">
+          <SheetTitle>{{pascalCase name}} { {{name}} ? "bearbeiten" : "erstellen"}</SheetTitle>
+        </SheetHeader>
+        <Admin{{pascalCase name}}ItemForm
+          {{name}}={ {{name}} }
+          onClose={() => {
+            onOpenChange?.(false);
+          }}
+        />
+      </SheetContent>
+    </Sheet>
+  );
+}

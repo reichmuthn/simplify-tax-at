@@ -1,0 +1,2846 @@
+{
+  "Navigation": {
+    "CoreCompetences": {
+      "dropdownButton": "Kerngebiete"
+    },
+    "Services": {
+      "dropdownButton": "Leistungen"
+    },
+    "AboutUs": {
+      "dropdownButton": "Simplify Tax",
+      "Links": {
+        "AboutUs": {
+          "title": "Über uns",
+          "description": "Entdecke unsere Unternehmensvision und Mission.",
+          "moreLink": "Mehr erfahren"
+        },
+        "Career": {
+          "title": "Karriere",
+          "description": "Erfahre mehr über berufliche Möglichkeiten bei uns.",
+          "moreLink": "Mehr erfahren"
+        },
+        "SimplifyArt": {
+          "title": "Simplify Art",
+          "description": "Erkunde unsere kreative Seite und Kunstprojekte.",
+          "moreLink": "Mehr erfahren"
+        }
+      }
+    },
+    "Resources": {
+      "dropdownButton": "Ressourcen",
+      "Links": {
+        "Resource2": {
+          "title": "Lexikon",
+          "description": "Eine umfangreiche Sammlung von juristischen Begriffen.",
+          "moreLink": "Mehr erfahren"
+        },
+        "Resource3": {
+          "title": "Blog",
+          "description": "Aktuelle Artikel und Neuigkeiten zu rechtlichen Themen.",
+          "moreLink": "Mehr erfahren"
+        },
+        "Resource4": {
+          "title": "Newsletter",
+          "description": "Regelmäßige Updates direkt in dein Postfach.",
+          "moreLink": "Mehr erfahren"
+        },
+        "Resource1": {
+          "title": "Terminbuchung",
+          "description": "Termine schnell und unkompliziert online vereinbaren.",
+          "moreLink": "Mehr erfahren"
+        }
+      }
+    },
+    "Contact": {
+      "title": "Kontakt"
+    }
+  },
+  "FooterNavigation": {
+    "services": "Leistungen",
+    "financialAccounting": "Finanzbuchhaltung",
+    "payrollAccounting": "Personalverrechnung",
+    "annualFinancialStatementsAndAccounting": "Jahresabschluss und Bilanzierung",
+    "taxReturns": "Steuererklärungen",
+    "adviceOnTaxMatters": "Beratung in steuerlichen Belangen",
+    "businessAdvice": "Betriebswirtschaftliche Beratung",
+    "successionPlanningAndBusinessValuation": "Nachfolgeplanung und Unternehmensbewertung",
+    "taxAdviceOnInternationalMatters": "Steuerberatung bei internationalen Sachverhalten",
+    "adviceInFinancialCriminalLaw": "Beratung & Unterstützung in Fragen des Finanzstrafrechts",
+    "expertise": "Kerngebiete",
+    "eCommerce": "E-Commerce",
+    "startUps": "Start-Ups",
+    "realEstate": "Immobilien",
+    "doctors": "Ärzte",
+    "pharmacy": "Apotheker",
+    "hotelsGastronomy": "Hotels und Gastronomie",
+    "classicTaxAdvice": "Klassische Steuerberatung",
+    "choiceOfLegalFormRestructuring": "Rechtsformwahl und Umstrukturierung",
+    "contentCreatorInfluencerESports": "Content Creator, Influencer und E-Sports",
+    "simplifyTax": "Simplify Tax",
+    "aboutUs": "Über uns",
+    "career": "Karriere",
+    "simplifyArt": "Simplify Art",
+    "contact": "Kontakt",
+    "resources": "Ressourcen",
+    "iurio": "IURIO",
+    "lexicon": "Lexikon",
+    "newsletter": "Newsletter",
+    "booking": "Terminbuchung",
+    "blog": "Blog",
+    "legal": "Legal",
+    "imprint": "Impressum",
+    "dataPolicy": "Datenschutz",
+    "aab": "AAB"
+  },
+  "HomePage": {
+    "HeroArticle": {
+      "subtitle": "Zuverlässig und einfach",
+      "title": "Ihr digitaler Steuerberater in Wien",
+      "description": "Kompetente und zuverlässige Steuerberatung. Von KMU und Start-ups bis hin zu Ärzten und Apotheker.",
+      "secondaryButton": "Termin buchen",
+      "primaryButton": "Kontakt"
+    },
+    "ReferencesArticle": {
+      "subtitle": "Referenzen"
+    },
+    "ServicesArticle": {
+      "subtitle": "Leistungen",
+      "title": "Kompetente und zuverlässige Steuerberatung",
+      "description": "Wir unterstützen Sie in steuerlichen Belangen. Wir nehmen Ihnen zeitintensive und komplexe Aufgaben ab und schaffen dadurch mehr Raum für Ihren unternehmerischen Erfolg",
+      "moreLink": "Weiter"
+    },
+    "PartnersArticle": {
+      "subtitle": "Partner",
+      "title": "Zusammen stark",
+      "description": "Unsere Partnerschaften und nahtlosen Integrationen optimieren Ihre Finanzstrategien und steigern Ihren Erfolg."
+    },
+    "CoreCompetencesArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Steuerberatung für Schlüsselbranchen",
+      "description": "Simplify Tax bietet umfassende Steuerberatungsdienstleistungen für E-Commerce, Start-Ups, Immobilien uvm. an, um Klienten in diesen Kernbereichen maßgeschneiderte Lösungen anzubieten.",
+      "moreLink": "Weiter"
+    },
+    "PrinciplesArticle": {
+      "subtitle": "Über uns",
+      "title": "Prinzipien, die bei Simplify Tax den Weg weisen",
+      "moreLink": "Weiter",
+      "Clarity": {
+        "title": "Klarheit",
+        "description": "Wir kommunizieren klar und verständlich, um Transparenz und Vertrauen bei Kunden und Mitarbeitern zu fördern."
+      },
+      "Security": {
+        "title": "Sicherheit",
+        "description": "Wir schützen die finanziellen Interessen unserer Kunden und gewährleisten Vertraulichkeit durch robuste Sicherheitsmaßnahmen und ethisches Handeln."
+      },
+      "Economics": {
+        "title": "Wirtschaftlichkeit",
+        "description": "Wir optimieren Ressourcen, um qualitativ hochwertige Dienstleistungen zu wettbewerbsfähigen Preisen anzubieten und langfristige Wertschöpfung zu sichern."
+      }
+    },
+    "CareersArticle": {
+      "subtitle": "Karriere",
+      "title": "Machen Sie den nächsten Schritt in Ihrer Karriere",
+      "moreLink": "Weiter",
+      "Success": {
+        "title": "Erfolg gemeinsam gestalten",
+        "description": "Bei Simplify Tax fördern wir ein motiviertes, teamorientiertes Umfeld durch regelmäßigen Austausch, Zusammenarbeit und gegenseitige Unterstützung."
+      },
+      "Innovation": {
+        "title": "Innovation, die uns antreibt",
+        "description": "Wir nutzen moderne Technologien für effizientes Arbeiten, schaffen Raum für Kreativität und fördern innovative Ansätze durch digitale Tools."
+      }
+    },
+    "BlogArticle": {
+      "subtitle": "Blog",
+      "title": "Finanz- und Steuernews",
+      "description": "Bleiben Sie informiert über aktuelle Entwicklungen, Tipps und Ratschläge in unserem Blog für Steuerberatung und Finanzwesen.",
+      "moreLink": "Weiter"
+    }
+  },
+  "Quotes": {
+    "Quote1": {
+      "subtitle": "Engagement und Expertise",
+      "quote": "Bei Simplify Tax ist es unser Ziel, jedem Kunden eine maßgeschneiderte Lösung zu bieten, die ihre individuellen Bedürfnisse und Ziele berücksichtigt.",
+      "name": "Anna Pasquale, LL.M. (WU) BSC (WU)",
+      "position": "Director, Steuerberaterin"
+    },
+    "Quote2": {
+      "subtitle": "Zuverlässigkeit und Präzision",
+      "quote": "Unsere präzise Arbeitsweise und unser Engagement für Genauigkeit sorgen dafür, dass unsere Kunden stets bestens beraten sind.",
+      "name": "Fatma Sahin",
+      "position": "Manager Financial Accountant"
+    },
+    "Quote3": {
+      "subtitle": "Vertrauen und Zusammenarbeit",
+      "quote": "Wir bauen auf langfristige Beziehungen und Vertrauen, um unseren Kunden die bestmögliche Beratung zu gewährleisten.",
+      "name": "Jinwen Song",
+      "position": "Financial Accountant"
+    },
+    "Quote6": {
+      "subtitle": "Teamarbeit und Unterstützung",
+      "quote": "Durch enge Zusammenarbeit und gegenseitige Unterstützung erreichen wir die besten Ergebnisse für unsere Kunden.",
+      "name": "Marco Elsner",
+      "position": "Associate"
+    },
+    "Quote7": {
+      "subtitle": "Qualität und Verlässlichkeit",
+      "quote": "Unsere hohe Qualität und Verlässlichkeit sind die Basis für das Vertrauen unserer Kunden in unsere Arbeit.",
+      "name": "Patrizia Schuster",
+      "position": "Associate"
+    },
+    "Quote8": {
+      "subtitle": "Professionalität und Engagement",
+      "quote": "Unser Engagement und unsere Professionalität spiegeln sich in jeder unserer Dienstleistungen wider.",
+      "name": "Vesna Jokic",
+      "position": "Assistant"
+    },
+    "Quote9": {
+      "subtitle": "Langfristige Partnerschaften",
+      "quote": "Wir setzen auf langfristige Partnerschaften und begleiten unsere Kunden durch alle wirtschaftlichen Herausforderungen.",
+      "name": "Maja Bogosavljevic",
+      "position": "Assistant (Karenz)"
+    },
+    "Quote10": {
+      "subtitle": "Fachwissen und Erfahrung",
+      "quote": "Unser fundiertes Fachwissen und unsere jahrelange Erfahrung machen uns zu einem vertrauenswürdigen Partner in allen steuerlichen Belangen.",
+      "name": "Dimitar Zlatev",
+      "position": "Managing Director | Steuerberater"
+    },
+    "Quote11": {
+      "subtitle": "Kundenfokus und Exzellenz",
+      "quote": "Unser Fokus liegt auf exzellentem Kundenservice und der Erfüllung der höchsten Standards in der Steuerberatung.",
+      "name": "Silvie Zlateva",
+      "position": "Manager"
+    }
+  },
+  "Contact": {
+    "subtitle": "Kontakt",
+    "title": "Kontaktieren Sie uns",
+    "description": "Für Fragen, Anregungen oder Anfragen sind wir jederzeit für Sie da. Zögern Sie nicht, uns zu kontaktieren.",
+    "EMail": {
+      "title": "E-Mail",
+      "description": "Schreiben Sie uns eine Nachricht."
+    },
+    "Location": {
+      "title": "Standort",
+      "description": "Termine nur nach Vereinbarung."
+    },
+    "Phone": {
+      "title": "Telefon",
+      "description": "Mo - Fr: 09:00 - 18:00 Uhr"
+    }
+  },
+  "Newsletter": {
+    "subtitle": "Steuer-News",
+    "title": "Nie wieder eine steuerliche Änderung verpassen!",
+    "description": "Erhalte exklusive Einblicke in die Welt der Steuerberatung mit unserem Newsletter.",
+    "Form": {
+      "FirstName": {
+        "label": "Vorname",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "LastName": {
+        "label": "Nachname",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "EMail": {
+        "label": "E-Mail",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "button": "Jetzt anmelden",
+      "concent": "Bitte beachte unsere",
+      "concentLink": "Datenschutzerklärung",
+      "StatusMessages": {
+        "SubmitSuccessful": {
+          "headline": "Bitte bestätige deine Anmeldung",
+          "message": "Wir bitten dich deine Newsletter-Anmeldung durch den per E-Mail zugesandten Link zu bestätigen. Andernfalls können wir dir leider keinen Newsletter zusenden."
+        },
+        "ContactExists": {
+          "headline": "Dieser Kontakt existiert bereits",
+          "message": "Dieser Kontakt existiert bereits in unserer Liste. Bitte, bestätige die von uns per E-Mail zugesandte Newsletter-Anmeldung, um die Registrierung abzuschließen."
+        },
+        "EmailConfirmed": {
+          "headline": "Danke!",
+          "message": "Wir freuen uns dich über die neuesten Entwicklungen und Angebote am Laufenden halten zu dürfen."
+        }
+      }
+    }
+  },
+  "NewsletterPage": {
+    "HeroArticle": {
+      "subtitle": "Newsletter",
+      "title": "Unsere Updates für dich",
+      "description": "Erfahre regelmäßig von den neuesten steuerlichen Entwicklungen und profitiere von exklusiven Einblicken und Tipps direkt von unseren Experten. Werde Teil unserer steuerlichen Community und melde dich an!"
+    }
+  },
+  "Booking": {
+    "Form": {
+      "FirstName": {
+        "label": "Vorname",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "LastName": {
+        "label": "Nachname",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "Phone": {
+        "label": "Rufnummer",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "AppointmentType": {
+        "label": "Terminart",
+        "placeholder": "",
+        "Option": {
+          "one": "Präsenz",
+          "two": "Online"
+        },
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "EMail": {
+        "label": "E-Mail",
+        "error": "Dieses Feld darf nicht leer sein."
+      },
+      "AdditionalInfos": {
+        "label": "Zusätzliche Infos",
+        "description": "Bitte teilen Sie alles mit, was Ihnen bei der Vorbereitung unseres Treffens hilft."
+      },
+      "Button": {
+        "Ghost": {
+          "label": "Zurück"
+        },
+        "AppPrimary": {
+          "label": "Termin anfragen"
+        }
+      },
+      "concent": "Mit dem Absenden des Formulars akzeptieren Sie unsere",
+      "concentLink": "Datenschutzbestimmung",
+      "optional": "(optional)",
+      "ContactDetails": {
+        "label": "Kontaktdaten"
+      },
+      "AppointmentDetails": {
+        "label": "Termin"
+      },
+      "Date": {
+       "label": "Datum"
+      },
+      "Time": {
+        "label": "Uhrzeit",
+        "timeFormat": "Uhr"
+      }
+    },
+    "StatusMessages": {
+      "SubmitSuccessful": {
+        "headline": "Vielen Dank für Ihre Buchungsanfrage!",
+        "message": "Ihre Anfrage wurde erfolgreich übermittelt. Wir werden Ihren Termin schnellstmöglich bestätigen und Sie benachrichtigen. Bei Fragen stehen wir Ihnen gerne zur Verfügung.",
+        "button": "Zurück"
+      }
+    }
+  },
+  "BookingPage": {
+    "HeroArticle": {
+      "subtitle": "Terminbuchung",
+      "title": "Einfach und schnell beraten lassen",
+      "description": "Nutzen Sie unser benutzerfreundliches Buchungstool, um schnell und einfach einen Beratungstermin zu vereinbaren."
+    },
+    "BookingArticle": {
+      "subtitle": "Jetzt buchen",
+      "title": "Planen Sie Ihren Termin mit wenigen Klicks",
+      "description": "Unser integrierter Kalender macht es Ihnen einfach, Ihren Termin zu planen. Bitte beachten Sie, dass der Termin erst nach unserer Bestätigung verbindlich ist. Sollten Sie keinen passenden Zeitpunkt finden, kontaktieren Sie uns bitte telefonisch."
+    }
+  },
+  "AboutUsPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Tax",
+      "title": "Steuerberatung mit Expertise und Engagement",
+      "description": "Für unser Team stehen Sie als Klient:in im Mittelpunkt. Wir hören Ihnen zu, um gemeinsam die wirtschaftlich sinnvollste Lösung für Ihr Unternehmen zu finden. Wir handeln rasch. Mit Sicherheit.",
+      "BlockOne": {
+        "title": "Kompetente Steuerberatung",
+        "description": "Simplify Tax bietet kompetente Steuerberatung in einem prestigevollen Umfeld an. Unsere Leistungen garantieren Ihnen Sicherheit in steuerlichen Belangen. Wir nehmen Ihnen komplizierte Aufgaben ab und bieten Bequemlichkeit, welche Ihren Alltag vereinfacht."
+      },
+      "BlockTwo": {
+        "title": "Klientenzentrierte Beratung",
+        "description": "Klarheit, Offenheit und Transparenz unseren Klienten, sowie Verschwiegenheit Dritten gegenüber bilden die Basis unseres Handelns. Unser Fokus liegt auf verständlichen und wirtschaftlich sinnvollen Lösungen, bei denen der Nutzen für den Klienten klar erkennbar ist."
+      }
+    },
+    "NominationArticle": {
+      "BlockOne": {
+        "title": "Top-Berater Österreichs 2024",
+        "description": "Simplify Tax Steuerberatung wurde vom IMWF Austria als einer der Top Steuerberater 2024 ausgezeichnet."
+      },
+      "BlockTwo": {
+        "title": "Mitglied der KSW",
+        "description": "Simplify Tax ist stolzes Mitglied der Kammer der Steuerberater:innen und Wirtschaftsprüfer:innen."
+      },
+      "BlockThree": {
+        "title": "Unterstützer der Young Caritas",
+        "description": "Simplify Tax unterstützt YoungCaritas Wien für eine gerechte und selbstbestimmte Zukunft."
+      }
+    },
+    "TeamArticle": {
+      "subtitle": "Unser Team",
+      "title": "Erfahrenes Team für steuerliche Anliegen",
+      "description": "Bei Simplify Tax arbeitet ein engagiertes und erfahrenes Team von Experten zusammen, um Ihnen bei allen steuerlichen Belangen kompetent zur Seite zu stehen.",
+      "sendLink": "E-Mail senden",
+      "DimitarZlatev": {
+        "name": "Mag. Dimitar Zlatev",
+        "position": "Managing Director | Steuerberater"
+      },
+      "AnnaPasquale": {
+        "name": "Anna Pasquale, LL.M.(WU) BSC (WU)",
+        "position": "Director | Steuerberaterin"
+      },
+      "Employee": {
+        "FatmaSahin": {
+          "name": "Fatma Sahin",
+          "position": "Manager Financial Accountant"
+        },
+        "JinwenSong": {
+          "name": "Jinwen Song",
+          "position": "Financial Accountant"
+        },
+        "SilvieZlateva": {
+          "name": "Silvie Zlateva, LL.M.",
+          "position": "Manager"
+        },
+        "YagmurKeske": {
+          "name": "Yagmur Keske",
+          "position": "Associate"
+        },
+        "MarcoElsner": {
+          "name": "Marco Elsner",
+          "position": "Associate"
+        },
+        "PatriziaSchuster": {
+          "name": "Patrizia Schuster",
+          "position": "Associate"
+        },
+        "ArianaZeqiri": {
+          "name": "Ariana Zeqiri, (LL.B.)",
+          "position": "Associate"
+        },
+        "MajaBogosavljevic": {
+          "name": "Maja Bogosavljevic",
+          "position": "Assistant (Karenz)"
+        },
+        "VesnaJokic": {
+          "name": "Vesna Jokic",
+          "position": "Assistant"
+        }
+      }
+    },
+    "CareerArticle": {
+      "subtitle": "Karriere",
+      "title": "Werden Sie Teil unseres Teams",
+      "description": "Unser leidenschaftliches Team strebt nach Innovation, Qualität und Kundenzufriedenheit, um Ihre Erwartungen zu übertreffen und langfristige Partnerschaften aufzubauen.",
+      "buttonLinkOne": "Karriere",
+      "buttonLinkTwo": "Jetzt bewerben!"
+    },
+    "ValuesArticle": {
+      "subtitle": "Unsere Unternehmenswerte",
+      "title": "Fundament für Ihren Erfolg",
+      "description": "Unsere Unternehmenswerte bilden das solide Fundament, auf dem wir bei Simplify Tax unsere Arbeit aufbauen und unseren Kunden erstklassige Dienstleistungen bieten.",
+      "Values": {
+        "ValueOne": {
+          "title": "Vertrauen und Integrität",
+          "description": "Wir bauen auf Vertrauen und Integrität in allem, was wir tun. Die Vertraulichkeit der Informationen unserer Kunden hat oberste Priorität, und wir halten uns stets an höchste ethische Standards."
+        },
+        "ValueTwo": {
+          "title": "Fachliche Exzellenz",
+          "description": "Wir streben nach fachlicher Exzellenz in allen Bereichen unserer Dienstleistungen. Durch kontinuierliche Weiterbildung und Entwicklung sichern wir unseren Kunden qualitativ hochwertige Beratung und Lösungen zu."
+        },
+        "ValueThree": {
+          "title": "Kundenorientierung",
+          "description": "Die Bedürfnisse unserer Kunden stehen im Mittelpunkt unserer Arbeit. Wir hören ihnen aufmerksam zu, verstehen ihre Herausforderungen und bieten maßgeschneiderte Lösungen, die ihren individuellen Anforderungen gerecht werden."
+        },
+        "ValueFour": {
+          "title": "Innovation und Fortschritt",
+          "description": "Wir sind Vorreiter in der Anwendung innovativer Technologien und Konzepte, um unseren Kunden stets die effektivsten Lösungen anzubieten. Durch kontinuierliche Innovation bleiben wir flexibel und anpassungsfähig in einer sich ständig verändernden Geschäftswelt."
+        },
+        "ValueFive": {
+          "title": "Teamwork und Zusammenarbeit",
+          "description": "Wir glauben an die Stärke des Teams und fördern eine Kultur der Zusammenarbeit und des gegenseitigen Respekts. Durch den Austausch von Wissen und Erfahrungen arbeiten wir gemeinsam daran, die besten Ergebnisse für unsere Kunden zu erzielen."
+        },
+        "ValueSix": {
+          "title": "Engagement für Erfolg",
+          "description": "Wir setzen uns mit Leidenschaft und Engagement für den Erfolg unserer Kunden ein. Unser Ziel ist es, langfristige Partnerschaften aufzubauen und unseren Kunden dabei zu helfen, ihre Ziele zu erreichen und ihr Unternehmen erfolgreich zu führen."
+        }
+      }
+    }
+  },
+  "CareerPage": {
+    "HeroArticle": {
+      "subtitle": "Karriere",
+      "title": "Entdecke deine Möglickeiten!",
+      "description": "Werde Teil unseres Teams und gestalte deine Zukunft in der Steuerberatung mit uns gemeinsam."
+    },
+    "JobAdvertismentArticle": {
+      "subtitle": "Offene Stellen"
+    },
+    "SimplifyTaxFeaturesArticle": {
+      "subtitle": "Warum Simplify Tax",
+      "title": "Warum Steuerberatung bei Simplify Tax?",
+      "description": "All das macht die Tätigkeiten bei Simplify Tax Steuerberatung zu einem spannenden und abwechslungsreichen Job.",
+      "Feature1": {
+        "title": "Unsere Bedeutung für verschiedene Stakeholder",
+        "description": "Als Steuerberater bei Simplify Tax trägst du eine immense Verantwortung, da deine Tätigkeit von hoher Bedeutung für verschiedene Interessengruppen ist. Du bist eine unverzichtbare Schnittstelle zwischen Unternehmen und staatlichen Institutionen, und deine Arbeit trägt maßgeblich zur Aufrechterhaltung der finanziellen Stabilität und rechtlichen Einhaltung bei."
+      },
+      "Feature2": {
+        "title": "Zuverlässigkeit und fachliche Expertise",
+        "description": "Bei Simplify Tax setzen wir auf höchste fachliche Standards und kontinuierliche Weiterbildung, um unseren Kunden stets eine zuverlässige und kompetente Beratung zu bieten. Als Teil unseres Teams kannst du darauf vertrauen, dass deine fachliche Expertise geschätzt und unterstützt wird."
+      },
+      "Feature3": {
+        "title": "Einblicke in vielfältige Unternehmen",
+        "description": "Durch die Vielfalt unserer Kunden erhältst du bei Simplify Tax die Möglichkeit, Einblicke in verschiedene Branchen und Unternehmensstrukturen zu gewinnen. Dies ermöglicht es dir, dein Fachwissen kontinuierlich zu erweitern und dich beruflich weiterzuentwickeln."
+      },
+      "Feature4": {
+        "title": "Weiterbildungs- und Karrieremöglichkeiten",
+        "description": "Bei Simplify Tax legen wir großen Wert auf die Weiterentwicklung unserer Mitarbeiter. Wir bieten eine Vielzahl von Weiterbildungs- und Karrieremöglichkeiten, um dein Potenzial voll auszuschöpfen und deine beruflichen Ziele zu erreichen."
+      },
+      "Feature5": {
+        "title": "Krisensichere Branche",
+        "description": "Die Steuerberatungsbranche ist von Natur aus krisensicher, da Unternehmen und Privatpersonen auch in wirtschaftlich schwierigen Zeiten auf kompetente steuerliche Beratung angewiesen sind. Als Teil unseres Teams bei Simplify Tax kannst du auf eine stabile und zukunftssichere Karriere bauen."
+      },
+      "Feature6": {
+        "title": "Querschnittsmaterie aus Recht und Betriebswirtschaft",
+        "description": "Als Steuerberater bei Simplify Tax bewegst du dich in einem spannenden Schnittpunkt zwischen Recht und Betriebswirtschaft. Du kombinierst fundiertes steuerliches Fachwissen mit betriebswirtschaftlicher Analyse, um unseren Kunden ganzheitliche Lösungen anzubieten."
+      },
+      "Feature7": {
+        "title": "Persönlicher Klientenkontakt von Beginn an",
+        "description": "Bei Simplify Tax legen wir großen Wert auf persönlichen Kontakt und enge Zusammenarbeit mit unseren Klienten. Bereits zu Beginn deiner Tätigkeit hast du die Möglichkeit, direkten Kontakt zu unseren Kunden zu pflegen und sie in ihren steuerlichen Angelegenheiten zu unterstützen."
+      }
+    },
+    "CTAArticle": {
+      "subtitle": "Ihre Karriere beginnt hier",
+      "title": "Machen Sie den nächsten Schritt",
+      "description": "Entdecken Sie spannende Karrierewege bei Simplify Tax und gestalten Sie die Zukunft mit uns. Wir freuen uns auf Ihre Bewerbung.",
+      "buttonOutline": "Kontakt",
+      "buttonPrimary": "Jetzt bewerben"
+    }
+  },
+  "SimplifyArtPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Art",
+      "title": "Zwischen den Welten der Finanzen und der Kreativität",
+      "description": "Wir freuen uns die Werke der sehr geschätzten Künstlerin Antje Liemann in unseren Räumlichkeiten präsentieren zu können."
+    },
+    "SectionOne": {
+      "subtitle": "Kunst und Kapital",
+      "title": "Eine Symbiose",
+      "description": "Unser Engagement für Kunst und Kreativität geht weit über die Zahlen hinaus. Wir glauben fest daran, dass Kunst eine Brücke bauen kann – zwischen den Welten der Finanzen und der Kreativität, zwischen unserer alltäglichen Arbeit und den großen Fragen unserer Zeit. Deshalb sind wir stolz, die beeindruckenden Werke einer außergewöhnlichen Künstlerin präsentieren zu können."
+    },
+    "SectionTwo": {
+      "subtitle": "Kreativität trifft Kalkulation",
+      "title": "Die Werke von Antje Liemann",
+      "description": "Antje Liemann erforscht die menschliche Dimension in Raum und Zeit. Sie kombiniert Vintage-Stücke der industriellen Massenproduktion mit Millionen Jahre alten natürlichen Materialien, um die Fragilität des Menschen und unsere Existenz zu hinterfragen. Durch die Präsentation dieser Kunstwerke möchten wir einen Raum schaffen, in dem unsere Klienten und Besucher inspiriert werden und den Dialog zwischen den Disziplinen fördern können."
+    }
+  },
+  "LexiconPage": {
+    "HeroArticle": {
+      "subtitle": "Lexikon",
+      "title": "Fachbegriffe der Steuerberatung",
+      "description": "Entdecken Sie die wichtigsten Begriffe der Steuerberatung verständlich erklärt – für eine klare und fundierte Kommunikation in steuerlichen Angelegenheiten."
+    }
+  },
+  "BlogPage": {
+    "HeroArticle": {
+      "subtitle": "Blog",
+      "title": "Ihr Steuer- und Finanzratgeber",
+      "description": "Bleiben Sie informiert über aktuelle Entwicklungen, Tipps und Ratschläge in unserem Blog für Steuerberatung und Finanzwesen."
+    },
+    "ListViewArticle": {
+      "subtitle": "Alle Beiträge",
+      "title": "Unsere aktuellen Blog-Beiträge",
+      "description": "Entdecken Sie eine Vielzahl an Artikeln, die Ihnen tiefgehende Einblicke und praktische Ratschläge rund um Steuerberatung und Finanzplanung bieten."
+    }
+  },
+  "BlogCategoriesPage": {
+    "HeroArticle": {
+      "subtitle": "Blog",
+      "title": "Kategorien",
+      "description": "Nutzen Sie die Filter, um spezifische Artikel und Themen zu finden, die Sie interessieren. Wählen Sie aus Kategorien wie Steuerplanung, Unternehmensfinanzen, rechtliche Änderungen und mehr."
+    }
+  },
+  "BlogSlugPage": {
+    "HeroArticle": {
+      "subtitle": "Blog",
+      "description": "Informieren Sie sich über die neuesten Entwicklungen und bewährten Praktiken in der Steuerberatung und im Finanzwesen. Unsere Artikel bieten praxisnahe Tipps und fundierte Analysen."
+    }
+  },
+  "ImprintPage": {
+    "HeroArticle": {
+      "subtitle": "Simplify Tax",
+      "title": "Impressum",
+      "description": "Offenlegungen gemäß § 25 Mediengesetz, § 14 Unternehmensgesetzbuch und § 5 E-Commerce-Gesetz. In dieser Sektion sind die rechtlichen Informationen zu dieser Website vermerkt, darunter Verantwortlichkeiten und Kontaktdaten. Wir schätzen Transparenz und stehen für etwaige Anfragen zur Verfügung."
+    },
+    "CompanyOwner": {
+      "title": "Medieninhaber",
+      "CompanyName": "Simplify Tax Steuerberatung GmbH",
+      "Street": "Mommsengasse 33 Top 2+5",
+      "ZIPCode": "AT-1040 Wien"
+    },
+    "ContactInformation": {
+      "title": "Kontaktdaten",
+      "Landline": {
+        "title": "Telefon:",
+        "description": "+43 1 925 86 48"
+      },
+      "Mobile": {
+        "title": "Mobil:",
+        "description": "+43 664 991 154 12"
+      },
+      "Email": {
+        "title": "E-Mail:",
+        "description": "office@simplifytax.at"
+      }
+    },
+    "CompanyDirector": {
+      "title": "Geschäftsführer",
+      "description": "Mag. Dimitar Zlatev"
+    },
+    "CompanyHeadquarters": {
+      "title": "Sitz der Gesellschaft",
+      "description": "Wien"
+    },
+    "CompanyRegistrationNumber": {
+      "title": "Firmenbuchnummer",
+      "description": "FN 503466 t"
+    },
+    "VATNumber": {
+      "title": "UID-Nummer",
+      "description": "ATU 738 53 617"
+    },
+    "Chamber": {
+      "title": "Kammerzugehörigkeit und Aufsichtsbehörde",
+      "description": "Mitglied in der Kammer der Steuerberater und Wirtschaftsprüfer (KSW)"
+    },
+    "CorporatePurpose": {
+      "title": "Unternehmensgegenstand",
+      "description": "Steuerberatung und Beratung in Wirtschaftsangelegenheiten"
+    },
+    "DevelopedBy": {
+      "title": "Konzeption, Webdesign und Umsetzung",
+      "description": "AngelStone Media GmbH"
+    },
+    "Liability": {
+      "title": "Haftung",
+      "description": "Die Inhalte der Homepage www.simplifytax.at wurden mit bestmöglicher Sorgfalt recherchiert und werden aufend auf ihre Vollständigkeit und Richtigkeit geprüft. Dennoch können wir keine Garantie für die vollständige Funktion und Richtigkeit übernehmen. Alle Angaben erfolgen ohne Gewähr. Eine Haftung für Schäden, die sich aus der Verwendung der unter www.simplifytax.at veröffentlichten Inhalte oder Services ergeben, ist ausgeschlossen."
+    }
+  },
+  "Services": {
+    "FinancialAccounting": {
+      "title": "Finanzbuchhaltung (FIBU)",
+      "description": "Erfassung und Verarbeitung aller geschäftlichen Transaktionen. Dies schließt die Vorbereitung der Hauptbücher, Debitoren und Kreditorenbuchhaltung sowie die Abstimmung von Konten ein."
+    },
+    "PayrollAccounting": {
+      "title": "Personalverrechnung",
+      "description": "Verwaltung der Gehaltsabrechnungen, Sozialversicherungsbeiträge und Lohnsteueranmeldungen. Dies beinhaltet auch die Unterstützung bei arbeitsrechtlichen Fragen."
+    },
+    "AnnualFinancialStatementsAndAccounting": {
+      "title": "Jahresabschluss und Bilanzierung",
+      "description": "Erstellung von Jahresabschlüssen, Gewinn und Verlustrechnungen und Bilanzen für Einzelunternehmen, Personengesellschaften und Kapitalgesellschaften"
+    },
+    "TaxReturns": {
+      "title": "Steuererklärungen",
+      "description": "Vorbereitung und Einreichung verschiedener Steuererklärungen für Unternehmen und Privatpersonen, einschließlich Einkommensteuer Körperschaftsteuer und Umsatzsteuererklärungen."
+    },
+    "AdviceOnTaxMatters": {
+      "title": "Beratung in steuerlichen Belangen",
+      "description": "Beratung zu verschiedenen Themen des Steuerrechts, wie Steueroptimierung, Steuerplanung und -gestaltung sowie Unterstützung bei Betriebsprüfern."
+    },
+    "BusinessAdvice": {
+      "title": "Betriebswirtschaftliche Beratung",
+      "description": "Unterstützung bei der finanziellen Planung, Budgetierung, Investitionsplanung und anderen betriebswirtschaftlichen Entscheidungen."
+    },
+    "SuccessionPlanningAndBusinessValuation": {
+      "title": "Nachfolgeplanung und Unternehmensbewertung",
+      "description": "Beratung in Bezug auf die Unternehmensnachfolge, Bewertung von Unternehmen sowie Unterstützung bei Unternehmensverkäufen und -übernahmen."
+    },
+    "TaxAdviceOnInternationalMatters": {
+      "title": "Steuerberatung bei internationalen Sachverhalten",
+      "description": "Unterstützung bei Steuerfragen, die internationale Geschäftstätigkeiten betreffen, einschließlich Doppelbesteuerungsabkommen und grenzüberschreitender Steuerplanung."
+    },
+    "AdviceInFinancialCriminalLaw": {
+      "title": "Beratung & Unterstützung in Fragen des Finanzstrafrechts",
+      "description": "Das Finanzstrafrecht ist ein Teilgebiet des Wirtschaftsstrafrechts und befasst sich mit den rechtlichen Rahmenbedingungen zur Ahndung von Verstößen gegen steuerliche Pflichten."
+    }
+  },
+  "FinancialAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Finanzbuchhaltung",
+      "description": "Erfassung und Verarbeitung aller geschäftlichen Transaktionen, inklusive Vorbereitung der Hauptbücher, Debitoren- und Kreditorenbuchhaltung sowie Kontenabstimmung."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Effizienz, Transparenz und strategische Entscheidungsfindung",
+      "Advantage1": {
+        "title": "Finanzielle Übersicht",
+        "description": "Klarheit über Einnahmen und Ausgaben für besseres Management."
+      },
+      "Advantage2": {
+        "title": "Performance-Analyse",
+        "description": "Bewertung der Unternehmensleistung für strategische Verbesserungen."
+      },
+      "Advantage3": {
+        "title": "Entscheidungsfindung",
+        "description": "Basierend auf zuverlässigen finanziellen Daten treffsichere Entscheidungen treffen."
+      },
+      "Advantage4": {
+        "title": "Bugetierung und Prognosen",
+        "description": "Planung und Vorhersage zukünftiger finanzieller Aktivitäten für optimales Ressourcenmanagement."
+      },
+      "Advantage5": {
+        "title": "Transparenz gegenüber Stakeholdern",
+        "description": "Vertrauen durch offene Darstellung der finanziellen Situation gegenüber Investoren und Partnern."
+      },
+      "Advantage6": {
+        "title": "Einhaltung gesetzlicher Vorschriften",
+        "description": "Vermeidung von Sanktionen durch korrekte Buchführung gemäß gesetzlicher Richtlinien."
+      },
+      "Advantage7": {
+        "title": "Effizienzsteigerung",
+        "description": "Automatisierung von Prozessen reduziert Aufwand und Kosten."
+      },
+      "Advantage8": {
+        "title": "Risikomanagement",
+        "description": "Frühzeitige Erkennung und Minimierung finanzieller Risiken."
+      },
+      "Advantage9": {
+        "title": "Steuerplanung",
+        "description": "Optimierung der Steuerstrategie zur Maximierung der Einsparungen und Einhaltung der Vorschriften."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQ",
+      "title": "Finanzbuchhaltung",
+      "description": "Hier finden Sie Antworten auf die am häufigsten gestellten Fragen. Für weitere individuelle Fragen oder Beratungsbedarf stehen wir Ihnen gerne zur Verfügung.",
+      "Question1": {
+        "question": "Welche Buchhaltungssoftware verwendet ihr bei Simplify Tax Steuerberatung?",
+        "answer": "Wir verwenden seit Beginn unserer Tätigkeit BMD NTCS. Diese Software bietet umfangreiche Funktionalität und einen modularen Aufbau an. Es handelt ich um eine cloud-basierte Lösung, die zu hohem Grad automatisiert ist und die Integration von Schnittstellen anbietet."
+      },
+      "Question2": {
+        "question": "Was kosten Buchhaltungsleistungen bei Simplify Tax Steuerberatung?",
+        "answer": "Wir berechnen das Honorar für Buchhaltungsleistungen in Abhängigkeit von der Anzahl der Eingangsrechnungen, der Ausgangsrechnungen, Anzahl der Bankkonten und sonstigen Zahlungsmittelkonten. Dazu kalkulieren wir Zeit für Korrespondenz mit den Klient:innen und Verbuchung des Steuerkontos. Gerne erstellen wir ein individuelles Angebot passend zu Ihrem Unternehmen."
+      },
+      "Question3": {
+        "question": "Wie kompliziert ist der Wechsel des Steuerberaters betreffend meiner Buchhaltung?",
+        "answer": "Grundsätzlich ist der Wechsel des Steuerberaters keine komplizierte Angelegenheit. Dennoch sollte der Wechsel gut vorbereitet werden. Bevor ein Wechsel durchgeführt wird, empfehlen wir zuerst mit der aktuellen Steuerberater:in ein klärendes Gespräch zu führen, bei welchem Unstimmigkeiten geklärt werden können und die Zusammenarbeit wieder ermöglicht wird. Sollte das dennoch nicht mehr möglich sein, finden Sie hier einige Punkte, welche Sie beachten sollten: <ul><li>Prüfen Sie die vertragliche Bindung: sind Kündigungsfristen zu beachten? Falls Sie kündigen wollen, tun Sie das am besten schriftlich und beachten Sie die vertraglichen Fristen.</li><li>Neuer Steuerberater: verfügt die neue Steuerberater:in über die notwendigen branchenspezifischen Kenntnisse? Bei einem persönlichen Gespräch können Sie beurteilen, ob die „Chemie“ stimmt und ob die neue Steuerberater:in Ihre Bedürfnisse versteht.</li><li>Vollmacht: sobald Sie sich für eine neue Steuerberater:in entschieden haben, müssen Sie ihr oder ihm die Vollmacht zur Vertretung vor dem Finanzamt und sonstigen relevanten Behörden erteilen. Informieren Sie die bisherige Steuerberater:in über die Beendigung des Auftrags und der Vollmacht.</li><li>Informationsaustausch: holen Sie alle relevanten Unterlagen vom vorherigen Steuerberater ab und übermitteln Sie diese an die neue Steuerberater:in. Hier sollte Sie die neue Steuerberater:in über die relevanten Unterlagen informieren.</li><li>Übergabe und Übermittlung von Daten: im Optimalfall können die Daten aus dem System der vorherigen Steuerberater:in exportiert werden und in das System der neuen Steuerberater:in importiert werden.</li></ul>"
+      },
+      "Question4": {
+        "question": "Bis wann muss die Umsatzsteuer an das Finanzamt bezahlt werden?",
+        "answer": "Die Umsatzsteuerzahllast ist bis zum 15. des zweitfolgenden Monats nach Ende des Voranmeldungszeitraums an das Finanzamt zu überweisen. Dabei ist zu beachten, ob Sie die Umsatzsteuervoranmeldung monatlich oder quartalsweise einreichen müssen.<ul><li>Beispiel bei monatlicher Umsatzsteuervoranmeldung: die Zahllast für das Monat Februar ist bis zum 15. April einzuzahlen.</li><li>Beispiel bei quartalsweiser Umsatzsteuervoranmeldung: die Zahllast für das erste Quartal ist bis zum 15. Mai einzuzahlen.</li></ul>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren."
+      }
+    }
+  },
+  "PayrollAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Personalverrechnung",
+      "description": "Verwaltung der Gehaltsabrechnungen, Sozialversicherungsbeiträge und Lohnsteueranmeldungen. Dies beinhaltet auch die Unterstützung bei arbeitsrechtlichen Fragen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Compliance, Datenschutz und Expertenwissen",
+      "Advantage1": {
+        "title": "Einhalten gesetzlicher Vorschriften",
+        "description": "Sichert Compliance mit aktuellen Steuer- und Arbeitsgesetzen."
+      },
+      "Advantage2": {
+        "title": "Datenschutz und Datensicherheit",
+        "description": "Schutz sensibler Daten durch moderne Sicherheitstechnologien."
+      },
+      "Advantage3": {
+        "title": "Zugang zu Expertenwissen",
+        "description": "Nutzen Sie das Fachwissen erfahrener Personalverrechner."
+      },
+      "Advantage4": {
+        "title": "Verbesserte Mitarbeiterzufriedenheit",
+        "description": "Pünktliche und korrekte Abrechnungen steigern das Wohlbefinden."
+      },
+      "Advantage5": {
+        "title": "Detaillierte Berichte und Analysen",
+        "description": "Erhalten Sie Einblicke zur Optimierung der Personalkosten."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQ",
+      "title": "Personalverrechnung",
+      "description": "Hier finden Sie Antworten auf die am häufigsten gestellten Fragen. Für weitere individuelle Fragen oder Beratungsbedarf stehen wir Ihnen gerne zur Verfügung.",
+      "Question1": {
+        "question": "Bis wann müssen Lohnsteuer, Kommunalsteuer, Lohnnebenkosten und Sozialversicherungsbeiträge bezahlt werden?",
+        "answer": "<ul><li>Lohnsteuer: bis zum 15. des Folgemonats</li><li>Lohnnebenkosten (DB, DZ): bis zum 15. des Folgemonats</li><li>Kommunalsteuer: bis zum 15. des Folgemonats</li><li>Sozialversicherungsbeiträge: bis zum 15. des Folgemonats</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question2": {
+        "question": "Bis wann muss der Jahreslohnzettel übermittelt werden?",
+        "answer": "<ul><li>Der Jahreslohnzettel muss bis Ende Februar des Folgejahres dem Finanzamt übermittelt worden sein. Dies wird für gewöhnlich von der Kanzlei, welche die Lohnverrechnung erstellt, durchgeführt.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question3": {
+        "question": "Was ist eine GPLB?",
+        "answer": "<ul><li>Es handelt sich hierbei um eine gemeinsame Prüfung von Lohnabgaben und Beiträgen. Dabei prüft die Behörde die Lohnsteuer, den Dienstgeberbeitrag zum Familienlastenausgleichsfond (DB), den Zuschlag zum Dienstgeberbeitrag (DZ), die Kommunalsteuer (KommSt) und die Sozialversicherungsbeiträge. Dabei sind insbesondere die Lohnunterlagen, die Arbeitszeitaufzeichnungen, die Dienstverträge, die Reisekostenunterlagen und die Auszahlungsbelege zu prüfen.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question4": {
+        "question": "Wann ist der beste Zeitpunkt den Anbieter für Personalverrechnung zu wechseln?",
+        "answer": "Grundsätzlich entsteht am wenigsten Aufwand wenn Sie den Anbieter zum Ende des jeweiligen Jahres wechseln. Hierbei handelt es sich um keine gesetzliche Vorgabe. Ein unterjähriger Wechsel ist jederzeit möglich. Wir empfehlen jedoch vor Wechsel des Anbieters die derzeitige Kanzlei zu kontaktieren, um Unstimmigkeiten nach Möglichkeit zu beseitigen."
+      }
+    }
+  },
+  "AnnualFinancialStatementsAndAccountingPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Jahresabschluss und Bilanzierung",
+      "description": "Erstellung von Jahresabschlüssen, Gewinn und Verlustrechnungen und Bilanzen für Einzelunternehmen, Personengesellschaften und Kapitalgesellschaften"
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Transparenz, Compliance und strategische Planung",
+      "Advantage1": {
+        "title": "Rechtliche Konformität",
+        "description": "Sicherstellung der Einhaltung gesetzlicher Anforderungen."
+      },
+      "Advantage2": {
+        "title": "Finanzielle Transparenz",
+        "description": "Klare Übersicht über finanzielle Lage des Unternehmens."
+      },
+      "Advantage3": {
+        "title": "Entscheidungshilfe für Unternehmensführung.",
+        "description": "Bietet wertvolle Daten für strategische Entscheidungen."
+      },
+      "Advantage4": {
+        "title": "Benchmarking und Performance-Überwachung",
+        "description": "Ermöglicht Vergleich mit Branchenstandards und Leistungskontrolle."
+      },
+      "Advantage5": {
+        "title": "Unterstützung bei Kreditanträgen",
+        "description": "Verbessert Chancen auf Kreditgenehmigungen durch Banken."
+      },
+      "Advantage6": {
+        "title": "Strategische Planung und Prognosen",
+        "description": "Grundlage für Zukunftsplanung und Wachstumsprognosen."
+      },
+      "Advantage7": {
+        "title": "Verbessertes Risikomanagement",
+        "description": "Hilft, finanzielle Risiken besser zu identifizieren und zu steuern."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQ",
+      "title": "Jahresabschluss und Bilanzierung",
+      "description": "Hier finden Sie Antworten auf die am häufigsten gestellten Fragen. Für weitere individuelle Fragen oder Beratungsbedarf stehen wir Ihnen gerne zur Verfügung.",
+      "Question1": {
+        "question": "Bis wann ist der Jahresabschluss dem „Firmenbuch“ zu übermitteln?",
+        "answer": "<ul><li>Der Jahresabschluss ist spätestens 9 Monate nach dem Bilanzstichtag dem Firmenbuchgericht zu übermitteln (offenzulegen).</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question2": {
+        "question": "Wer muss den Jahresabschluss dem „Firmenbuch“ offenlegen?",
+        "answer": "<ul><li>Die Verpflichtung zur Offenlegung haben Kapitalgesellschaften (z.B. GmbH oder AG).</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li><ul>"
+      },
+      "Question3": {
+        "question": "Was passiert, wenn der Jahresabschluss zu spät dem „Firmenbuch“ übermittelt wird?",
+        "answer": "<ul><li>Sollte der Jahresabschluss zu spät offengelegt werden, so drohen Strafen von mindestens EUR 350,00 bei Kleinstgesellschaften bzw. EUR 700,00 bei alle anderen Kapitalgesellschaften. Dabei fallen die Strafen pro Geschäftsführer und zusätzlich für die Gesellschaft an.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question4": {
+        "question": "Muss der Jahresabschluss auch dem Finanzamt übermittelt werden?",
+        "answer": "<ul><li>Ja, der Jahresabschluss muss dem Finanzamt übermittelt werden. Dies geschieht mittels der E-Bilanz. Es reicht nicht „nur“ die Steuererklärungen zu übermitteln.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      }
+    }
+  },
+  "TaxReturnsPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Steuererklärungen",
+      "description": "Vorbereitung und Einreichung verschiedener Steuererklärungen für Unternehmen und Privatpersonen, einschließlich Einkommensteuer, Körperschaftsteuer und Umsatzsteuererklärungen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Gesetzeskonformität, Steuerersparnis und Fehlervermeidung",
+      "Advantage1": {
+        "title": "Einhaltung gesetzlicher Anforderungen",
+        "description": "Vermeidet Bußgelder durch Gesetzeskonformität."
+      },
+      "Advantage2": {
+        "title": "Steuerersparnisse und -optimierung",
+        "description": "Senkt Steuerlast durch strategische Planung."
+      },
+      "Advantage3": {
+        "title": "Vermeidung von Fehlern",
+        "description": "Reduziert Risiko kostspieliger Fehler."
+      },
+      "Advantage4": {
+        "title": "Verbesserte Finanzplanung und -management",
+        "description": "Ermöglicht präzisere Budgetierung."
+      },
+      "Advantage5": {
+        "title": "Transparenz und Glaubwürdigkeit",
+        "description": "Stärkt Vertrauen bei Partnern und Investoren."
+      },
+      "Advantage6": {
+        "title": "Unterstützung bei Finanzierungen und Kreditanträgen",
+        "description": "Verbessert Bonität bei Banken."
+      },
+      "Advantage7": {
+        "title": "Aktualisierung über Änderungen im Steuerrecht",
+        "description": "Hält Ihr Unternehmen auf dem neuesten Stand."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    },
+    "FaqArticle": {
+      "subtitle": "FAQ",
+      "title": "Steuererklärungen",
+      "description": "Hier finden Sie Antworten auf die am häufigsten gestellten Fragen. Für weitere individuelle Fragen oder Beratungsbedarf stehen wir Ihnen gerne zur Verfügung.",
+      "Question1": {
+        "question": "Bis wann muss die Steuererklärung dem Finanzamt übermittelt worden sein?",
+        "answer": "<ul><li>Die Jahressteuererklärungen müssen in Papierform bis zum 30.04. des Folgejahres übermittelt worden sein. Über FinanzOnline darf man diese bis zum 30.06. des Folgejahres übermitteln. Wenn Sie von einer Steuerberater:in vertreten werden, verlängert sich diese Frist.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question2": {
+        "question": "Was passiert, wenn die Frist zur Abgabe der Steuererklärungen verstrichen ist?",
+        "answer": "<ul><li>Wir empfehlen jedenfalls dies nachzuholen. Dabei ist zu beachten, dass bei einer Steuerverkürzung eine Selbstanzeige unter Umständen empfehlenswert wäre. Durch eine wirksame Selbstanzeige können Strafen nach dem Finanzstrafgesetz vermieden werden. Die Steuer muss jedoch auf jeden Fall nachgezahlt werden. Darüber hinaus fallen unter Umständen Zinsen und Zuschläge an.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      },
+      "Question3": {
+        "question": "Was passiert, wenn ich zu niedrige Einkünfte oder Umsätze in meine Steuererklärung angegeben habe?",
+        "answer": "<ul><li>Hier besteht die Möglichkeit zur Abgabe einer Selbstanzeige. Durch die Abgabe einer Selbstanzeige können finanzstrafrechtliche Folgen vermieden werden. Dabei ist es wichtig die Voraussetzungen für eine wirksame Selbstanzeige zu beachten. Wir unterstützen Sie gerne dabei.</li><li>Wir weisen ausdrücklich darauf hin, dass es sich hierbei um allgemeine Informationen handelt, die keinen Anspruch auf Vollständigkeit haben und nicht als Beratung aufzufassen sind. Wir empfehlen jedenfalls eine Steuerberater:in zu diesem Thema zu kontaktieren.</li></ul>"
+      }
+    }
+  },
+  "AdviceOnTaxMattersPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Beratung in steuerlichen Belangen",
+      "description": "Beratung zu verschiedenen Themen des Steuerrechts, wie Steueroptimierung, Steuerplanung und -gestaltung sowie Unterstützung bei Betriebsprüfern."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Optimierung, Compliance und Risikomanagement",
+      "Advantage1": {
+        "title": "Steuerersparnis und -optimierung",
+        "description": "Reduzierung der Steuerlast durch strategische Planung und Nutzung aller gesetzlichen Möglichkeiten."
+      },
+      "Advantage2": {
+        "title": "Vermeidung von Steuerstrafen",
+        "description": "Verhindert teure Fehler und Sanktionen durch Compliance mit aktuellen Steuervorschriften."
+      },
+      "Advantage3": {
+        "title": "Unterstützung bei komplexen Transaktionen",
+        "description": "Expertenwissen bei Fusionen, Übernahmen und anderen steuerlich relevanten Vorgängen."
+      },
+      "Advantage4": {
+        "title": "Aktuelle Informationen zu Steuergesetzen und -regelungen",
+        "description": "Sicherstellung der Nutzung aktueller Steuervorteile durch ständige Rechtsbeobachtung."
+      },
+      "Advantage5": {
+        "title": "Risikomanagement",
+        "description": "Identifikation und Minimierung steuerlicher Risiken zur Sicherung der Unternehmenszukunft."
+      },
+      "Advantage6": {
+        "title": "Beratung in Fragen des internationalen Steuerrechts",
+        "description": "Optimierung der Steuerbelastung bei grenzüberschreitenden Aktivitäten und Strukturen."
+      },
+      "Advantage7": {
+        "title": "Individualisierte Lösungen",
+        "description": "Maßgeschneiderte Steuerstrategien, die auf die spezifischen Bedürfnisse des Unternehmens abgestimmt sind."
+      },
+      "Advantage8": {
+        "title": "Vertauensvolle Beziehung und laufende Unterstützung",
+        "description": "Aufbau einer langfristigen Partnerschaft für kontinuierliche steuerliche Optimierung."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    }
+  },
+  "BusinessAdvicePage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Betriebswirtschaftliche Beratung",
+      "description": "Unterstützung bei der finanziellen Planung, Budgetierung, Investitionsplanung und anderen betriebswirtschaftlichen Entscheidungen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Effizienz, Strategie und Nachhaltigkeit",
+      "Advantage1": {
+        "title": "Organisationsentwicklung",
+        "description": "Optimierung interner Abläufe und Strukturen zur Steigerung der operativen Effizienz."
+      },
+      "Advantage2": {
+        "title": "Personalmanagement",
+        "description": "Strategien zur Personalentwicklung, Motivation und Leistungssteigerung für ein starkes Team."
+      },
+      "Advantage3": {
+        "title": "Langfristige Planung und Nachhaltigkeit",
+        "description": "Förderung von Wachstum und Zukunftsfähigkeit durch nachhaltige Geschäftsstrategien."
+      },
+      "Advantage4": {
+        "title": "Strategische Entscheidungsfindung",
+        "description": "Unterstützung bei der Entwicklung und Implementierung von zielführenden Strategien."
+      },
+      "Advantage5": {
+        "title": "Effizienzsteigerung",
+        "description": "Identifizierung und Minimierung von Ineffizienzen zur Kostensenkung und Produktivitätssteigerung."
+      },
+      "Advantage6": {
+        "title": "Finanzielle Analyse und Management",
+        "description": "Detaillierte Finanzanalysen für bessere Budgetkontrolle und finanzielle Entscheidungsfindung."
+      },
+      "Advantage7": {
+        "title": "Risikomanagement",
+        "description": "Erkennung und Minimierung potenzieller Risiken zur Sicherung der Unternehmensstabilität."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    }
+  },
+  "SuccessionPlanningAndBusinessValuationPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Nachfolgeplanung und Unternehmensbewertung",
+      "description": "Beratung in Bezug auf die Unternehmensnachfolge, Bewertung von Unternehmen sowie Unterstützung bei Unternehmensverkäufen und -übernahmen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Kontinuität, Wertsteigerung und Risikomanagement",
+      "Advantage1": {
+        "title": "Sicherung der Unternehmenskontinuität",
+        "description": "Gewährleistet einen reibungslosen Übergang und sichert das Fortbestehen des Unternehmens."
+      },
+      "Advantage2": {
+        "title": "Maximierung des Unternehmenswertes",
+        "description": "Identifiziert und steigert Werttreiber, optimiert die finanzielle Performance vor einem Verkauf."
+      },
+      "Advantage3": {
+        "title": "Vermeidung von Konflikten",
+        "description": "Klare Nachfolgepläne minimieren Risiken von Streitigkeiten unter Stakeholdern oder Familienmitgliedern."
+      },
+      "Advantage4": {
+        "title": "Anpassung an persönliche Ziele und Umstände",
+        "description": "Ermöglicht individuelle Lösungen, die den persönlichen und geschäftlichen Zielen entsprechen."
+      },
+      "Advantage5": {
+        "title": "Risikomanagement",
+        "description": "Frühe Identifikation und Minimierung von Risiken, die den Unternehmenswert und die Stabilität bedrohen könnten."
+      },
+      "Advantage6": {
+        "title": "Attraktivität für Investoren und Kreditgeber",
+        "description": "Eine solide Bewertung und Nachfolgeplanung steigert das Vertrauen und die Investitionsbereitschaft."
+      },
+      "Advantage7": {
+        "title": "Vorbereitung auf unvorhergesehene Ereignisse",
+        "description": "Sorgt für einen Plan B bei plötzlichen Änderungen wie dem Ausfall von Schlüsselpersonen."
+      },
+      "Advantage8": {
+        "title": "Erhaltung des Vermächtnisses und der Unternehmenskultur",
+        "description": "Sichert die Werte und Traditionen des Unternehmens für zukünftige Generationen."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    }
+  },
+  "TaxAdviceOnInternationalMattersPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Steuerberatung bei internationalen Sachverhalten",
+      "description": "Unterstützung bei Steuerfragen, die internationale Geschäftstätigkeiten betreffen, einschließlich Doppelbesteuerungsabkommen und grenzüberschreitender Steuerplanung."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Doppelbesteuerung, Compliance und Strukturierung",
+      "Advantage1": {
+        "title": "Beratung zu Doppelbesteuerungsabkommen",
+        "description": "Umfassende Beratung zur Nutzung von Doppelbesteuerungsabkommen, um Steuerbelastungen für international agierende Unternehmen und Individuen zu minimieren."
+      },
+      "Advantage2": {
+        "title": "Strukturierung internationaler Geschäftstätigkeiten",
+        "description": "Optimierung der Unternehmensstruktur zur Effizienzsteigerung und Risikominimierung bei internationalen Geschäftsoperationen."
+      },
+      "Advantage3": {
+        "title": "Beratung bei grenzüberschreitenden M&A-Transaktionen",
+        "description": "Spezialisierte Unterstützung bei der Steueroptimierung und Compliance im Rahmen von grenzüberschreitenden Fusionen, Übernahmen und Umstrukturierungen."
+      },
+      "Advantage4": {
+        "title": "Compliance und Berichterstattung",
+        "description": "Sicherstellung der Einhaltung internationaler Steuervorschriften und Unterstützung bei der Erstellung und Einreichung erforderlicher Dokumente und Berichte."
+      },
+      "Advantage5": {
+        "title": "Umsatzsteuerberatung",
+        "description": "Beratung zu Umsatzsteuerfragen im internationalen Kontext, einschließlich der Registrierung und Abführung in verschiedenen Jurisdiktionen."
+      },
+      "Advantage6": {
+        "title": "Beratung zu ausländischen Investitionen",
+        "description": "Strategische Beratung zur steuereffizienten Gestaltung und Strukturierung von Investitionen im Ausland."
+      },
+      "Advantage7": {
+        "title": "Steuerplanung für Expatriates",
+        "description": "Individuelle Steuerplanungs- und Compliance-Dienstleistungen für Expatriates, inklusive Beratung zu steuerlichen Residenzfragen und Vermeidung von Doppelbesteuerung."
+      },
+      "Advantage8": {
+        "title": "Beratung zu digitalen Steuern",
+        "description": "Vorausschauende Beratung und Anpassungsstrategien für Unternehmen, die von digitalen Steuergesetzen und -regelungen betroffen sind oder diese nutzen wollen."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    }
+  },
+  "AdviceInFinancialCriminalLawPage": {
+    "HeroArticle": {
+      "subtitle": "Leistungen",
+      "title": "Beratung & Unterstützung in Fragen des Finanzstrafrechts",
+      "description": "Das Finanzstrafrecht ist ein Teilgebiet des Wirtschaftsstrafrechts und befasst sich mit den rechtlichen Rahmenbedingungen zur Ahndung von Verstößen gegen steuerliche Pflichten."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Rechtschutz, Strafvermeidung und effiziente Verfahrensführung",
+      "Advantage1": {
+        "title": "Gesprächsbasis auf einer Augenhöhe mit den Behörden",
+        "description": "Förderung eines offenen Dialogs und Verständnisses für komplexe steuerrechtliche Themen, was zu einer transparenteren und effizienteren Kommunikation führt."
+      },
+      "Advantage2": {
+        "title": "Schutz der Rechte des Steuerpflichtigen",
+        "description": "Sicherstellung der Einhaltung der gesetzlichen Rechte, die dem Steuerpflichtigen bzw. Beschuldigten zustehen"
+      },
+      "Advantage3": {
+        "title": "Vermeidung von Strafen",
+        "description": "Eventuelle Vermeidung von finanzstrafrechtlichen Konsequenzen durch Vorbringen gesetzlich vorgesehener Schuld- und Strafausschließungsgründe (z.B. Selbstanzeigen, Verjährung, Schuldunfähigkeit, etc.)"
+      },
+      "Advantage4": {
+        "title": "Sicherstellung eines fairen und raschen Verfahrens",
+        "description": "Ermöglichung einer schnellen und gerechten Klärung von Sachverhalten, die zur Minimierung von Unannehmlichkeiten und finanziellen Belastungen führt."
+      },
+      "Advantage5": {
+        "title": "Kooperation und informelle Gespräche mit den Behörden",
+        "description": "Aufbau einer vertrauensvollen Beziehung zu den Finanzbehörden, die eine konstruktive Lösungsfindung in strittigen Fällen unterstützt."
+      }
+    },
+    "PartnerArticle": {
+      "subtitle": "Partner",
+      "title": "Integrationen für effizientes Workflow-Managemement",
+      "description": "Nahtlose Verbindungen für eine effiziente Zusammenarbeit - unsere integrierten Lösungen optimieren Ihre Geschäftsabläufe."
+    }
+  },
+  "CoreCompetences": {
+    "ECommerce": {
+      "title": "E-Commerce",
+      "description": "Wir optimieren Steuerstrukturen, bieten umsatzsteuerliche Beratung für grenzüberschreitenden Handel und unterstützen bei der steuerlichen Gestaltung digitaler Geschäftsmodelle."
+    },
+    "StartUps": {
+      "title": "Start-Ups",
+      "description": "Wir bieten Gründungsberatung inklusive Rechtsformwahl, begleiten steuerlich bei der Entwicklung und Skalierung von Start-Ups und unterstützen bei Fördermitteln sowie steuerlichen Anreizen."
+    },
+    "RealEstate": {
+      "title": "Immobilien",
+      "description": "Unsere Expertise umfasst die steuerliche Optimierung von Investitionen, Beratung bei Verkauf und Kauf von Immobilien sowie die Erstellung steueroptimierter Konzepte für Immobilienportfolios."
+    },
+    "Doctors": {
+      "title": "Ärzte",
+      "description": "Wir bieten umfangreiche Expertise in den alltäglichen steuerlichen Belangen von Arztpraxen, sowie sonstigen nebenbei bestehenden Einkunftsquellen."
+    },
+    "Pharmacies": {
+      "title": "Apotheker",
+      "description": "Wir unterstützen mit unserer steuerlichen Expertise betreffend Ein- und Verkauf von Arzneimitteln und Produkten, diagnostischen Tätigkeiten, uvm."
+    },
+    "HotelsGastronomy": {
+      "title": "Hotels und Gastronomie",
+      "description": "Wir bieten maßgeschneiderte Lösungen für Ihren Hotel- und Gastronomiebetrieb, damit Sie sich auf Ihre Gäste fokussieren können."
+    },
+    "ClassicTaxAdvice": {
+      "title": "Klassische Steuerberatung",
+      "description": "Wir unterstützen Privatpersonen und Unternehmer umfassend und vollumfänglich in sämtlichen steuerlichen Belangen."
+    },
+    "ChoiceOfLegalFormRestructuring": {
+      "title": "Rechtsformwahl und Umstrukturierung",
+      "description": "Sowohl die Wahl der Rechtsform und Umstrukturierungen zum richtigen Zeitpunkt sind entscheidend für den Erfolg Ihres Unternehmens."
+    },
+    "ContentCreatorInfluencerESports": {
+      "title": "Content Creator, Influencer und E-Sports",
+      "description": "Wir unterstützen Content Creator und E-Sportler bei der richtigen Erfassung ihrer vielfältigen Einkunftsquellen."
+    }
+  },
+  "ECommercePage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiet",
+      "title": "E-Commerce",
+      "description": "Erfolgreiche Navigation durch den digitalen Markt, indem wir innovative Lösungen für Ihre Handelsbedürfnisse bieten."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Digitale Handelslösungen",
+      "description": "Optimieren Sie Ihre E-Commerce-Strategie mit maßgeschneiderten, digitalen Lösungen und umfassender steuerlicher Beratung.",
+      "moreLink": "Weiter",
+      "Block1": {
+        "title": "Automatisierung und Digitalisierung",
+        "description": "Die Automatisierung und Digitalisierung der Buchhaltung bringen zahlreiche Vorteile mit sich, die sowohl die Effizienz als auch die Genauigkeit der finanziellen Prozesse verbessern."
+      },
+      "Block2": {
+        "title": "Schnittstellen",
+        "description": "Die Verwendung von Schnittstellen in der Buchhaltung, oft im Kontext von Softwareintegrationen gesehen, bietet zahlreiche Vorteile. Diese Schnittstellen ermöglichen die Kommunikation zwischen verschiedenen Buchhaltungssystemen und anderen Geschäftsapplikationen, was zu einer effizienteren und fehlerfreien Datenverwaltung führt."
+      },
+      "Block3": {
+        "title": "Automatisierte Fakturierung an Kunden",
+        "description": "Die automatische Fakturierung bietet viele Vorteile, die sowohl für kleine als auch für große Unternehmen nützlich sein können."
+      },
+      "Block4": {
+        "title": "Digitale Vertriebskanäle",
+        "description": "Digitale Vertriebskanäle bieten Unternehmen eine Vielzahl von Vorteilen, die vor allem in der heutigen, technologisch vernetzten Welt von Bedeutung sind."
+      },
+      "Block5": {
+        "title": "Einhaltung gesetzlicher Vorschriften",
+        "description": "Die steuerlichen Vorschriften für digitale Vertriebskanäle können komplex sein, da sie sich je nach Land und Art der verkauften digitalen Produkte oder Dienstleistungen unterscheiden. Wir unterstützen Sie gemeinsam mit Partner innerhalb und außerhalb Österreichs dabei diese Vorschriften einzuhalten."
+      }
+    }
+  },
+  "ECommerceAutomatedInvoicingToCustomersPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Automatisierte Fakturierung an Kunden",
+      "description": "Sollten Sie bereits ein System zur automatischen Fakturierung im Betrieb im Einsatz haben, zeigen wir Ihnen auf, welche Vorteile Sie daraus ziehen können. Sollten Sie derzeit noch nicht über ein System zur automatischen Fakturierung verfügen, zeigen wir Ihnen Alternativen auf, um Ihre Fakturierung schneller, effizienter und kostengünstiger zu gestalten."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Warum Sie auf Automatisierung setzen sollten",
+      "description": "Die automatische Fakturierung bietet viele Vorteile, die sowohl für kleine als auch für große Unternehmen nützlich sein können.",
+      "Advantage1": {
+        "title": "Zeitersparnis",
+        "description": "Die Automatisierung des Fakturierungsprozesses spart erhebliche Zeit, da manuelle Aufgaben wie das Erstellen, Versenden und Nachverfolgen von Rechnungen minimiert werden."
+      },
+      "Advantage2": {
+        "title": "Reduzierung von Fehlern",
+        "description": "Automatische Systeme verringern das Risiko menschlicher Fehler, die bei der manuellen Datenübertragung auftreten können. Dadurch werden Genauigkeit und Zuverlässigkeit erhöht."
+      },
+      "Advantage3": {
+        "title": "Verbesserte Cashflows",
+        "description": "Schnellere Rechnungsstellung führt zu schnelleren Zahlungseingängen. Automatische Erinnerungen und Zahlungsaufforderungen können ebenfalls dazu beitragen, dass Zahlungen rechtzeitig eingehen."
+      },
+      "Advantage4": {
+        "title": "Skalierbarkeit",
+        "description": "Automatisierung erleichtert die Skalierung von Geschäftsprozessen. Unternehmen können leichter wachsen, da die Systeme flexibel ansteigende Rechnungsvolumen angepasst werden können, ohne zusätzliche personelle Ressourcen einstellen zu müssen."
+      },
+      "Advantage5": {
+        "title": "Kostenreduktion",
+        "description": "Durch die Verringerung der Notwendigkeit manueller Arbeit können auch die mit der Rechnungsstellung verbundenen Verwaltungskosten gesenkt werden."
+      },
+      "Advantage6": {
+        "title": "Bessere Kundenbeziehungen",
+        "description": "Ein professionelles und konsistentes Rechnungsstellungssystem verbessert das Kundenerlebnis. Klare und präzise Rechnungen zusammen mit pünktlichen Lieferungen stärken das Vertrauen der Kunden."
+      },
+      "Advantage7": {
+        "title": "Umweltfreundlichkeit",
+        "description": "Die Reduzierung des Papierverbrauchs durch digitale Rechnungen trägt zum Umweltschutz bei."
+      },
+      "Advantage8": {
+        "title": "Integrationsfähigkeit",
+        "description": "Moderne Fakturierungssysteme lassen sich oft nahtlos in andere Geschäftssysteme wie Buchhaltung, CRM und ERP integrieren, wodurch Datenkonsistenz und Workflow-Effizienz verbessert werden."
+      },
+      "Advantage9": {
+        "title": "Verbesserte Datensicherheit",
+        "description": "Automatisierte Systeme bieten oft fortschrittliche Sicherheitsmaßnahmen zum Schutz sensibler finanzieller Daten."
+      },
+      "Advantage10": {
+        "title": "Detaillierte Berichterstattung",
+        "description": "Automatische Systeme können umfangreiche Analysen und Berichte generieren, die Einblicke in Verkaufstrends, Kundenverhalten und andere wichtige Geschäftsmetriken bieten."
+      }
+    }
+  },
+  "ECommerceAutomationAndDigitalisationPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Automatisierung und Digitalisierung",
+      "description": "Die Automatisierung und Digitalisierung der Buchhaltung bringen zahlreiche Vorteile mit sich, die sowohl die Effizienz als auch die Genauigkeit der finanziellen Prozesse verbessern."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Die Zukunft des E-Commerce",
+      "description": "Wie moderne Technologien den E-Commerce revolutionieren und die Effizienz steigern.",
+      "Advantage1": {
+        "title": "Zeiteinsparung",
+        "description": "Durch die Automatisierung von wiederkehrenden Aufgaben wie der Dateneingabe und der Rechnungsstellung können Buchhalter erheblich Zeit sparen. Dies ermöglicht es ihnen, sich auf komplexere und wertschöpfende Aktivitäten zu konzentrieren."
+      },
+      "Advantage2": {
+        "title": "Kosteneffizienz",
+        "description": "Automatisierte Systeme reduzieren den Bedarf an manueller Arbeit, was zu geringeren Personalkosten führen kann. Zudem können Fehler, die zu finanziellen Verlusten führen könnten, minimiert werden."
+      },
+      "Advantage3": {
+        "title": "Verbesserte Genauigkeit",
+        "description": "Automatisierte Buchhaltungssysteme verringern das Risiko menschlicher Fehler. Die Genauigkeit der Finanzdaten wird erhöht, was zu verlässlicheren Finanzberichten führt."
+      },
+      "Advantage4": {
+        "title": "Echtzeit-Informationen",
+        "description": "Digitalisierte Systeme ermöglichen den Zugriff auf aktuelle Finanzdaten in Echtzeit. Entscheidungsträger können so schneller auf Veränderungen reagieren und fundiertere Entscheidungen treffen."
+      },
+      "Advantage5": {
+        "title": "Verbesserte Compliance",
+        "description": "Automatisierung hilft, sicherzustellen, dass alle buchhalterischen Vorgänge gemäß den geltenden Gesetzen und Vorschriften durchgeführt werden. Automatische Updates sorgen dafür, dass die Systeme immer auf dem neuesten Stand der regulatorischen Anforderungen sind."
+      },
+      "Advantage6": {
+        "title": "Einfachere Auditierungen",
+        "description": "Digitalisierte Aufzeichnungen sind leichter zu überprüfen als manuelle Buchhaltungssätze. Dies vereinfacht den Auditprozess und verringert das Risiko von Compliance-Problemen."
+      },
+      "Advantage7": {
+        "title": "Verbesserte Datenanalyse und Berichterstattung",
+        "description": "Mit modernen Buchhaltungstools können Unternehmen komplexe Datenanalysen durchführen und detaillierte Berichte erstellen. Dies trägt zur besseren strategischen Planung und Leistungskontrolle bei."
+      },
+      "Advantage8": {
+        "title": "Zentralisierung der Finanzverwaltung",
+        "description": "Digitale Systeme ermöglichen die Zentralisierung der finanziellen Prozesse, was die Verwaltung mehrerer Konten und Transaktionen erleichtert, insbesondere in größeren Unternehmen oder Unternehmen mit mehreren Standorten."
+      },
+      "Advantage9": {
+        "title": "Skalierbarkeit",
+        "description": "Automatisierte und digitalisierte Buchhaltungssysteme können leicht skaliert werden, um mit dem Wachstum des Unternehmens Schritt zu halten, ohne dass erheblich mehr Ressourcen erforderlich sind."
+      },
+      "Advantage10": {
+        "title": "Mobilität und Flexibilität",
+        "description": "Cloud-basierte Buchhaltungslösungen ermöglichen den Zugriff auf Finanzdaten von jedem Ort und zu jeder Zeit, was besonders für mobile Arbeitskräfte oder bei der Arbeit im Homeoffice vorteilhaft ist."
+      }
+    }
+  },
+  "ECommerceDigitalSalesChannelsPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Digitale Vertriebskanäle",
+      "description": "Digitale Vertriebskanäle bieten Unternehmen eine Vielzahl von Vorteilen, die vor allem in der heutigen, technologisch vernetzten Welt von Bedeutung sind. Hier sind einige der wichtigsten Vorteile:"
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Fokus",
+      "title": "Vorteile",
+      "description": "Wir unterstützen Sie bei der Erweiterung Ihres Geschäftsmodels und beraten in den Bereichen Dropshipping, Pan-EU, Multichannel und vieles mehr.",
+      "Advantage1": {
+        "title": "Erweiterte Reichweite",
+        "description": "Digitale Kanäle ermöglichen es Unternehmen, Kunden über geografische und zeitliche Grenzen hinweg zu erreichen. Dies öffnet den Zugang zu globalen Märkten und ermöglicht es Unternehmen, eine viel breitere Kundengruppe anzusprechen."
+      },
+      "Advantage2": {
+        "title": "Kosteneffizienz",
+        "description": "Im Vergleich zu traditionellen Vertriebswegen sind digitale Kanäle oft kostengünstiger. Die Einrichtung und Wartung eines Online-Shops kann beispielsweise weniger kostenintensiv sein als die Unterhaltung physischer Ladenflächen."
+      },
+      "Advantage3": {
+        "title": "Datenanalyse und Kundenverständnis",
+        "description": "Digitale Kanäle bieten umfangreiche Möglichkeiten zur Datenerhebung und -analyse. Unternehmen können das Verhalten und die Vorlieben ihrer Kunden besser verstehen und dieses Wissen nutzen, um ihre Angebote und Marketingstrategien zu optimieren."
+      },
+      "Advantage4": {
+        "title": "Personalisierung",
+        "description": "Digitale Technologien ermöglichen eine hohe Personalisierung des Kundenerlebnisses. Unternehmen können personalisierte Empfehlungen, Angebote und Inhalte basierend auf dem Kaufverhalten und den Präferenzen der Kunden anbieten, was die Kundenzufriedenheit und -bindung verbessert."
+      },
+      "Advantage5": {
+        "title": "Schnelligkeit und Bequemlichkeit",
+        "description": "Digitale Vertriebskanäle ermöglichen schnelle Transaktionen und eine hohe Bequemlichkeit für die Kunden. Online-Einkäufe können zu jeder Tages- und Nachtzeit getätigt werden, ohne dass die Kunden ihr Zuhause verlassen müssen."
+      },
+      "Advantage6": {
+        "title": "Flexibilität und Skalierbarkeit",
+        "description": "Digitale Vertriebskanäle sind hochgradig skalierbar. Unternehmen können schnell und flexibel auf Marktveränderungen reagieren, neue Produkte einführen oder Werbeaktionen starten, ohne große Vorlaufzeiten oder zusätzliche Infrastruktur."
+      },
+      "Advantage7": {
+        "title": "Direkter Kundenkontakt und Feedback",
+        "description": "Digitale Kanäle ermöglichen einen direkten Dialog mit den Kunden. Unternehmen können Kundenfeedback in Echtzeit erhalten und darauf reagieren, was zur Verbesserung der Produkte und Dienstleistungen beitragen kann."
+      },
+      "Advantage8": {
+        "title": "Integration mit anderen digitalen Marketingstrategien",
+        "description": "Digitale Vertriebskanäle lassen sich nahtlos mit anderen Marketingstrategien wie Social Media Marketing, E-Mail-Kampagnen und Suchmaschinenoptimierung (SEO) integrieren, was die Gesamteffektivität der Vertriebs- und Marketingbemühungen steigert."
+      },
+      "Advantage9": {
+        "title": "Verbesserte Krisenresistenz",
+        "description": "Digitale Vertriebskanäle bieten eine größere Resilienz gegenüber externen Schocks wie Naturkatastrophen oder Pandemien. Unternehmen mit starken digitalen Präsenzen können oft auch unter schwierigen Bedingungen weiterhin operieren."
+      },
+      "Advantage10": {
+        "title": "Innovationsförderung",
+        "description": "Der Einsatz digitaler Kanäle fördert die Innovationsfähigkeit von Unternehmen, indem er neue Geschäftsmodelle und Serviceangebote ermöglicht, die über traditionelle Vertriebswege nicht realisierbar wären."
+      }
+    }
+  },
+  "ECommerceComplianceWithLegalRegulationsPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Einhaltung gesetzlicher Vorschriften",
+      "description": "Die steuerlichen Vorschriften für digitale Vertriebskanäle können komplex sein, da sie sich je nach Land und Art der verkauften digitalen Produkte oder Dienstleistungen unterscheiden. Wir unterstützen Sie gemeinsam mit Partner innerhalb und außerhalb Österreichs dabei diese Vorschriften einzuhalten."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Fokus",
+      "title": "Vorteile",
+      "description": "Hier sind einige allgemeine Aspekte, die bei der Nutzung digitaler Vertriebskanäle aus steuerlicher Sicht beachtet werden sollten. Diese Punkte unterstreichen die Notwendigkeit einer sorgfältigen Planung und Compliance, um steuerliche Risiken zu minimieren und rechtliche Probleme in verschiedenen Märkten zu vermeiden. Wir unterstützen Sie und Ihr Unternehmen bei der Umsetzung der steuerlichen Compliance.",
+      "Advantage1": {
+        "title": "Mehrwertsteuer (MwSt) oder Umsatzsteuer",
+        "description": "In vielen Ländern unterliegen digitale Produkte und Dienstleistungen der Mehrwertsteuer oder Umsatzsteuer. Unternehmen müssen die Steuer auf den Verkauf digitaler Produkte an Endverbraucher erheben und abführen. Dies gilt insbesondere in der Europäischen Union, wo die MwSt. am Ort des Verbrauchers erhoben wird, nicht am Sitz des Unternehmens."
+      },
+      "Advantage2": {
+        "title": "Steuerpflicht in verschiedenen Jurisdiktionen",
+        "description": "Unternehmen, die digitalen Content oder Dienstleistungen international verkaufen, müssen möglicherweise in mehreren Ländern Steuern abführen. Dies kann die Registrierung für die MwSt in jedem Land, in dem Kunden ansässig sind, erforderlich machen."
+      },
+      "Advantage3": {
+        "title": "Steuererklärungen und Compliance",
+        "description": "Digitale Vertriebskanäle erfordern eine genaue Buchführung und regelmäßige Steuererklärungen. In einigen Ländern müssen Unternehmen monatliche oder vierteljährliche MwSt-Erklärungen abgeben. Die Nichteinhaltung dieser Anforderungen kann zu Strafen und Zinsen führen."
+      },
+      "Advantage4": {
+        "title": "Einhaltung von Rechnungsstellungsvorschriften",
+        "description": "Digitale Rechnungen müssen oft spezifische Informationen enthalten, wie Steuernummern, den genauen Steuersatz und andere gesetzlich vorgeschriebene Details. In der EU beispielsweise müssen elektronische Rechnungen den gleichen Anforderungen entsprechen wie papierbasierte Rechnungen."
+      },
+      "Advantage5": {
+        "title": "Doppelbesteuerungsabkommen: ",
+        "description": "Unternehmen sollten sich über Doppelbesteuerungsabkommen zwischen ihrem Heimatland und anderen Ländern informieren, um zu verstehen, wie Einkünfte aus dem Ausland besteuert werden. Diese Abkommen können dazu dienen, Doppelbesteuerung zu vermeiden."
+      },
+      "Advantage6": {
+        "title": "Digitale Dienstleistungssteuern",
+        "description": "Einige Länder haben spezielle Steuern für Unternehmen eingeführt, die digitale Dienstleistungen anbieten, wie z.B. die Digitalsteuer in Frankreich oder Italien. Diese Steuern sind oft auf große multinationale Technologieunternehmen ausgerichtet."
+      },
+      "Advantage7": {
+        "title": "Schwellenwerte für Kleinunternehmer",
+        "description": "In manchen Regionen gibt es Schwellenwerte, unterhalb derer Kleinunternehmer von der MwSt befreit sind. Es ist wichtig, diese Grenzen zu kennen und zu überwachen, da die Überschreitung zu Steuerpflichten führt."
+      },
+      "Advantage8": {
+        "title": "Beratung durch Fachleute",
+        "description": "Aufgrund der Komplexität und der sich ständig ändernden Natur der Steuergesetze ist es ratsam, professionelle Steuerberatung einzuholen, besonders wenn man in mehreren Ländern tätig ist."
+      }
+    }
+  },
+  "ECommerceInterfacesPage": {
+    "HeroArticle": {
+      "subtitle": "E-Commerce",
+      "title": "Schnittstellen",
+      "description": "Die Verwendung von Schnittstellen in der Buchhaltung, oft im Kontext von Softwareintegrationen gesehen, bietet zahlreiche Vorteile. Diese Schnittstellen ermöglichen die Kommunikation zwischen verschiedenen Buchhaltungssystemen und anderen Geschäftsapplikationen, was zu einer effizienteren und fehlerfreien Datenverwaltung führt."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Wie Schnittstellen Ihre Buchhaltung verbessern können",
+      "description": "Wir bieten eine Reihe von Schnittstellen an, wie z.B. für Amazon, Billbee, Shopify und andere.",
+      "Advantage1": {
+        "title": "Automatisierter Datenaustausch",
+        "description": "Schnittstellen ermöglichen den nahtlosen Transfer von Daten zwischen unterschiedlichen Systemen (z.B. zwischen Buchhaltungssoftware und ERP-Systemen). Dies reduziert die Notwendigkeit manueller Dateneingabe und minimiert damit verbundene Fehler."
+      },
+      "Advantage2": {
+        "title": "Zeitersparnis",
+        "description": "Die Automatisierung von Datenübertragungen durch Schnittstellen spart erheblich Zeit. Informationen müssen nicht mehr manuell von einem System ins andere übertragen werden, was die Bearbeitungszeiten verkürzt."
+      },
+      "Advantage3": {
+        "title": "Verbesserte Datenkonsistenz und -qualität",
+        "description": "Durch die Verwendung von Schnittstellen wird die Konsistenz der Daten über verschiedene Plattformen hinweg sichergestellt. Alle Systeme haben Zugriff auf dieselben aktualisierten und genauen Daten, was zu zuverlässigeren Geschäftsentscheidungen führt."
+      },
+      "Advantage4": {
+        "title": "Erhöhte Effizienz in Geschäftsprozessen",
+        "description": "Schnittstellen erlauben es, dass Buchhaltungssysteme nahtlos mit anderen Geschäftsprozessen interagieren. Beispielsweise können Verkaufsdaten automatisch aus dem CRM-System in die Buchhaltung übertragen werden, was die Effizienz des gesamten Vertriebs- und Buchhaltungsprozesses verbessert."
+      },
+      "Advantage5": {
+        "title": "Skalierbarkeit",
+        "description": "Schnittstellen unterstützen die Skalierbarkeit von Geschäftsprozessen. Wenn ein Unternehmen wächst, können durch Schnittstellen zusätzliche Systeme oder Module einfach integriert werden, ohne bestehende Prozesse zu stören."
+      },
+      "Advantage6": {
+        "title": "Verbesserte Berichterstattung und Analyse",
+        "description": "Die Integration verschiedener Systeme ermöglicht eine umfassendere Datenerfassung, die für tiefere Analysen und genauere Berichterstattung genutzt werden kann. Dies kann wichtige Einsichten liefern, die zur strategischen Planung und Entscheidungsfindung beitragen."
+      },
+      "Advantage7": {
+        "title": "Einhaltung von Compliance-Anforderungen",
+        "description": "Schnittstellen können dazu beitragen, dass die Buchhaltungsprozesse den gesetzlichen Vorschriften und Standards entsprechen, indem sie sicherstellen, dass alle relevanten Daten korrekt und zeitnah erfasst und berichtet werden."
+      },
+      "Advantage8": {
+        "title": "Reduzierung von Betriebskosten",
+        "description": "Obwohl die Einrichtung von Schnittstellen eine anfängliche Investition erfordern kann, führen die langfristigen Effizienzsteigerungen und die Reduktion von Fehlern oft zu einer Reduzierung der Betriebskosten."
+      },
+      "Advantage9": {
+        "title": "Flexibilität und Anpassungsfähigkeit",
+        "description": "Schnittstellen bieten Flexibilität bei der Anpassung von Systemen an spezifische Geschäftsanforderungen. Unternehmen können spezifische Funktionen oder Module hinzufügen, die ihre Prozesse am besten unterstützen."
+      }
+    }
+  },
+  "StartUpsPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiet",
+      "title": "Start-Ups",
+      "description": "Wir sind der Ankerpunkt für Startups, die den Horizont erweitern und neue Wege gehen wollen."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Unternehmerische Visionen",
+      "description": "Von der Gründung bis zum Wachstum unterstützen wir Startups bei jedem Schritt mit maßgeschneiderter Beratung und strategischen Lösungen.",
+      "moreLink": "Weiter",
+      "Block1": {
+        "title": "Rechtsformwahl",
+        "description": "Die Wahl der richtigen Rechtsform für ein Unternehmen ist eine grundlegende Entscheidung, die weitreichende Implikationen für die Verwaltung, Besteuerung, Haftung und den finanziellen Erfolg des Unternehmens hat."
+      },
+      "Block2": {
+        "title": "Fördermittel",
+        "description": "Förderungen können für Unternehmen, Organisationen und Einzelpersonen eine wichtige Rolle spielen, indem sie finanzielle Unterstützung und weitere Vorteile bieten, die zur Realisierung von Projekten oder zur Erreichung spezifischer Ziele beitragen."
+      },
+      "Block3": {
+        "title": "Internationale Investoren",
+        "description": "Wenn es um internationale Investoren und ihre steuerlichen Verpflichtungen geht, können eine Vielzahl von komplexen Themen auftreten. Die genaue Behandlung hängt von den beteiligten Ländern, den spezifischen Investitionsarten und den jeweiligen Steuergesetzen ab."
+      },
+      "Block4": {
+        "title": "Erstellung eines Businessplans",
+        "description": "Ein Businessplan ist ein essenzielles Instrument für die Gründung und Führung eines Unternehmens. Er dient nicht nur als Leitfaden für die strategische Planung, sondern auch als Kommunikationsmittel für potenzielle Investoren, Partner und Mitarbeiter."
+      },
+      "Block5": {
+        "title": "Wachstumsstrategien",
+        "description": "Die Implementierung gezielter Wachstumsstrategien bietet Unternehmen eine Vielzahl von Vorteilen, die weit über bloße Umsatzsteigerungen hinausgehen."
+      },
+      "Block6": {
+        "title": "Liquiditätsplanung",
+        "description": "Die Liquiditätsplanung ist ein essenzieller Bestandteil des Finanzmanagements eines Unternehmens und spielt eine entscheidende Rolle bei der Sicherstellung der finanziellen Gesundheit und Stabilität."
+      },
+      "Block7": {
+        "title": "Mitarbeiterbeteiligungen",
+        "description": "Talentierte Mitarbeiter anziehen und langfristig binden. Dabei steuerschonend agieren und den Gewinn des Unternehmens immer im Blick behalten."
+      }
+    }
+  },
+  "StartUpsChoiceOfLegalFormPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Rechtsformwahl",
+      "description": "Die Wahl der richtigen Rechtsform hängt von vielen Faktoren ab, einschließlich der Größe des Unternehmens, der Anzahl der Eigentümer, der gewünschten Kapitalstruktur und der Risikobereitschaft der Beteiligten. Wir bieten zuverlässige steuerliche Beratung an, um sicherzustellen, dass die gewählte Form den langfristigen Zielen und Anforderungen des Unternehmens entspricht."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Nutzen einer strategischen Rechtsformwahl",
+      "description": "Die Wahl der richtigen Rechtsform für ein Unternehmen ist eine grundlegende Entscheidung, die weitreichende Implikationen für die Verwaltung, Besteuerung, Haftung und den finanziellen Erfolg des Unternehmens hat. Hier sind einige Vorteile, die sich aus der sorgfältigen Auswahl der passenden Rechtsform ergeben:",
+      "Advantage1": {
+        "title": "Haftungsbeschränkung",
+        "description": "Einige Rechtsformen wie die GmbH (Gesellschaft mit beschränkter Haftung) oder die AG (Aktiengesellschaft) bieten ihren Eigentümern Haftungsbeschränkung. Das bedeutet, dass die persönlichen Vermögen der Gesellschafter oder Aktionäre im Falle von Schulden oder rechtlichen Ansprüchen gegen das Unternehmen geschützt sind."
+      },
+      "Advantage2": {
+        "title": "Steuerliche Vorteile",
+        "description": "Verschiedene Rechtsformen werden steuerlich unterschiedlich behandelt. Zum Beispiel können Kapitalgesellschaften wie die GmbH oder AG von einer niedrigeren Körperschaftsteuer profitieren, während Personengesellschaften wie die OHG (Offene Handelsgesellschaft) oder die KG (Kommanditgesellschaft) den Vorteil der persönlichen Besteuerung der Gesellschafter nutzen, was zu Steuervorteilen führen kann, abhängig von der individuellen Steuersituation der Gesellschafter."
+      },
+      "Advantage3": {
+        "title": "Flexibilität in der Unternehmensführung",
+        "description": "Einzelunternehmen und Personengesellschaften bieten in der Regel mehr Flexibilität bei Entscheidungsprozessen, da sie weniger reguliert sind als Kapitalgesellschaften. Bei einer GmbH oder AG sind dagegen formelle Anforderungen wie Geschäftsführerbesprechungen und Protokollführung vorgeschrieben, was zu einer strukturierten, aber weniger flexiblen Unternehmensführung führen kann."
+      },
+      "Advantage4": {
+        "title": "Kapitalbeschaffung",
+        "description": "Kapitalgesellschaften haben oft leichteren Zugang zu Kapitalquellen wie Beteiligungskapital oder öffentlichen Aktienmärkten. Dies kann für das Wachstum des Unternehmens entscheidend sein, besonders wenn große Investitionen oder eine schnelle Expansion geplant sind."
+      },
+      "Advantage5": {
+        "title": "Professionelles Image",
+        "description": "Rechtsformen wie die GmbH oder AG können einem Unternehmen ein professionelleres Image verleihen, was bei Geschäftspartnern und Kunden Vertrauen schaffen kann. Dies kann insbesondere bei der Gewinnung großer Aufträge oder bei Verhandlungen mit anderen Unternehmen von Vorteil sein."
+      },
+      "Advantage6": {
+        "title": "Nachfolgeplanung",
+        "description": "Einige Rechtsformen erleichtern die Planung der Unternehmensnachfolge. Bei Kapitalgesellschaften ist die Übertragung von Anteilen oft einfacher und kann ohne größere rechtliche Schwierigkeiten erfolgen, was für die langfristige Stabilität und Kontinuität des Unternehmens wichtig ist."
+      },
+      "Advantage7": {
+        "title": "Internationale Geschäftstätigkeit",
+        "description": "Bestimmte Rechtsformen können für Unternehmen, die international tätig sein wollen, besser geeignet sein. Große Rechtsformen wie die AG oder GmbH sind international bekannt und können bei der Expansion in neue Märkte hilfreich sein."
+      }
+    }
+  },
+  "StartUpsFundingPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Fördermittel",
+      "description": "Förderungen sind daher ein kraftvolles Instrument, das strategisch genutzt werden kann, um nicht nur finanzielle Unterstützung zu erhalten, sondern auch um breitere Unternehmens- und Forschungsziele zu fördern. Wir unterstützen Sie bei der Finanzplanung und der steuerlichen Berücksichtigung von Förderung."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "",
+      "description": "Förderungen können für Unternehmen, Organisationen und Einzelpersonen eine wichtige Rolle spielen, indem sie finanzielle Unterstützung und weitere Vorteile bieten, die zur Realisierung von Projekten oder zur Erreichung spezifischer Ziele beitragen. Hier sind einige Vorteile von Förderungen:",
+      "Advantage1": {
+        "title": "Finanzielle Entlastung",
+        "description": "Fördermittel reduzieren die finanzielle Belastung für Empfänger, indem sie notwendige Gelder für die Durchführung von Projekten oder die Entwicklung neuer Produkte und Dienstleistungen zur Verfügung stellen. Dies kann besonders wichtig sein für Start-ups, kleine und mittlere Unternehmen (KMU) oder Forschungsprojekte, die ansonsten vielleicht nicht genügend Kapital beschaffen könnten."
+      },
+      "Advantage2": {
+        "title": "Risikominderung",
+        "description": "Mit finanzieller Unterstützung durch Förderungen können Unternehmen und Forscher riskantere, innovative Projekte angehen, die sie ohne diese Unterstützung möglicherweise meiden würden. Dies fördert Innovation und technologischen Fortschritt."
+      },
+      "Advantage3": {
+        "title": "Hebelwirkung für zusätzliche Finanzierung",
+        "description": "Fördergelder können als Hebel dienen, um zusätzliche Finanzierungsmittel zu sichern. Das Vorhandensein von Fördermitteln zeigt anderen potenziellen Investoren, dass das Projekt bereits eine gewisse Validierung und Unterstützung erhalten hat."
+      },
+      "Advantage4": {
+        "title": "Netzwerkaufbau und Partnerschaften",
+        "description": "Viele Förderprogramme fördern die Vernetzung zwischen verschiedenen Akteuren wie Universitäten, Forschungseinrichtungen, Unternehmen und Regierungen. Dies kann zur Bildung von Partnerschaften führen, die über das einzelne Projekt hinausgehen."
+      },
+      "Advantage5": {
+        "title": "Steigerung der Glaubwürdigkeit und Sichtbarkeit",
+        "description": "Geförderte Projekte erhalten oft mehr Aufmerksamkeit in den Medien und der Fachwelt, was die Glaubwürdigkeit und Sichtbarkeit des Empfängers erhöhen kann. Dies kann besonders vorteilhaft sein, wenn es um die Gewinnung von Kunden oder weiteren Investoren geht."
+      },
+      "Advantage6": {
+        "title": "Erschließung neuer Märkte",
+        "description": "Förderungen können speziell dazu dienen, die Entwicklung von Produkten oder Dienstleistungen zu unterstützen, die auf neue oder unterversorgte Märkte abzielen. Dies kann Unternehmen helfen, ihre Reichweite zu erweitern und neue Einnahmequellen zu erschließen."
+      },
+      "Advantage7": {
+        "title": "Fachliche Unterstützung",
+        "description": "Neben finanzieller Unterstützung bieten viele Förderprogramme auch Zugang zu technischer und fachlicher Beratung, die den Empfängern helfen kann, ihre Ziele effizienter und effektiver zu erreichen."
+      },
+      "Advantage8": {
+        "title": "Förderung von Nachhaltigkeit und sozialer Verantwortung",
+        "description": "Viele Förderungen zielen darauf ab, Projekte zu unterstützen, die ökologische Nachhaltigkeit, soziale Gerechtigkeit oder wirtschaftliche Inklusion fördern. Dies ermöglicht es Organisationen, Beiträge zu leisten, die über den kommerziellen Erfolg hinausgehen."
+      },
+      "Advantage9": {
+        "title": "Ausbildung und Entwicklung von Fachkräften",
+        "description": "Förderprogramme können auch dazu beitragen, das Fachwissen und die Fähigkeiten der Mitarbeiter zu verbessern, indem sie spezielle Schulungen oder Workshops finanzieren."
+      }
+    }
+  },
+  "StartUpsInternationalInvestorsPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Internationale Investoren",
+      "description": "Aufgrund der Komplexität dieser Themen ist es für internationale Investoren ratsam, qualifizierte Steuerberater zu konsultieren, um sicherzustellen, dass sie ihre steuerlichen Pflichten erfüllen und gleichzeitig ihre Steuerlast weltweit optimieren."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "",
+      "description": "Wenn es um internationale Investoren und ihre steuerlichen Verpflichtungen geht, können eine Vielzahl von komplexen Themen auftreten. Die genaue Behandlung hängt von den beteiligten Ländern, den spezifischen Investitionsarten und den jeweiligen Steuergesetzen ab. Hier sind einige wichtige steuerliche Aspekte, die internationale Investoren berücksichtigen sollten:",
+      "Advantage1": {
+        "title": "Quellensteuer",
+        "description": "Viele Länder erheben eine Quellensteuer auf Einkünfte, die an nicht-ansässige Investoren gezahlt werden, wie z. B. Dividenden, Zinsen und Lizenzgebühren. Die Höhe der Quellensteuer kann variieren und wird oft durch Doppelbesteuerungsabkommen (DBA) zwischen den Ländern beeinflusst."
+      },
+      "Advantage2": {
+        "title": "Doppelbesteuerungsabkommen (DBA)",
+        "description": "Diese Abkommen zwischen zwei Ländern zielen darauf ab, die Doppelbesteuerung von Einkünften zu vermeiden, die in einem Land erzielt und im anderen Land besteuert werden könnten. DBAs bestimmen in der Regel, welches Land das Besteuerungsrecht für bestimmte Einkünfte hat und wie die Anrechnung der im Ausland gezahlten Steuern zu erfolgen hat."
+      },
+      "Advantage3": {
+        "title": "Körperschaftsteuer",
+        "description": "Wenn ein Investor direkt in ein ausländisches Unternehmen investiert, muss er die Steuergesetze des Landes berücksichtigen, in dem das Unternehmen seinen Sitz hat. Dies umfasst die Beurteilung der Körperschaftsteuersätze und etwaiger Steuerbefreiungen oder -erleichterungen."
+      },
+      "Advantage4": {
+        "title": "Besteuerung von Kapitalgewinnen",
+        "description": "Internationale Investoren müssen auch die Steuern auf Kapitalgewinne berücksichtigen, die aus dem Verkauf von Investitionen resultieren. Einige Länder besteuern Kapitalgewinne von Nichtansässigen nicht, während andere hohe Steuersätze erheben können."
+      },
+      "Advantage5": {
+        "title": "Informationsaustausch und Compliance",
+        "description": "Aufgrund globaler Initiativen wie dem Common Reporting Standard (CRS) der OECD sind Finanzinstitute verpflichtet, Informationen über Kontoinhaber und bestimmte finanzielle Konten an die Steuerbehörden ihres Landes zu melden, die diese Informationen dann automatisch mit den Steuerbehörden anderer Länder austauschen."
+      },
+      "Advantage6": {
+        "title": "Steueroptimierung und -planung",
+        "description": "Internationale Investoren müssen eine effektive Steuerplanung betreiben, um ihre globale Steuerlast zu minimieren. Dies kann die Strukturierung von Investitionen durch die Nutzung von Holdinggesellschaften in strategisch gewählten Jurisdiktionen umfassen."
+      },
+      "Advantage7": {
+        "title": "Berücksichtigung von Steuerwohnsitz und Anwesenheit",
+        "description": "Die Bestimmung des Steuerwohnsitzes und die daraus resultierende Steuerpflicht können komplex sein, besonders wenn Investoren in mehreren Ländern tätig sind oder Einkünfte aus verschiedenen Quellen haben."
+      },
+      "Advantage8": {
+        "title": "Umsatzsteuer/Mehrwertsteuer (MwSt)",
+        "description": "Investitionen in bestimmte Dienstleistungen oder Produkte können auch die Umsatzsteuerpflicht berühren, abhängig von den spezifischen Steuergesetzen des Landes, in dem die Dienstleistung erbracht oder das Produkt verkauft wird."
+      },
+      "Advantage9": {
+        "title": "Verwaltung der steuerlichen Compliance",
+        "description": "Internationale Investoren müssen sicherstellen, dass sie ihre steuerlichen Meldepflichten in allen relevanten Jurisdiktionen erfüllen, was oft die Unterstützung durch lokale Steuerberater oder internationale Steuerberatungsdienste erfordert."
+      }
+    }
+  },
+  "StartUpsBusinessplanPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Erstellung eines Businessplans",
+      "description": "Ein Businessplan ist also nicht nur ein Dokument für den internen Gebrauch oder zur Kapitalbeschaffung, sondern ein dynamisches Werkzeug, das hilft, die Vision des Unternehmens zu präzisieren, zu implementieren und anzupassen, während es wächst und sich entwickelt. Wir unterstützen Sie bei der Erstellung des Businessplans und geben Ihnen Input aus unternehmerischer Perspektive."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Die Bedeutung eines Businessplans",
+      "description": "Ein Businessplan ist ein essenzielles Instrument für die Gründung und Führung eines Unternehmens. Er dient nicht nur als Leitfaden für die strategische Planung, sondern auch als Kommunikationsmittel für potenzielle Investoren, Partner und Mitarbeiter. Hier sind einige wichtige Vorteile, die ein gut ausgearbeiteter Businessplan bietet:",
+      "Advantage1": {
+        "title": "Klarheit und Richtung",
+        "description": "Ein Businessplan definiert die Ziele eines Unternehmens, die Strategien zur Erreichung dieser Ziele und die Zeitrahmen. Er bietet eine klare Anleitung, wie das Unternehmen operieren soll, und hilft dabei, Fokus und Richtung beizubehalten."
+      },
+      "Advantage2": {
+        "title": "Hilfe bei der Entscheidungsfindung",
+        "description": "Der Plan hilft Unternehmern, fundierte Entscheidungen zu treffen, indem er wichtige Informationen wie Marktanalysen, Wettbewerbslandschaft, Zielkunden, Marketingstrategien und finanzielle Prognosen bereitstellt."
+      },
+      "Advantage3": {
+        "title": "Attraktivität für Investoren",
+        "description": "Investoren suchen nach Unternehmen mit einem klaren Plan und einer soliden Strategie. Ein gut durchdachter Businessplan zeigt potenziellen Geldgebern, dass das Unternehmen seine Ziele ernst nimmt und eine realistische Vorstellung davon hat, wie es diese erreichen kann."
+      },
+      "Advantage4": {
+        "title": "Ressourcenplanung",
+        "description": "Ein Businessplan erleichtert die effiziente Zuweisung von Ressourcen, indem genau dargestellt wird, wo und wie Kapital, Personal und andere Ressourcen eingesetzt werden sollen, um maximale Effizienz und Rentabilität zu erzielen."
+      },
+      "Advantage5": {
+        "title": "Risikomanagement",
+        "description": "Durch die Identifizierung möglicher Risiken und das Aufstellen von Plänen zu deren Bewältigung trägt ein Businessplan dazu bei, potenzielle Fallstricke im Voraus zu erkennen und Strategien zu ihrer Minderung zu entwickeln."
+      },
+      "Advantage6": {
+        "title": "Messung von Fortschritten",
+        "description": "Ein Businessplan setzt Benchmarks und Leistungsindikatoren fest, die es Unternehmern ermöglichen, den Fortschritt ihres Unternehmens zu messen und gegebenenfalls Anpassungen vorzunehmen."
+      },
+      "Advantage7": {
+        "title": "Kommunikationswerkzeug",
+        "description": "Der Plan dient als effektives Kommunikationsmittel für die Unternehmensziele, -strategien und -finanzen gegenüber Mitarbeitern, Partnern und anderen Stakeholdern."
+      },
+      "Advantage8": {
+        "title": "Unterstützung bei der Finanzplanung",
+        "description": "Ein detaillierter Finanzabschnitt im Businessplan, der Einnahmen, Ausgaben, Cashflow und Prognosen umfasst, ist entscheidend für das tägliche Finanzmanagement und für langfristige finanzielle Strategien."
+      },
+      "Advantage9": {
+        "title": "Hilfe bei der Beantragung von Fördermitteln oder Darlehen",
+        "description": "Viele Banken und Förderinstitutionen verlangen einen detaillierten Businessplan als Teil des Antragsprozesses. Ein überzeugender Plan kann die Chancen auf finanzielle Unterstützung erhöhen."
+      },
+      "Advantage10": {
+        "title": "Erleichterung der Lizenzierung und Genehmigung",
+        "description": "In bestimmten Branchen kann ein Businessplan erforderlich sein, um Genehmigungen oder Lizenzen von Regierungsbehörden zu erhalten. Der Plan zeigt, dass das Unternehmen die notwendigen Schritte zur Einhaltung von Vorschriften unternimmt."
+      }
+    }
+  },
+  "StartUpsGrowthStrategyPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Wachstumsstragtegien",
+      "description": "Indem Unternehmen gezielt Wachstumsstrategien entwickeln und umsetzen, können sie ihre Ziele effektiver erreichen und sich dauerhaft in dynamischen Märkten behaupten."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Nutzen effektiver Wachstumsstrategien",
+      "description": "Die Implementierung gezielter Wachstumsstrategien bietet Unternehmen eine Vielzahl von Vorteilen, die weit über bloße Umsatzsteigerungen hinausgehen. Hier sind einige der wichtigsten Vorteile, die durch effektive Wachstumsstrategien erzielt werden können:",
+      "Advantage1": {
+        "title": "Erhöhung des Marktanteils",
+        "description": "Eine erfolgreiche Wachstumsstrategie kann einem Unternehmen helfen, seinen Marktanteil zu erhöhen, indem es mehr Kunden gewinnt oder bestehende Kundenbeziehungen vertieft. Dies kann zu einer stärkeren Marktposition und zu erhöhter Marktmacht führen."
+      },
+      "Advantage2": {
+        "title": "Diversifikation des Risikos",
+        "description": "Durch die Diversifikation in neue Produkte, Dienstleistungen oder Märkte kann ein Unternehmen das Risiko besser verteilen und ist weniger abhängig von einem einzelnen Markt oder Produkt. Dies trägt zur Stabilisierung des Geschäfts bei und kann in wirtschaftlich unsicheren Zeiten einen wichtigen Puffer bieten."
+      },
+      "Advantage3": {
+        "title": "Skaleneffekte",
+        "description": "Wachstum ermöglicht es Unternehmen, von Skaleneffekten zu profitieren, was die Stückkosten senkt und die Profitabilität steigern kann. Größere Unternehmen können oft günstigere Konditionen bei Lieferanten aushandeln und effizientere Produktionsmethoden nutzen."
+      },
+      "Advantage4": {
+        "title": "Verbesserung der finanziellen Leistungsfähigkeit",
+        "description": "Mit zunehmender Größe und Reichweite verbessert sich oft auch die finanzielle Stabilität eines Unternehmens. Größere Unternehmen haben in der Regel besseren Zugang zu Kapitalquellen, einschließlich Krediten, Anleihen und Eigenkapitalfinanzierungen."
+      },
+      "Advantage5": {
+        "title": "Steigerung der Innovation",
+        "description": "Wachstumsstrategien, die auf Produktentwicklung und Innovation abzielen, können zur Schaffung neuer und verbesserter Produkte führen, die dem Unternehmen einen Wettbewerbsvorteil verschaffen. Innovation ist oft der Schlüssel zur Differenzierung in gesättigten Märkten."
+      },
+      "Advantage6": {
+        "title": "Erhöhte Attraktivität für Talente",
+        "description": "Größere und erfolgreich wachsende Unternehmen ziehen in der Regel talentierte Mitarbeiter an, die nach Karrierechancen und stabilen Arbeitsumgebungen suchen. Dies kann zu einer höheren Mitarbeiterzufriedenheit und -bindung führen."
+      },
+      "Advantage7": {
+        "title": "Erweiterung der geografischen Reichweite",
+        "description": "Durch internationale Expansion oder die Erschließung neuer regionaler Märkte kann ein Unternehmen neue Kunden gewinnen und seine Abhängigkeit von lokalen Märkten verringern."
+      },
+      "Advantage8": {
+        "title": "Verbesserte Kundenwahrnehmung",
+        "description": "Wachsende Unternehmen werden oft als erfolgreich und stabil wahrgenommen, was das Vertrauen der Kunden und Partner stärken kann. Ein größeres Unternehmen kann als zuverlässiger und fähiger angesehen werden, große Aufträge zu erfüllen oder umfassenden Service zu bieten."
+      },
+      "Advantage9": {
+        "title": "Langfristige Nachhaltigkeit",
+        "description": "Durch die fortlaufende Anpassung an Marktveränderungen und die aktive Verfolgung von Wachstumschancen kann ein Unternehmen seine langfristige Lebensfähigkeit und Wettbewerbsfähigkeit sichern."
+      },
+      "Advantage10": {
+        "title": "Erweiterung der Geschäftstätigkeit",
+        "description": "Unternehmen können durch strategische Akquisitionen oder Partnerschaften neue Geschäftsbereiche erschließen, die Synergien mit dem bestehenden Geschäft bieten und zusätzliche Einkommensströme generieren."
+      }
+    }
+  },
+  "StartUpsLiquidityPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Liquiditätsplanung",
+      "description": "Insgesamt hilft eine gute Liquiditätsplanung, finanzielle Herausforderungen proaktiv zu managen und unterstützt das nachhaltige Wachstum des Unternehmens. Sie ist unerlässlich für die langfristige finanzielle Stabilität und Erfolg. Wir unterstützen Sie bei der Liquiditätsplanung und helfen Ihnen dabei die überlebenswichtigen liquiden Mittel sicherzustellen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Die Bedeutung einer effektiven Liquiditätsplanung",
+      "description": "Die Liquiditätsplanung ist ein essenzieller Bestandteil des Finanzmanagements eines Unternehmens und spielt eine entscheidende Rolle bei der Sicherstellung der finanziellen Gesundheit und Stabilität. Hier sind die Hauptvorteile, die eine sorgfältige Liquiditätsplanung bietet:",
+      "Advantage1": {
+        "title": "Sicherstellung der Zahlungsfähigkeit",
+        "description": "Die primäre Funktion der Liquiditätsplanung ist es, sicherzustellen, dass das Unternehmen jederzeit in der Lage ist, seine kurzfristigen Verbindlichkeiten zu begleichen. Dies beugt Zahlungsverzug vor und schützt die Kreditwürdigkeit des Unternehmens."
+      },
+      "Advantage2": {
+        "title": "Vermeidung von Liquiditätsengpässen",
+        "description": "Durch die vorausschauende Planung von Einnahmen und Ausgaben können potenzielle Liquiditätsengpässe frühzeitig erkannt und geeignete Gegenmaßnahmen eingeleitet werden, wie zum Beispiel die Aufnahme kurzfristiger Kredite oder die Verschiebung nicht dringender Ausgaben."
+      },
+      "Advantage3": {
+        "title": "Optimierung des Cash Managements",
+        "description": "Eine effektive Liquiditätsplanung ermöglicht es dem Unternehmen, sein Bargeld optimal zu nutzen. Dies kann durch das gezielte Management von Forderungen und Verbindlichkeiten sowie durch das Timing von Ein- und Auszahlungen erreicht werden."
+      },
+      "Advantage4": {
+        "title": "Stärkung der Verhandlungsposition",
+        "description": "Unternehmen mit guter Liquiditätsplanung und starker Cash-Position sind in einer besseren Position, wenn es um Verhandlungen mit Lieferanten, Kreditgebern und anderen Geschäftspartnern geht. Sie können oft bessere Konditionen aushandeln, wie z. B. Rabatte oder günstigere Finanzierungsraten."
+      },
+      "Advantage5": {
+        "title": "Unterstützung bei der strategischen Planung",
+        "description": "Die Liquiditätsplanung ist eng mit der strategischen Planung des Unternehmens verbunden. Sie unterstützt das Management bei der Entscheidungsfindung, insbesondere bei Investitionen, Expansion und anderen langfristigen Projekten, indem sie aufzeigt, wie diese Pläne die Liquidität beeinflussen werden."
+      },
+      "Advantage6": {
+        "title": "Früherkennung von Problemen",
+        "description": "Regelmäßige Liquiditätsanalysen können dazu beitragen, finanzielle Probleme frühzeitig zu erkennen, noch bevor sie sich negativ auf das Geschäft auswirken. Dies ermöglicht es dem Unternehmen, proaktiv Maßnahmen zu ergreifen, um die Probleme zu adressieren."
+      },
+      "Advantage7": {
+        "title": "Verbesserung der Investitionsentscheidungen",
+        "description": "Mit einem klaren Bild der verfügbaren Liquidität können Unternehmen bessere Entscheidungen über Kapitalinvestitionen treffen, die sowohl rentabel als auch finanziell tragbar sind."
+      },
+      "Advantage8": {
+        "title": "Risikomanagement",
+        "description": "Liquiditätsplanung hilft dabei, das finanzielle Risiko zu managen, indem sie sicherstellt, dass das Unternehmen nicht über seine Verhältnisse lebt und dass genügend Reserven für unerwartete Ausgaben oder wirtschaftliche Abschwünge vorhanden sind."
+      },
+      "Advantage9": {
+        "title": "Steigerung des Unternehmenswertes",
+        "description": "Unternehmen, die ihre Liquidität effektiv managen, sind in der Regel finanziell gesünder und daher wertvoller. Dies kann sich positiv auf den Aktienkurs auswirken, falls das Unternehmen börsennotiert ist."
+      },
+      "Advantage10": {
+        "title": "Verbesserung der internen Prozesse",
+        "description": "Die Notwendigkeit einer präzisen Liquiditätsplanung führt oft zur Verbesserung anderer interner Prozesse, wie der Buchhaltung und des Berichtswesens, was zu einer allgemeinen Steigerung der Effizienz führt."
+      }
+    }
+  },
+  "StartUpsEmployeeParticipationPage": {
+    "HeroArticle": {
+      "subtitle": "Start-Ups",
+      "title": "Mitarbeiterbeteiligungen",
+      "description": "Die Mitarbeiterbeteiligung ist also eine wirkungsvolle Strategie, um die Mitarbeitermotivation zu steigern, die Unternehmensleistung zu verbessern und eine stärkere Bindung zwischen Mitarbeitern und dem Unternehmen zu schaffen. Es ist eine Win-Win-Situation, die das Potenzial hat, die Arbeitszufriedenheit und den Unternehmenserfolg erheblich zu steigern. Wir unterstützen Sie bei der steueroptimalen Auswahl von Mitarbeiterbeteiligungen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Mitarbeiterbeteiligung als strategischer Mehrwert",
+      "description": "Die Mitarbeiterbeteiligung an einem Unternehmen, sei es durch Aktienoptionen, Gewinnbeteiligungen oder ähnliche Programme, bietet eine Vielzahl von Vorteilen für das Unternehmen und seine Angestellten. Hier sind einige Schlüsselvorteile dieser Strategie:",
+      "Advantage1": {
+        "title": "Steigerung der Mitarbeitermotivation und -engagement",
+        "description": "Wenn Mitarbeiter am Unternehmen beteiligt sind, fühlen sie sich stärker mit dessen Erfolg verbunden. Dies kann zu erhöhter Motivation, größerem Engagement und einer stärkeren Bindung an das Unternehmen führen, da die Mitarbeiter direkt von dessen Erfolg profitieren."
+      },
+      "Advantage2": {
+        "title": "Verbesserung der Mitarbeiterbindung",
+        "description": "Mitarbeiterbeteiligungsprogramme sind attraktive Zusatzleistungen, die helfen können, talentierte Mitarbeiter im Unternehmen zu halten. Die Aussicht auf finanzielle Belohnungen über Grundgehalt und Boni hinaus kann die Mitarbeiterloyalität stärken und die Fluktuation verringern."
+      },
+      "Advantage3": {
+        "title": "Förderung einer Unternehmenskultur der Zusammenarbeit",
+        "description": "Mitarbeiter, die Anteilseigner sind, neigen dazu, mehr an kooperativen und teamorientierten Arbeitsumgebungen interessiert zu sein. Dies kann zu einer stärkeren Unternehmenskultur führen, die Zusammenarbeit und gegenseitige Unterstützung betont."
+      },
+      "Advantage4": {
+        "title": "Steigerung der Produktivität",
+        "description": "Studien zeigen, dass Unternehmen mit Mitarbeiterbeteiligungsprogrammen oft höhere Produktivitätsniveaus aufweisen. Mitarbeiter, die am Gewinn beteiligt sind, können einen direkten Anreiz sehen, härter zu arbeiten und effizienter zu sein, da sie wissen, dass ihr Beitrag zum Unternehmenserfolg auch ihren persönlichen finanziellen Erfolg beeinflusst."
+      },
+      "Advantage5": {
+        "title": "Rekrutierungsvorteile",
+        "description": "Unternehmen, die Mitarbeiterbeteiligungsprogramme anbieten, können für potenzielle neue Mitarbeiter attraktiver sein. Dies ist besonders wichtig in Branchen, in denen Wettbewerb um hochqualifizierte Talente besteht."
+      },
+      "Advantage6": {
+        "title": "Verbesserung der finanziellen Wohlfahrt der Mitarbeiter",
+        "description": "Mitarbeiterbeteiligungsprogramme können eine wichtige Quelle des Vermögensaufbaus für Mitarbeiter sein. Sie bieten die Möglichkeit, am langfristigen Wertzuwachs des Unternehmens teilzuhaben, was insbesondere in wirtschaftlich unsicheren Zeiten von Vorteil sein kann."
+      },
+      "Advantage7": {
+        "title": "Förderung der Transparenz und Kommunikation",
+        "description": "Unternehmen, die Mitarbeiterbeteiligungsprogramme durchführen, tendieren dazu, transparenter in Bezug auf Finanzen und Betriebsabläufe zu sein. Dies fördert eine Kultur der Offenheit und kann dazu beitragen, das Vertrauen der Mitarbeiter in das Management zu stärken."
+      },
+      "Advantage8": {
+        "title": "Harmonisierung der Interessen von Management und Mitarbeitern",
+        "description": "Durch die Beteiligung der Mitarbeiter am Unternehmen werden die Interessen der Angestellten stärker mit denen der Unternehmensführung und der Anteilseigner abgestimmt. Dies kann zu besseren Entscheidungen führen, die im besten Interesse des gesamten Unternehmens sind."
+      },
+      "Advantage9": {
+        "title": "Erleichterung von Unternehmensnachfolge und -übergängen",
+        "description": "In einigen Fällen kann Mitarbeiterbeteiligung eine praktische Lösung für die Unternehmensnachfolge bieten, indem sie einen reibungslosen Übergang ermöglicht und gleichzeitig das fortlaufende Engagement der Mitarbeiter für das Unternehmen sicherstellt."
+      }
+    }
+  },
+  "RealEstatePage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiet",
+      "title": "Immobilien",
+      "description": "Unser Engagement für Immobilien bietet klare Orientierungspunkte und fundierte Expertise für langfristigen Erfolg."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Strategien für Immobilieninvestitionen",
+      "description": "Nutzen Sie unsere umfassende Beratung, um Ihre Immobilieninvestitionen optimal zu gestalten und langfristigen Erfolg zu sichern.",
+      "Advantage1": {
+        "title": "Erwerb und Verkauf",
+        "description": "Steuerliche Auswirkungen analysieren und verstehen, um eine fundierte Entscheidungsgrundlage zu haben."
+      },
+      "Advantage2": {
+        "title": "Gesamtkonzept",
+        "description": "Übersicht über sämtlichen anfallenden Steuern und Gebühren erlangen, um die Wirtschaftlichkeit des Kaufs/Verkaufs einer Immobilie zu beurteilen."
+      },
+      "Advantage3": {
+        "title": "Finanzierungen",
+        "description": "Die Beratung über Finanzierungsoptionen, steuerliche Auswirkung von Tilgungen, Finanzierungskosten und Zinsen optimieren, hilft dabei die richtigen Entscheidungen zu treffen."
+      },
+      "Advantage4": {
+        "title": "Renovierungen und Sanierungen",
+        "description": "Kosten, Abschreibungen und Wirtschaftlichkeit analysieren, beurteilen und planen."
+      },
+      "Advantage5": {
+        "title": "Mieteinkünfte",
+        "description": "Das Verstehen der steuerlichen Behandlung von Mieteinnahmen und Werbungskosten hilft dabei über die Investition richtig zu entscheiden und den Gewinn bzw. Überschuss aus der Vermietung zu optimieren."
+      }
+    }
+  },
+  "DoctorsPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiet",
+      "title": "Ärzte",
+      "description": "Wir sind der Ankerpunkt für Startups, die den Horizont erweitern und neue Wege gehen wollen."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Maßgeschneiderte Lösungen für Ärzte",
+      "description": "Unsere spezialisierten Dienstleistungen bieten umfassende Unterstützung bei steuerlichen und finanziellen Fragen, die Ärzte während ihrer gesamten beruflichen Laufbahn betreffen.",
+      "moreLink": "Weiter",
+      "Block1": {
+        "title": "Praxisgründung und -führung",
+        "description": "Die Gründung einer Ärztepraxis bringt eine Reihe spezifischer steuerlicher Herausforderungen und Überlegungen mit sich. Eine professionelle steuerliche Beratung kann hierbei entscheidend sein, um effizient und rechtskonform zu handeln."
+      },
+      "Block2": {
+        "title": "Vorsorge und Altersvorsorge",
+        "description": "Die Altersvorsorge für Ärzte hat mehrere spezifische Vorteile, die sowohl die finanzielle Sicherheit im Ruhestand als auch die berufliche Flexibilität während der aktiven Karrierezeit unterstützen können."
+      },
+      "Block3": {
+        "title": "Praxisverkauf und Nachfolgeplanung",
+        "description": "Der Verkauf einer Arztpraxis ist ein komplexer Prozess, der sorgfältige Planung und strategische Überlegungen erfordert."
+      },
+      "Block4": {
+        "title": "Investitionen in die eigene Ärztepraxis",
+        "description": "Investitionen in die eigene Ärztepraxis können die Qualität der Patientenversorgung verbessern, die Effizienz steigern und letztendlich die Rentabilität erhöhen."
+      },
+      "Block5": {
+        "title": "Betriebsausgaben",
+        "description": "Die Betriebsausgaben einer Arztpraxis umfassen alle Kosten, die für den laufenden Betrieb anfallen und notwendig sind, um die Praxis zu führen und medizinische Dienstleistungen zu erbringen. Diese Ausgaben können je nach Art der Praxis, ihrer Größe und ihrem Standort variieren."
+      },
+      "Block6": {
+        "title": "Mitarbeiter",
+        "description": "Bei der Verwaltung und Führung von Mitarbeitern in einer Arztpraxis gibt es zahlreiche Aspekte zu berücksichtigen, die für einen reibungslosen Ablauf und eine effiziente Patientenversorgung essentiell sind."
+      }
+    }
+  },
+  "DoctorsEstablishingAndManagingAPracticePage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Praxisgründung und -führung",
+      "description": "Steuerliche Beratung bei der Gründung und dem Betrieb einer Ärztepraxis ist unerlässlich, um alle steuerlichen Vorteile optimal zu nutzen und um rechtliche Fallstricke zu vermeiden. Wir unterstützen Sie gerne dabei."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Optimale steuerliche Begleitung für Ihre Ärztepraxis",
+      "description": "Die Gründung einer Ärztepraxis bringt eine Reihe spezifischer steuerlicher Herausforderungen und Überlegungen mit sich. Eine professionelle steuerliche Beratung kann hierbei entscheidend sein, um effizient und rechtskonform zu handeln. Folgende Punkte sind besonders relevant:",
+      "Advantage1": {
+        "title": "Rechtsformwahl",
+        "description": "Die Wahl der Rechtsform (zum Beispiel Einzelunternehmen, Personengesellschaft oder Kapitalgesellschaft) hat signifikante steuerliche Implikationen. Je nach Rechtsform variieren die Besteuerung des Einkommens, die Handhabung von Gewinnen und Verlusten sowie die Sozialversicherungspflichten."
+      },
+      "Advantage2": {
+        "title": "Umsatzsteuer",
+        "description": "Medizinische Leistungen sind in der Regel von der Umsatzsteuer befreit, sofern sie der Heilbehandlung dienen. Andere Leistungen, wie zum Beispiel kosmetische Eingriffe, die nicht medizinisch notwendig sind, können jedoch umsatzsteuerpflichtig sein."
+      },
+      "Advantage3": {
+        "title": "Abschreibungen (AfA)",
+        "description": "Für die Anschaffung von Praxisausstattung und medizinischen Geräten können Abschreibungen geltend gemacht werden. Diese reduzieren das zu versteuernde Einkommen und sind daher ein wichtiger Bestandteil der steuerlichen Planung."
+      },
+      "Advantage4": {
+        "title": "Betriebsausgaben",
+        "description": "Es ist wichtig, alle möglichen Betriebsausgaben zu kennen, die abgesetzt werden können, darunter Miete, Versicherungen, Personal, Fortbildungskosten und andere laufende Betriebskosten."
+      },
+      "Advantage5": {
+        "title": "Vorsteuerabzug",
+        "description": "Sofern die Praxis umsatzsteuerpflichtige Leistungen erbringt, kann sie die Vorsteuer aus ihren Eingangsleistungen abziehen. Dies betrifft vor allem die Anschaffung von Geräten und Materialien."
+      },
+      "Advantage6": {
+        "title": "Personaleinstellung",
+        "description": "Die Anstellung von Personal führt zu weiteren steuerlichen und sozialversicherungsrechtlichen Verpflichtungen."
+      },
+      "Advantage7": {
+        "title": "Nachfolgeplanung und Praxisverkauf",
+        "description": "Langfristig sollte auch die steuerliche Planung hinsichtlich eines möglichen Praxisverkaufs oder einer Praxisübergabe bedacht werden. Hier spielen Aspekte wie die Besteuerung des Praxiswerts und die steuerlichen Folgen des Verkaufs eine Rolle."
+      }
+    }
+  },
+  "DoctorsProvisionAndRetirementProvisionPage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Vorsorge und Altersvorsorge",
+      "description": "Diese Vorteile unterstreichen die Bedeutung einer gut durchdachten Altersvorsorge speziell für Ärzte, um deren spezifische Risiken und Bedürfnisse abzudecken. Wir zeigen Ihnen die steuerlichen Vorteile auf."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Finanzielle Sicherheit und Flexibilität für Ärzte im Ruhestand",
+      "description": "Die Altersvorsorge für Ärzte hat mehrere spezifische Vorteile, die sowohl die finanzielle Sicherheit im Ruhestand als auch die berufliche Flexibilität während der aktiven Karrierezeit unterstützen können. Hier sind einige Schlüsselaspekte:",
+      "Advantage1": {
+        "title": "Finanzielle Sicherheit im Ruhestand",
+        "description": "Ärzte haben oft ein höheres Einkommen als der Durchschnitt, was bedeutet, dass sie auch ein höheres Risiko haben, ihren Lebensstandard im Ruhestand ohne adäquate Vorsorge nicht aufrechterhalten zu können. Eine effektive Altersvorsorge ermöglicht es Ärzten, auch nach Beendigung ihrer aktiven Berufstätigkeit finanziell unabhängig zu bleiben."
+      },
+      "Advantage2": {
+        "title": "Steuerliche Vorteile",
+        "description": "Viele Altersvorsorgepläne bieten steuerliche Vorteile. Beiträge zu Pensionsfonds oder privaten Rentenversicherungen können oft von der Steuer abgesetzt werden, was die steuerliche Belastung während der aktiven Berufsphase reduziert."
+      },
+      "Advantage3": {
+        "title": "Flexibilität in der Karrieregestaltung",
+        "description": "Mit einer sicheren Altersvorsorge können Ärzte flexibler entscheiden, wann sie in den Ruhestand treten möchten. Dies ist besonders in einem Berufsfeld relevant, in dem die Arbeitsbelastung hoch und die Burnout-Rate nicht unerheblich ist."
+      },
+      "Advantage4": {
+        "title": "Absicherung gegen Berufsunfähigkeit",
+        "description": "Spezielle Altersvorsorgeprodukte für Ärzte können auch Komponenten zur Absicherung gegen Berufsunfähigkeit beinhalten. Dies ist besonders wichtig, da die Ausübung des Arztberufes oft hohe physische und psychische Anforderungen stellt."
+      },
+      "Advantage5": {
+        "title": "Nachfolgeplanung und Praxisübergabe",
+        "description": "Für Ärzte, die eine eigene Praxis betreiben, kann die Altersvorsorge auch im Rahmen der Praxisübergabe eine Rolle spielen. Die finanzielle Sicherheit durch die Altersvorsorge kann eine flexiblere Gestaltung des Übergabeprozesses ermöglichen, ohne dass finanzielle Zwänge die Entscheidungen zu sehr beeinflussen."
+      },
+      "Advantage6": {
+        "title": "Erhalt des Lebensstandards",
+        "description": "Ärzte gewöhnen sich während ihrer aktiven Berufszeit oft an einen bestimmten Lebensstandard. Eine solide Altersvorsorge hilft, diesen Standard auch im Ruhestand zu wahren, indem sie ausreichend Mittel für Gesundheitsfürsorge, Freizeitaktivitäten und unvorhergesehene Ausgaben bereitstellt."
+      },
+      "Advantage7": {
+        "title": "Sicherung der Familie",
+        "description": "Gute Altersvorsorgepläne bieten auch Absicherungen für die Familie des Arztes, etwa durch Hinterbliebenenrenten, was zur finanziellen Sicherheit der Familie beiträgt, falls dem Arzt etwas zustoßen sollte."
+      }
+    }
+  },
+  "DoctorsSalesOfPracticesAndSuccessionPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Praxisverkauf und Nachfolgeplanung",
+      "description": "Der Verkauf einer Arztpraxis ist ein komplexer Prozess, der sorgfältige Planung und strategische Überlegungen erfordert. Hier sind einige wesentliche Punkte, die beachtet werden sollten:"
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Strategische Wege für den Praxisverkauf und die Nachfolgeplanung",
+      "description": "Durch die Beachtung dieser Aspekte können Sie den Verkaufsprozess Ihrer Praxis optimieren und sicherstellen, dass Sie sowohl finanziell als auch rechtlich auf der sicheren Seite sind. Wir unterstützen Sie in steuerlichen Belangen beim Praxisverkauf und Nachfolgeplanung.",
+      "Advantage1": {
+        "title": "Frühzeitige Planung",
+        "description": "Beginnen Sie mit der Planung des Praxisverkaufs idealerweise mehrere Jahre im Voraus. Dies gibt Ihnen Zeit, die Praxis sowohl finanziell als auch organisatorisch optimal für den Verkauf vorzubereiten."
+      },
+      "Advantage2": {
+        "title": "Bewertung der Praxis",
+        "description": "Eine professionelle Bewertung der Praxis ist entscheidend. Sie sollten einen Experten hinzuziehen, der Erfahrung mit der Bewertung medizinischer Praxen hat. Die Bewertung sollte finanzielle, physische und marktspezifische Faktoren berücksichtigen."
+      },
+      "Advantage3": {
+        "title": "Rechtliche und steuerliche Beratung",
+        "description": "Es ist wichtig, frühzeitig rechtliche und steuerliche Berater einzubeziehen, um sicherzustellen, dass alle Aspekte des Verkaufs ordnungsgemäß abgewickelt werden und Sie Ihre steuerlichen und rechtlichen Risiken minimieren."
+      },
+      "Advantage4": {
+        "title": "Übertragung von Verträgen und Lizenzen",
+        "description": "Stellen Sie sicher, dass alle relevanten Verträge, Lizenzen und Genehmigungen ordnungsgemäß an den neuen Besitzer übertragen werden können. Dies umfasst Verträge mit Mitarbeitern, Mietverträge, Versicherungspolicen und Vereinbarungen mit Dienstleistern."
+      },
+      "Advantage5": {
+        "title": "Übergabe der Patientenakten",
+        "description": "Der Umgang mit Patientenakten erfordert besondere Sorgfalt, um die Privatsphäre der Patienten zu schützen und rechtliche Vorgaben einzuhalten. Klären Sie, wie die Übergabe der Patientenakten unter Beachtung des Datenschutzes stattfinden soll."
+      },
+      "Advantage6": {
+        "title": "Kommunikation mit Mitarbeitern und Patienten",
+        "description": "Eine offene und ehrliche Kommunikation mit den Mitarbeitern und Patienten über den bevorstehenden Verkauf ist wichtig. Dies hilft, Unsicherheiten zu reduzieren und die Übergangsphase für alle Beteiligten zu erleichtern."
+      },
+      "Advantage7": {
+        "title": "Marktbedingungen",
+        "description": "Berücksichtigen Sie die aktuellen Marktbedingungen im Gesundheitssektor, die sowohl regional als auch national variieren können. Der richtige Zeitpunkt kann einen signifikanten Unterschied im Verkaufspreis bedeuten."
+      },
+      "Advantage8": {
+        "title": "Nachfolgeplanung",
+        "description": "Überlegen Sie, welche Rolle Sie nach dem Verkauf der Praxis spielen möchten. Manche Verkäufer bleiben in einer beratenden Funktion tätig, um einen reibungslosen Übergang zu gewährleisten."
+      },
+      "Advantage9": {
+        "title": "Wettbewerbs- und Standortanalyse",
+        "description": "Bewertungen der lokalen Konkurrenz und des Standorts der Praxis können entscheidend dafür sein, den Wert Ihrer Praxis realistisch einzuschätzen und entsprechend zu vermarkten."
+      }
+    }
+  },
+  "DoctorsInvestingInYourOwnMedicalPracticePage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Investitionen in die eigene Ärztepraxis",
+      "description": "Indem Sie diese Punkte sorgfältig berücksichtigen, können Sie sicherstellen, dass Ihre Investitionen in die eigene Ärztepraxis wohlüberlegt sind und den gewünschten Nutzen bringen. Wir unterstützen Sie bei steuerlichen Fragen und beim Vorteilhaftigkeitsvergleich von Investitionen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Maximierung der Effizienz und Rentabilität in der Ärztepraxis",
+      "description": "Investitionen in die eigene Ärztepraxis können die Qualität der Patientenversorgung verbessern, die Effizienz steigern und letztendlich die Rentabilität erhöhen. Bei der Planung solcher Investitionen sollten Ärzte folgende Punkte besonders beachten:",
+      "Advantage1": {
+        "title": "Bedarfsanalyse",
+        "description": "Bevor Sie investieren, sollten Sie genau analysieren, welche Bereiche Ihrer Praxis verbessert werden müssen. Das könnte technologische Ausrüstung, die Renovierung von Praxisräumen oder die Weiterbildung von Personal umfassen."
+      },
+      "Advantage2": {
+        "title": "Kosten-Nutzen-Abwägung",
+        "description": "Bewerten Sie die potenziellen Vorteile jeder Investition im Vergleich zu ihren Kosten. Es ist wichtig, dass die Investitionen eine positive Rendite erwarten lassen, sei es durch erhöhte Effizienz, höhere Patientenzufriedenheit oder direkte finanzielle Gewinne."
+      },
+      "Advantage3": {
+        "title": "Finanzierungsmöglichkeiten",
+        "description": "Untersuchen Sie verschiedene Finanzierungsoptionen, einschließlich Leasing, Kredite oder sogar Fördermittel, besonders wenn es um teure medizinische Geräte oder größere Umbaumaßnahmen geht."
+      },
+      "Advantage4": {
+        "title": "Technologische Upgrades",
+        "description": "Die Digitalisierung medizinischer Praxen schreitet voran. Investitionen in elektronische Patientenakten, Telemedizin-Plattformen oder fortschrittliche diagnostische Tools können die Effizienz steigern und die Patientenbetreuung verbessern."
+      },
+      "Advantage5": {
+        "title": "Compliance und Regulierungen",
+        "description": "Stellen Sie sicher, dass alle Investitionen den geltenden gesetzlichen und beruflichen Standards und Vorschriften entsprechen. Dies beinhaltet Datenschutzgesetze, Hygienevorschriften und spezifische medizinische Normen."
+      },
+      "Advantage6": {
+        "title": "Marktforschung",
+        "description": "Verstehen Sie die Bedürfnisse und Wünsche Ihrer Patienten sowie die Trends im Gesundheitswesen. Eine Investition, die aktuelle oder zukünftige Trends adressiert, kann besonders wirksam sein."
+      },
+      "Advantage7": {
+        "title": "Wettbewerbsvorteile",
+        "description": "Überlegen Sie, wie die Investition Ihre Praxis im Vergleich zu lokalen Wettbewerbern positionieren kann. Einzigartige oder verbesserte Dienstleistungen können neue Patienten anziehen und die Bindung bestehender Patienten stärken."
+      },
+      "Advantage8": {
+        "title": "Risikomanagement",
+        "description": "Berücksichtigen Sie mögliche Risiken, die mit neuen Investitionen verbunden sind, wie z.B. technische Probleme, höhere Betriebskosten oder eine längere Amortisationszeit."
+      },
+      "Advantage9": {
+        "title": "Nachhaltigkeit und Wachstum",
+        "description": "Überlegen Sie, wie die Investitionen das langfristige Wachstum und die Nachhaltigkeit Ihrer Praxis unterstützen. Langfristige Planung ist entscheidend für die kontinuierliche Entwicklung und Anpassung Ihrer Praxis an sich ändernde Marktbedingungen."
+      },
+      "Advantage10": {
+        "title": "Expertise einholen",
+        "description": "Ziehen Sie Berater oder Experten hinzu, um spezifische Investitionsentscheidungen zu bewerten, insbesondere wenn es um komplexe technologische oder finanzielle Fragen geht."
+      }
+    }
+  },
+  "DoctorsOperatingExpensesPage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Betriebsausgaben einer Arztpraxis",
+      "description": "Diese Ausgaben sind in der Regel steuerlich absetzbar, solange sie als notwendig und angemessen für den Betrieb der Praxis angesehen werden. Wir unterstützen Ärzte dabei, eine genaue Buchführung und Dokumentation ihrer Betriebsausgaben führen, um die finanzielle Gesundheit ihrer Praxis zu gewährleisten und um steuerliche Vorteile optimal nutzen zu können."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Typische Betriebsausgaben einer Arztpraxis",
+      "description": "Die Betriebsausgaben einer Arztpraxis umfassen alle Kosten, die für den laufenden Betrieb anfallen und notwendig sind, um die Praxis zu führen und medizinische Dienstleistungen zu erbringen. Diese Ausgaben können je nach Art der Praxis, ihrer Größe und ihrem Standort variieren. Hier sind einige der typischen Betriebsausgaben aufgeführt:",
+      "Advantage1": {
+        "title": "Miete oder Hypothekenzahlungen",
+        "description": "Kosten für die Gewerberäume, in denen die Praxis untergebracht ist."
+      },
+      "Advantage2": {
+        "title": "Personalkosten",
+        "description": "Gehälter, Löhne, Sozialversicherungsbeiträge und gegebenenfalls Weiterbildungskosten für das Praxispersonal, einschließlich medizinischer Fachangestellter, Rezeptionisten und ggf. weiterer Ärzte."
+      },
+      "Advantage3": {
+        "title": "Medizinische Verbrauchsmaterialien",
+        "description": "Dazu zählen Einwegartikel wie Handschuhe, Masken, Injektionsspritzen, Verbandmaterial und andere medizinische Materialien, die regelmäßig ersetzt werden müssen."
+      },
+      "Advantage4": {
+        "title": "Medizinische Geräte",
+        "description": "Anschaffung, Wartung und Reparatur von medizinischen Geräten wie Ultraschallgeräten, EKGs, Laborausrüstung usw."
+      },
+      "Advantage5": {
+        "title": "Versicherungen",
+        "description": "Berufshaftpflichtversicherung, Betriebshaftpflichtversicherung, Gebäudeversicherung und weitere relevante Versicherungen."
+      },
+      "Advantage6": {
+        "title": "Utilities und Betriebskosten",
+        "description": "Strom, Wasser, Heizung, Telefon, Internet und andere notwendige Dienstleistungen."
+      },
+      "Advantage7": {
+        "title": "Software und IT-Kosten",
+        "description": "Kosten für Praxisverwaltungssoftware, elektronische Patientenakten, IT-Support und Datenschutzmaßnahmen."
+      },
+      "Advantage8": {
+        "title": "Marketing und Werbung",
+        "description": "Ausgaben für die Bewerbung der Praxis, einschließlich Website-Pflege, Online-Marketing, Printmaterialien und andere Werbeaktionen."
+      },
+      "Advantage9": {
+        "title": "Fortbildungskosten",
+        "description": "Kosten für die Teilnahme an Konferenzen, Seminaren und anderen Weiterbildungsmaßnahmen für den Arzt und ggf. das Personal."
+      },
+      "Advantage10": {
+        "title": "Reisekosten",
+        "description": "Kosten für Geschäftsreisen, etwa zu medizinischen Konferenzen oder Fortbildungen."
+      },
+      "Advantage11": {
+        "title": "Buchhaltung und rechtliche Dienstleistungen",
+        "description": "Honorare für Steuerberater, Buchhalter oder Rechtsanwälte, die die Praxis in finanziellen oder rechtlichen Angelegenheiten unterstützen."
+      },
+      "Advantage12": {
+        "title": "Abschreibungen",
+        "description": "Wertminderung von Anlagevermögen, wie medizinische Ausrüstung und Büroeinrichtung, über die Nutzungsdauer."
+      }
+    }
+  },
+  "DoctorsEmployeesPage": {
+    "HeroArticle": {
+      "subtitle": "Ärzte",
+      "title": "Mitarbeiter einer Arztpraxis",
+      "description": "Die Berücksichtigung dieser Aspekte trägt dazu bei, dass die Mitarbeiter gut geführt und unterstützt werden, was direkt zur Qualität der Patientenversorgung und zum Gesamterfolg der Praxis beiträgt. Wir beraten Sie bei lohnsteuerlichen und sozialversicherungsrechtlichen Fragen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Effektive Mitarbeiterführung in der Arztpraxis",
+      "description": "Bei der Verwaltung und Führung von Mitarbeitern in einer Arztpraxis gibt es zahlreiche Aspekte zu berücksichtigen, die für einen reibungslosen Ablauf und eine effiziente Patientenversorgung essentiell sind. Hier sind wichtige Punkte, die beachtet werden sollten:",
+      "Advantage1": {
+        "title": "Rekrutierung und Einstellung",
+        "description": "Die Auswahl der richtigen Mitarbeiter ist entscheidend für den Erfolg einer Praxis. Qualifikationen, Erfahrung und persönliche Eignung spielen eine große Rolle. Stellenbeschreibungen sollten klar definiert und Einstellungsprozesse sorgfältig gestaltet werden, um die besten Kandidaten zu finden."
+      },
+      "Advantage2": {
+        "title": "Schulung und Weiterbildung",
+        "description": "Regelmäßige Schulungen sind notwendig, um das Fachwissen der Mitarbeiter auf dem neuesten Stand zu halten und sicherzustellen, dass alle mit den neuesten Technologien und Verfahren vertraut sind. Dies umfasst auch Schulungen zur Patientenkommunikation und zum Datenschutz."
+      },
+      "Advantage3": {
+        "title": "Arbeitsrechtliche Bestimmungen",
+        "description": "Die Einhaltung arbeitsrechtlicher Vorschriften ist unerlässlich. Dazu gehören Arbeitszeiten, Urlaubsregelungen, Krankheitsurlaub, Mutterschutz und die Einhaltung von Mindestlohnvorschriften."
+      },
+      "Advantage4": {
+        "title": "Gehalt und Zusatzleistungen",
+        "description": "Um qualifiziertes Personal zu gewinnen und zu halten, muss die Praxis wettbewerbsfähige Gehälter und möglicherweise zusätzliche Leistungen wie Gesundheitsvorsorge, Altersvorsorge und möglicherweise Bonuszahlungen anbieten."
+      },
+      "Advantage5": {
+        "title": "Arbeitsumgebung",
+        "description": "Eine positive und gesunde Arbeitsumgebung fördert die Mitarbeiterzufriedenheit und Produktivität. Dazu gehört auch die ergonomische Gestaltung des Arbeitsplatzes."
+      },
+      "Advantage6": {
+        "title": "Kommunikation",
+        "description": "Offene und effektive Kommunikationskanäle zwischen allen Mitarbeitern und der Praxisleitung sind entscheidend für die Betriebsführung. Regelmäßige Meetings und Feedback-Sitzungen können dazu beitragen, Probleme frühzeitig zu identifizieren und zu lösen."
+      },
+      "Advantage7": {
+        "title": "Leistungsbeurteilung",
+        "description": "Regelmäßige Bewertungen helfen dabei, die Leistungen der Mitarbeiter zu erkennen und zu fördern. Zielvereinbarungen und Leistungsbeurteilungen sind wichtige Instrumente zur Mitarbeiterführung und -entwicklung."
+      },
+      "Advantage8": {
+        "title": "Konfliktmanagement",
+        "description": "Konflikte können in jeder Arbeitsumgebung auftreten. Effektive Strategien zur Konfliktlösung sind notwendig, um die Harmonie am Arbeitsplatz zu wahren und Probleme professionell zu lösen."
+      },
+      "Advantage9": {
+        "title": "Datenschutz und Patientenvertraulichkeit",
+        "description": "Mitarbeiter müssen gründlich in den Datenschutzbestimmungen geschult werden, besonders im Hinblick auf den Umgang mit Patientendaten."
+      },
+      "Advantage10": {
+        "title": "Compliance und Ethik",
+        "description": "Es ist wichtig, dass alle Mitarbeiter die ethischen Standards und Compliance-Regeln der medizinischen Praxis verstehen und einhalten."
+      }
+    }
+  },
+  "PharmacistPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Apotheker",
+      "description": "Wir unterstützen mit unserer steuerlichen Expertise betreffend Ein- und Verkauf von Arzneimitteln und Produkten, diagnostischen Tätigkeiten, uvm."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Finanzielle Gesundheit für Apotheken",
+      "description": "Wir sind Ihr Partner für eine gesunde, zuverlässige Finanzstrategie in der Apothekerwelt!",
+      "moreLink": "Weiter",
+      "Block1": {
+        "title": "Gründung und Führung",
+        "description": "Die Gründung einer Apotheke erfordert sorgfältige Planung und Einhaltung spezifischer gesetzlicher Anforderungen."
+      },
+      "Block2": {
+        "title": "Umsatzsteuer",
+        "description": "Die Umsatzsteuerregelungen für Apotheken können komplex sein, da sie sowohl steuerpflichtige als auch steuerbefreite Umsätze beinhalten."
+      },
+      "Block3": {
+        "title": "Konditionsverhandlungen mit Pharmagroßhandel",
+        "description": "Konditionsverhandlungen zwischen Apothekern und Pharmagroßhändlern sind ein wesentlicher Aspekt des Apothekengeschäfts. Sie beeinflussen die Wirtschaftlichkeit und die Wettbewerbsfähigkeit der Apotheke."
+      },
+      "Block4": {
+        "title": "Analyse Wirtschaftlichkeit",
+        "description": "Die Wirtschaftlichkeitsanalyse einer Apotheke ist entscheidend, um die finanzielle Gesundheit und langfristige Tragfähigkeit des Geschäfts zu verstehen."
+      },
+      "Block5": {
+        "title": "Vorsorge und Altersvorsorge",
+        "description": "Die Altersvorsorge für Apotheker bietet zahlreiche Vorteile, die sowohl die finanzielle Sicherheit im Ruhestand als auch steuerliche Vergünstigungen betreffen."
+      },
+      "Block6": {
+        "title": "Verkauf und Nachfolgeplanung",
+        "description": "Der Verkauf einer Apotheke ist ein komplexer Prozess, der sowohl rechtliche als auch finanzielle Aspekte umfasst."
+      },
+      "Block7": {
+        "title": "Investitionen",
+        "description": "Investitionen in einer Apotheke erfordern sorgfältige Planung und strategische Überlegungen, um sicherzustellen, dass sie den langfristigen Erfolg und die Rentabilität der Apotheke unterstützen."
+      },
+      "Block8": {
+        "title": "Betriebsausgaben",
+        "description": "Betriebsausgaben sind alle Kosten, die durch den Betrieb einer Apotheke entstehen und steuerlich absetzbar sind."
+      },
+      "Block9": {
+        "title": "Mitarbeiter",
+        "description": "Bei der Beschäftigung von Mitarbeitern in Apotheken gibt es zahlreiche Aspekte zu berücksichtigen, um sowohl rechtliche Anforderungen zu erfüllen als auch ein effizientes und angenehmes Arbeitsumfeld zu schaffen."
+      }
+    }
+  },
+  "PharmacyFoundingAndManagementPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Gründung und Führung einer Apotheke",
+      "description": "Die Gründung einer Apotheke ist ein anspruchsvolles Unterfangen, das umfassende Vorbereitungen und kontinuierliches Management erfordert. Durch sorgfältige Planung und Einhaltung der gesetzlichen Rahmenbedingungen können jedoch die Grundlagen für ein erfolgreiches und nachhaltiges Apothekengeschäft gelegt werden."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Schlüsselaspekte bei der Gründung einer Apotheke",
+      "description": "Die Gründung einer Apotheke erfordert sorgfältige Planung und Einhaltung spezifischer gesetzlicher Anforderungen. Hier sind einige wichtige Aspekte, die beachtet werden sollten, wenn Sie eine Apotheke eröffnen möchten:",
+      "Advantage1": {
+        "title": "Rechtliche Voraussetzungen",
+        "description": "Betreffend Genehmigungen und sonstige rechtliche Vorschriften empfehlen wir die Kontaktaufnahme mit der Apothekerkammer bzw. mit einem in diesem Bereich spezialisierten Juristen."
+      },
+      "Advantage2": {
+        "title": "Standortwahl",
+        "description": "Der Standort ist für den Erfolg einer Apotheke entscheidend. Er sollte gut erreichbar sein und idealerweise in der Nähe von medizinischen Einrichtungen wie Arztpraxen oder Krankenhäusern liegen."
+      },
+      "Advantage3": {
+        "title": "Geschäftsplan",
+        "description": "Ein detaillierter Geschäftsplan, der Finanzplanung, Marketingstrategie, Zielmarktanalyse und Wettbewerbsanalyse umfasst, ist grundlegend. Dieser Plan hilft nicht nur bei der Suche nach Finanzierung, sondern dient auch als Leitfaden für den Betrieb."
+      },
+      "Advantage4": {
+        "title": "Finanzierung",
+        "description": "Die Startkosten für eine Apotheke können erheblich sein, da Investitionen in Lagerbestände, Ausrüstung und Geschäftsräume notwendig sind. Die Sicherung einer ausreichenden Finanzierung durch Kredite, Fördermittel oder Investoren ist daher essenziell."
+      },
+      "Advantage5": {
+        "title": "Einrichtung und Ausrüstung",
+        "description": "Die Apotheke muss gemäß den gesetzlichen Bestimmungen ausgestattet werden. Dazu gehören sichere Lagermöglichkeiten für Medikamente, angemessene Beratungsbereiche und moderne Verkaufstechnologie."
+      },
+      "Advantage6": {
+        "title": "Lagerverwaltung",
+        "description": "Ein effizientes System zur Lagerverwaltung ist entscheidend, um sicherzustellen, dass die Apotheke gut bestückt ist und die Lagerbestände frisch und relevant bleiben. Automatisierte Systeme können dabei helfen, den Überblick zu behalten und Verfallsdaten zu managen."
+      },
+      "Advantage7": {
+        "title": "Personal",
+        "description": "Qualifiziertes und lizenziertes Fachpersonal ist für den Betrieb einer Apotheke unerlässlich. Weiterbildungen und Schulungen sollten regelmäßig durchgeführt werden, um das Personal über neue Medikamente und Gesundheitsvorschriften auf dem Laufenden zu halten."
+      },
+      "Advantage8": {
+        "title": "Datenschutz und Sicherheit",
+        "description": "Apotheken müssen strenge Datenschutzrichtlinien befolgen, besonders im Umgang mit Patientendaten. Sicherheitsmaßnahmen gegen Diebstahl und Missbrauch von sensiblen Informationen und Medikamenten sind ebenfalls wichtig."
+      },
+      "Advantage9": {
+        "title": "Marketing und Kundenbindung",
+        "description": "Ein effektiver Marketingplan, der Werbemaßnahmen, Kundenbindungsprogramme und Gemeinschaftsengagement umfasst, kann dazu beitragen, eine stabile Kundenbasis aufzubauen und zu erhalten."
+      },
+      "Advantage10": {
+        "title": "Regulatorische Compliance",
+        "description": "Apotheken unterliegen strengen regulatorischen Anforderungen, die regelmäßig aktualisiert werden. Die fortlaufende Überwachung dieser Vorschriften ist erforderlich, um Compliance sicherzustellen und Strafen zu vermeiden."
+      }
+    }
+  },
+  "PharmacySalesTaxPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Umsatzsteuer bei Apotheken",
+      "description": "Die umsatzsteuerlichen Regelungen sind komplex und Änderungen unterworfen. Daher ist es empfehlenswert, dass Apothekenbesitzer regelmäßig mit einem Steuerberater zusammenarbeiten, um sicherzustellen, dass sie alle geltenden steuerlichen Vorschriften einhalten und ihre steuerlichen Verpflichtungen korrekt erfüllen."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Umsatzsteuerliche Aspekte",
+      "description": "Die Umsatzsteuerregelungen für Apotheken können komplex sein, da sie sowohl steuerpflichtige als auch steuerbefreite Umsätze beinhalten. Hier sind einige wesentliche umsatzsteuerliche Aspekte, die bei der Führung einer Apotheke beachtet werden sollten:",
+      "Advantage1": {
+        "title": "Steuerbefreiung für Medikamente",
+        "description": "In Österreich sind Umsätze aus dem Verkauf von verschreibungspflichtigen Medikamenten von der Umsatzsteuer befreit. Dies bedeutet, dass für diese Verkäufe keine Umsatzsteuer erhoben wird und entsprechend auch kein Vorsteuerabzug möglich ist."
+      },
+      "Advantage2": {
+        "title": "Steuerpflichtige Umsätze",
+        "description": "Andere Produkte und Dienstleistungen, die in Apotheken verkauft werden, wie zum Beispiel nicht verschreibungspflichtige Medikamente, Kosmetika, Nahrungsergänzungsmittel oder medizinische Produkte, sind in der Regel steuerpflichtig. Hierfür muss die Umsatzsteuer berechnet und abgeführt werden."
+      },
+      "Advantage3": {
+        "title": "Vorsteuerabzug",
+        "description": "Apotheken können die Vorsteuer, die sie für ihre betrieblichen Ausgaben (z.B. für die Beschaffung von Handelswaren oder Betriebsmitteln) bezahlt haben, in der Regel abziehen, solange sie damit umsatzsteuerpflichtige Umsätze erwirtschaften. Bei gemischten Umsätzen (teilweise steuerfrei, teilweise steuerpflichtig) muss jedoch eine Aufteilung der Vorsteuer nach dem Verhältnis der Umsätze erfolgen."
+      },
+      "Advantage4": {
+        "title": "Umsatzsteuervoranmeldungen",
+        "description": "Apotheker müssen regelmäßig Umsatzsteuervoranmeldungen bei den Finanzbehörden einreichen, wenn sie umsatzsteuerpflichtige Umsätze tätigen. Dabei ist zu melden, wie viel Umsatzsteuer für den jeweiligen Zeitraum eingenommen und wie viel Vorsteuer abgezogen wurde."
+      },
+      "Advantage5": {
+        "title": "Buchführung und Dokumentation",
+        "description": "Es ist wichtig, dass Apotheken eine präzise Buchführung führen, um alle steuerpflichtigen und steuerfreien Umsätze korrekt zu dokumentieren. Dies umfasst den Verkauf von Medikamenten, anderen Produkten und zusätzlichen Dienstleistungen."
+      },
+      "Advantage6": {
+        "title": "Prüfung von Umsatzsteuersätzen",
+        "description": "Die spezifischen Umsatzsteuersätze können je nach Produktkategorie variieren. Apotheken müssen sicherstellen, dass sie die korrekten Steuersätze auf die verschiedenen Produktgruppen anwenden."
+      },
+      "Advantage7": {
+        "title": "Umgang mit Gutscheinen und Rabatten",
+        "description": "Die umsatzsteuerliche Behandlung von Gutscheinen, Rabatten und ähnlichen Preisnachlässen kann kompliziert sein und sollte genau beachtet werden, um eine korrekte Steuerberechnung zu gewährleisten."
+      }
+    }
+  },
+  "PharmacyConditionNegotiationsWithPharmaceuticalWholesalersPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Konditionsverhandlungen",
+      "description": "Es ist ratsam, einen erfahrenen Berater oder Rechtsanwalt hinzuziehen, wenn komplexe Vertragsdetails verhandelt werden oder wenn es um bedeutende finanzielle Entscheidungen geht. Dies stellt sicher, dass alle Vereinbarungen im besten Interesse der Apotheke getroffen werden."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Optimierung von Konditionsverhandlungen",
+      "description": "Konditionsverhandlungen zwischen Apothekern und Pharmagroßhändlern sind ein wesentlicher Aspekt des Apothekengeschäfts. Sie beeinflussen die Wirtschaftlichkeit und die Wettbewerbsfähigkeit der Apotheke. Hier einige wichtige Punkte, die ein Apotheker bei solchen Verhandlungen beachten sollte:",
+      "Advantage1": {
+        "title": "Marktkenntnis",
+        "description": "Vor den Verhandlungen ist es wichtig, eine gründliche Marktanalyse durchzuführen. Kenntnisse über die Preise und Konditionen der Konkurrenz sowie das Verständnis von Angebot und Nachfrage im Pharmamarkt können eine starke Verhandlungsposition unterstützen."
+      },
+      "Advantage2": {
+        "title": "Preisgestaltung und Rabatte",
+        "description": "Verhandeln Sie nicht nur über die Listenpreise, sondern auch über mögliche Rabatte, Mengenrabatte und Bonusprogramme. Solche Konditionen können erheblichen Einfluss auf die Kostenstruktur und Profitabilität der Apotheke haben."
+      },
+      "Advantage3": {
+        "title": "Lieferbedingungen",
+        "description": "Klären Sie die Lieferkonditionen, einschließlich Lieferzeiten, Mindestbestellmengen, Versandkosten und Rückgaberechte. Kurze Lieferzeiten und flexible Bestellmengen können die Lagerhaltung effizienter gestalten."
+      },
+      "Advantage4": {
+        "title": "Zahlungsbedingungen",
+        "description": "Verhandeln Sie Zahlungsziele, die Ihrer Cashflow-Situation entsprechen. Längere Zahlungsziele verbessern die Liquidität der Apotheke, während Skonti für schnelle Zahlungen Kosten sparen können."
+      },
+      "Advantage5": {
+        "title": "Exklusivitätsvereinbarungen",
+        "description": "Manchmal bieten Großhändler bessere Konditionen an, wenn sie als exklusiver Lieferant ausgewählt werden. Solche Vereinbarungen sollten jedoch sorgfältig geprüft werden, da sie die Flexibilität in der Beschaffung einschränken können."
+      },
+      "Advantage6": {
+        "title": "Qualität und Produktverfügbarkeit",
+        "description": "Stellen Sie sicher, dass die vereinbarten Produkte den Qualitätsanforderungen entsprechen und kontinuierlich verfügbar sind. Engpässe bei wichtigen Medikamenten können das Geschäft negativ beeinflussen."
+      },
+      "Advantage7": {
+        "title": "Vertragslaufzeit und Kündigungsrechte",
+        "description": "Achten Sie auf die Laufzeit des Vertrages und darauf, dass angemessene Kündigungsrechte vereinbart werden. Flexibilität in der Vertragsdauer kann schützen, sollte eine Neubewertung der Geschäftsbeziehung notwendig werden."
+      },
+      "Advantage8": {
+        "title": "Service und Support",
+        "description": "Diskutieren Sie, welche zusätzlichen Dienstleistungen der Großhändler bietet, wie z.B. Unterstützung bei der Produktplatzierung, Schulungen oder technischer Support."
+      },
+      "Advantage9": {
+        "title": "Rechtliche Aspekte und Compliance",
+        "description": "Alle Vereinbarungen sollten im Einklang mit den geltenden gesetzlichen Bestimmungen stehen. Dies betrifft sowohl wettbewerbsrechtliche Aspekte als auch spezifische Pharma-Regulationen."
+      },
+      "Advantage10": {
+        "title": "Verhandlungsführung und -strategie",
+        "description": "Bleiben Sie während der Verhandlungen professionell und sachlich. Eine gute Vorbereitung, klare Ziele und eine flexible Strategie können dabei helfen, optimale Ergebnisse zu erzielen."
+      }
+    }
+  },
+  "PharmacyEconomicAnalysisPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Wirtschaftlichkeitsanalyse",
+      "description": "Diese umfassende Analyse bietet einen detaillierten Überblick über die finanzielle Leistungsfähigkeit einer Apotheke und liefert wertvolle Einsichten für strategische Entscheidungen, wie Investitionen, Kostenmanagement und Expansionspläne. Es wird empfohlen, diese Analysen regelmäßig durchzuführen, um auf Veränderungen im Markt oder in der Geschäftstätigkeit reagieren zu können."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Finanzielle Gesundheit einer Apotheke verstehen",
+      "description": "Die Wirtschaftlichkeitsanalyse einer Apotheke ist entscheidend, um die finanzielle Gesundheit und langfristige Tragfähigkeit des Geschäfts zu verstehen. Hier sind wichtige Schritte und Kennzahlen, die bei der Analyse der Wirtschaftlichkeit einer Apotheke berücksichtigt werden sollten:",
+      "Advantage1": {
+        "title": "Umsatzanalyse",
+        "description": "<ul><li><b>Gesamtumsatz: </b>Überprüfung der Gesamteinnahmen aus dem Verkauf von Medikamenten und anderen Produkten.</li><li><b>Umsatz nach Produktkategorien: </b>Analyse des Umsatzes nach verschiedenen Kategorien.</li><li><b>Durchschnittlicher Warenkorb: </b>Ermittlung des durchschnittlichen Verkaufswerts pro Kundenbesuch.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Kostenanalyse",
+        "description": "<ul><li>Wareneinsatzkosten (Cost of Goods Sold, COGS)</li><li>Personalkosten</li><li>Mietkosten</li><li>Betriebskosten</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Rentabilitätskennzahlen",
+        "description": "<ul><li>Bruttogewinnmarge</li><li>EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization</li><li>Nettogewinnmarge</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Kundenanalyse",
+        "description": "<ul><li>Kundenfrequenz</li><li>Kundenbindung</li><li>Durchschnittliche Ausgaben pro Kunde</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Effizienzkennzahlen",
+        "description": "<ul><li>Lagerumschlag</li><li>Personalproduktivität</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Strategische Überprüfung",
+        "description": "<ul><li>Marktpositionierung</li><li>SWOT-Analyse</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Compliance und regulatorische Aspekte",
+        "description": "Überprüfung der Einhaltung gesetzlicher Vorschriften und Anforderungen, die finanzielle Auswirkungen haben können."
+      }
+    }
+  },
+  "PharmacyPensionAndRetirementProvisionPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Altersvorsorge",
+      "description": "Durch die Kombination dieser verschiedenen Vorteile und Möglichkeiten können Apotheker eine umfassende und flexible Altersvorsorge aufbauen, die auf ihre spezifischen Bedürfnisse und beruflichen Anforderungen zugeschnitten ist. Dies trägt wesentlich zur finanziellen Sicherheit und Lebensqualität im Ruhestand bei."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Optimierung der Altersvorsorge ",
+      "description": "Die Altersvorsorge für Apotheker bietet zahlreiche Vorteile, die sowohl die finanzielle Sicherheit im Ruhestand als auch steuerliche Vergünstigungen betreffen. Hier sind einige der wichtigsten Vorteile:",
+      "Advantage1": {
+        "title": "Berufsständische Versorgungswerke",
+        "description": "<ul><li>Verlässliche Absicherung</li><li>Zusätzliche Leistungen</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Steuerliche Vorteile",
+        "description": "<b>Absetzbarkeit der Beiträge:</b> Beiträge zur Altersvorsorge können steuerlich geltend gemacht werden. Dies reduziert das zu versteuernde Einkommen und damit die Steuerlast."
+      },
+      "Advantage3": {
+        "title": "Vielfältige Vorsorgemöglichkeiten",
+        "description": "<ul><li><b>Private Rentenversicherung:</b> Neben der Pflichtvorsorge durch die Versorgungswerke können Apotheker auch private Rentenversicherungen abschließen, die individuell gestaltet werden können.</li><li><b>Betriebliche Altersvorsorge:</b> Apotheker als Arbeitgeber können ihren Mitarbeitern und sich selbst eine betriebliche Altersvorsorge anbieten, die steuerlich gefördert wird.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Flexibilität und Anpassungsmöglichkeiten",
+        "description": "<ul><li><b>Individuelle Beitragsgestaltung: </b>Je nach persönlicher und beruflicher Situation können Apotheker die Höhe ihrer Beiträge anpassen.</li><li><b>Ergänzende Vorsorgeprodukte: </b>Zusätzlich zu den gesetzlichen und berufsständischen Versorgungen können ergänzende Vorsorgeprodukte wie Aktienfonds, Immobilieninvestments oder betriebliche Altersvorsorge genutzt werden.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Inflationsschutz",
+        "description": "<b>Dynamische Anpassung: </b>Viele Vorsorgeprodukte bieten die Möglichkeit einer dynamischen Anpassung der Beiträge und Leistungen, um den Inflationsschutz zu gewährleisten."
+      },
+      "Advantage6": {
+        "title": "Langfristige Planungssicherheit",
+        "description": "<b>Lebenslange Rentenzahlungen: </b>Viele Altersvorsorgeprodukte garantieren lebenslange Rentenzahlungen, was Planungssicherheit und finanzielle Stabilität im Alter bietet."
+      },
+      "Advantage7": {
+        "title": "Sicherheit und Verlässlichkeit",
+        "description": "<ul><li><b>Sicherheitsorientierte Anlagen: </b>Altersvorsorgeprodukte wie die berufsständischen Versorgungswerke legen häufig Wert auf sichere und stabile Anlagen, um die Rentenzahlungen zu gewährleisten.</li><li><b>Regulierung und Kontrolle: </b>Versorgungswerke und Altersvorsorgeprodukte unterliegen strengen Regulierungen und Kontrollen, was zusätzlichen Schutz bietet.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Zusätzliche Absicherung für Familienangehörige",
+        "description": "<b>Hinterbliebenenrente: </b>Viele Vorsorgeprodukte bieten auch eine Absicherung für Hinterbliebene, was zusätzliche Sicherheit für die Familie des Apothekers bietet."
+      }
+    }
+  },
+  "PharmacySaleAndSuccessionPlanningPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Verkauf und Nachfolgeplanung",
+      "description": "Der Verkauf einer Apotheke erfordert eine sorgfältige Vorbereitung und Planung. Wichtige Aspekte sind die genaue Bewertung der Apotheke, rechtliche und steuerliche Beratung, sorgfältige Vertragsgestaltung sowie eine gut geplante Übergangsphase. Die Zusammenarbeit mit spezialisierten Beratern und eine transparente Kommunikation mit Mitarbeitern und Kunden sind entscheidend für einen erfolgreichen Verkauf."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Strategien für den Verkauf",
+      "description": "Der Verkauf einer Apotheke ist ein komplexer Prozess, der sowohl rechtliche als auch finanzielle Aspekte umfasst. Hier sind die wichtigsten Punkte, die dabei zu beachten sind:",
+      "Advantage1": {
+        "title": "Vorbereitung und Planung",
+        "description": "<ul><li><b>Wert der Apotheke ermitteln: </b>Eine genaue Bewertung der Apotheke durch einen Fachmann ist unerlässlich. Diese umfasst die Ermittlung des Substanzwerts (Immobilien, Inventar, Lagerbestände) und des Ertragswerts (zukünftige Gewinne).</li><li><b>Steuerliche Beratung: </b>Eine umfassende steuerliche Beratung hilft, steuerliche Konsequenzen zu verstehen und zu optimieren.</li><li><b>Vorbereitende Maßnahmen: </b>Ordnung der Buchhaltung, Überprüfung aller Verträge und ggf. deren Anpassung, um den Verkaufsprozess reibungslos zu gestalten.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Rechtliche Aspekte",
+        "description": "<ul><li><b>Genehmigungen und Lizenzen: </b>Sicherstellen, dass alle notwendigen Genehmigungen und Lizenzen für den Betrieb der Apotheke vorhanden und auf dem neuesten Stand sind.</li><li><b>Apothekenbetriebsordnung: </b>Einhaltung aller gesetzlichen Vorgaben, die für den Betrieb und Verkauf der Apotheke relevant sind.</li><li><b>Kaufvertrag: </b>Erstellung eines detaillierten Kaufvertrags, der alle wichtigen Punkte regelt, wie Kaufpreis, Zahlungsmodalitäten, Übergabetermin und Haftungsfragen.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Finanzielle Aspekte",
+        "description": "<ul><li><b>Finanzierungsoptionen für den Käufer: </b>Informationen über mögliche Finanzierungsmodelle für den Käufer bereitstellen.</li><li><b>Steuerliche Konsequenzen des Verkaufs: </b>Berücksichtigung der steuerlichen Folgen des Verkaufs, wie z.B. Veräußerungsgewinnbesteuerung.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Nachfolge und Übergabe",
+        "description": "<ul><li><b>Übergangsphase planen: </b>Eine gut geplante Übergangsphase stellt sicher, dass der Betrieb nahtlos weiterläuft und Kunden sowie Mitarbeiter informiert und eingebunden werden.</li><li><b>Einführung des Nachfolgers: </b>Unterstützung des Nachfolgers bei der Einarbeitung und Übergabe von Wissen und Kontakten.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Kommunikation",
+        "description": "<ul><li><b>Mitarbeiter informieren: </b>Frühzeitige und transparente Kommunikation mit den Mitarbeitern, um Unsicherheiten und Unruhe zu vermeiden.</li><li><b>Kunden informieren: </b>Kommunikation mit den Kunden über den Wechsel, um Vertrauen und Kontinuität sicherzustellen.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Vertragliche Regelungen",
+        "description": "<ul><li><b>Kaufpreiszahlung: </b>Klare Vereinbarungen über die Modalitäten der Kaufpreiszahlung (z.B. Einmalzahlung, Ratenzahlung).</li><li><b>Gewährleistung und Haftung: </b>Regelungen zu Gewährleistung und Haftung für etwaige Mängel oder Probleme nach dem Verkauf.</li><li><b>Konkurrenzklausel: </b>Mögliche Vereinbarung einer Konkurrenzklausel, um den Käufer vor direkter Konkurrenz durch den Verkäufer zu schützen.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Beratung durch Experten",
+        "description": "<ul><li><b>Juristische Beratung: </b>Ein Anwalt, spezialisiert auf Apothekenrecht, hilft bei der Erstellung und Prüfung des Kaufvertrags und der Einhaltung aller rechtlichen Anforderungen.</li><li><b>Steuerberater und Wirtschaftsprüfer: </b>Unterstützung bei der steuerlichen Optimierung und finanziellen Planung.</li><li><b>Apothekenberater: </b>Fachberater für Apotheken können spezifisches Branchenwissen und Unterstützung bei der Bewertung und dem Verkaufsprozess bieten.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Marktanalyse und Käuferfindung",
+        "description": "<ul><li><b>Marktanalyse: </b>Analyse des aktuellen Apothekenmarktes und der Wettbewerbslandschaft</li><li><b>Käufer finden: </b>Nutzung von Netzwerken, Fachberatern und Branchenportalen zur Identifikation und Ansprache potenzieller Käufer.</li></ul>"
+      }
+    }
+  },
+  "PharmacyInvestmentsPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Investitionen",
+      "description": "Investitionen in einer Apotheke sollten gut geplant und strategisch ausgerichtet sein. Wichtige Aspekte umfassen die Bedarfsanalyse, Finanzierung, Risikomanagement, Marktanalyse, technologische und personelle Investitionen, Marketing, Standortoptimierung sowie die Einhaltung rechtlicher Vorgaben. Kontinuierliches Monitoring und Anpassung der Investitionsstrategie sind entscheidend für den langfristigen Erfolg der Apotheke."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Strategische Investitionen",
+      "description": "Investitionen in einer Apotheke erfordern sorgfältige Planung und strategische Überlegungen, um sicherzustellen, dass sie den langfristigen Erfolg und die Rentabilität der Apotheke unterstützen. Hier sind die wichtigsten Punkte, die bei Investitionen in einer Apotheke zu beachten sind:",
+      "Advantage1": {
+        "title": "Bedarfsanalyse und Planung",
+        "description": "<ul><li><b>Bedarf ermitteln: </b>Identifizieren Sie die Bereiche, in denen Investitionen erforderlich sind, wie z.B. Modernisierung der Einrichtung, Erweiterung des Produktangebots oder Einführung neuer Technologien.</li><li><b>Zielsetzung: </b>Klare Definition der Ziele der Investition, sei es die Steigerung des Umsatzes, Verbesserung der Effizienz oder Erhöhung der Kundenzufriedenheit.</li><li><b>Business-Plan: </b>Erstellung eines detaillierten Business-Plans, der die geplanten Investitionen, ihre Kosten und den erwarteten Nutzen beschreibt.</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Finanzierung",
+        "description": "<ul><li><b>Eigenkapital vs. Fremdkapital: </b>Entscheidung, ob die Investitionen aus Eigenmitteln oder durch Fremdfinanzierung (z.B. Kredite) erfolgen sollen.</li><li><b>Fördermittel: </b>Prüfung der Verfügbarkeit von staatlichen Fördermitteln oder Zuschüssen für Apotheken.</li><li><b>Kredite und Darlehen: </b>Vergleich verschiedener Finanzierungsangebote und Auswahl der besten Option in Bezug auf Zinssätze und Konditionen.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Risikomanagement",
+        "description": "<ul><li><b>Risikoanalyse: </b>Identifikation potenzieller Risiken, die mit der Investition verbunden sind, und Entwicklung von Strategien zu deren Minimierung.</li><li><b>Versicherungen: </b>Überprüfung und ggf. Anpassung des Versicherungsschutzes, um neue Risiken abzudecken.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Marktanalyse und Wettbewerb",
+        "description": "<ul><li><b>Wettbewerbsanalyse: </b>Analyse der Konkurrenz und deren Investitionsstrategien, um sich einen Wettbewerbsvorteil zu verschaffen.</li><li><b>Markttrends: </b>Beobachtung aktueller Markttrends und Entwicklungen im Gesundheitssektor, um Investitionen zukunftssicher zu gestalten.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Technologische Investitionen",
+        "description": "<ul><li><b>Digitalisierung: </b>Investitionen in digitale Technologien, wie z.B. eine moderne Apothekensoftware, E-Rezept-Systeme oder Online-Bestellmöglichkeiten.</li><li><b>Automatisierung: </b>Überlegung zur Anschaffung von automatisierten Lagersystemen oder Kommissionierautomaten zur Effizienzsteigerung.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Personal",
+        "description": "<ul><li><b>Weiterbildung und Schulung: </b>Investitionen in die Aus- und Weiterbildung der Mitarbeiter, um deren Kompetenzen zu erweitern und die Servicequalität zu erhöhen.</li><li><b>Personalplanung: </b>Sicherstellung, dass genügend qualifiziertes Personal vorhanden ist, um die neuen Investitionen zu betreiben und zu managen.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Marketing und Kundenbindung",
+        "description": "<ul><li><b>Marketingmaßnahmen: </b>Investitionen in Marketing und Werbung, um neue Kunden zu gewinnen und bestehende Kunden zu binden.</li><li><b>Kundenbindungsprogramme: </b>Entwicklung und Implementierung von Kundenbindungsprogrammen.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Standort und Einrichtung",
+        "description": "<ul><li><b>Standortanalyse: </b>Überprüfung des Standorts der Apotheke und ggf. Investitionen in einen besseren Standort oder in die Modernisierung des bestehenden Standorts.</li><li><b>Einrichtung und Ausstattung: </b>Investitionen in eine moderne und ansprechende Einrichtung, die sowohl funktional als auch einladend für Kunden ist.</li></ul>"
+      },
+      "Advantage9": {
+        "title": "Regulatorische und rechtliche Aspekte",
+        "description": "<ul><li><b>Compliance: </b>Sicherstellen, dass alle Investitionen den gesetzlichen und regulatorischen Anforderungen entsprechen.</li><li><b>Beratung durch Experten: </b>Konsultation von Fachleuten wie Steuerberatern, Anwälten und Apothekenberatern, um sicherzustellen, dass alle Investitionen rechtlich und steuerlich optimal gestaltet sind.</li></ul>"
+      },
+      "Advantage10": {
+        "title": "Controlling und Nachverfolgung",
+        "description": "<ul><li><b>Monitoring und Kontrolle: </b>Kontinuierliche Überwachung der Investitionen und deren Auswirkungen auf den Geschäftserfolg.</li><li><b>Erfolgsmessung: </b>Regelmäßige Überprüfung, ob die gesetzten Ziele erreicht werden, und ggf. Anpassung der Strategie.</li></ul>"
+      }
+    }
+  },
+  "PharmacyOperatingExpensesPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Betriebsausgaben",
+      "description": "Die Betriebsausgaben einer Apotheke sind vielfältig und umfassen alle Kosten, die im Zusammenhang mit dem Betrieb der Apotheke entstehen. Diese Ausgaben sind steuerlich relevant und müssen sorgfältig dokumentiert und verwaltet werden, um steuerliche Vorteile zu nutzen und die wirtschaftliche Stabilität der Apotheke zu gewährleisten."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Typische Betriebsausgaben",
+      "description": "Betriebsausgaben sind alle Kosten, die durch den Betrieb einer Apotheke entstehen und steuerlich absetzbar sind. Hier sind die wichtigsten Betriebsausgaben, die bei einer Apotheke anfallen können:",
+      "Advantage1": {
+        "title": "Waren- und Materialkosten",
+        "description": "<ul><li>Einkauf von Arzneimitteln und Heilmitteln</li><li>Verbrauchsmaterialien</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Personalkosten",
+        "description": "<ul><li>Löhne und Gehälter</li><li>Sozialversicherungsbeiträge</li><li>Weiterbildungskosten</li><li>Betriebliche Altersvorsorge</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Miet- und Nebenkosten",
+        "description": "<ul><li>Miete für Geschäftsräume</li><li>Nebenkosten</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Abschreibungen",
+        "description": "<ul><li>Abschreibungen auf Anlagevermögen</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Marketing und Werbung",
+        "description": "<ul><li>Werbungskosten</li><li>Marketingmaterialien</li><li>Website und Online-Marketing</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Bürokosten",
+        "description": "<ul><li>Büromaterial</li><li>EDV und Software</li><li>Telefon- und Internetkosten</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Versicherungen",
+        "description": "<ul><li><b>Betriebshaftpflichtversicherung</b></li><li><b>Berufshaftpflichtversicherung: </b>Versicherung speziell für Apotheker zur Absicherung gegen berufliche Haftungsrisiken.</li></ul>"
+      },
+      "Advantage8": {
+        "title": "Finanzierungskosten",
+        "description": "<ul><li>Zinsaufwendungen</li><li>Bankgebühren</li></ul>"
+      },
+      "Advantage9": {
+        "title": "Rechts- und Beratungskosten",
+        "description": "<ul><li>Steuerberatung</li><li>Rechtsberatung</li></ul>"
+      },
+      "Advantage10": {
+        "title": "Sonstige Betriebsausgaben",
+        "description": "<ul><li>Fahrt- und Reisekosten</li><li>Mitgliedsbeiträge</li><li>Bewirtungskosten</li><li>Fortbildungskosten</li><li>Kosten für externe Dienstleistungen</li></ul>"
+      }
+    }
+  },
+  "PharmacyEmployeesPage": {
+    "HeroArticle": {
+      "subtitle": "Apotheker",
+      "title": "Mitarbeiter",
+      "description": "Die Beschäftigung von Mitarbeitern in Apotheken erfordert die Einhaltung rechtlicher Vorgaben, eine sorgfältige Personalplanung und -organisation sowie die Schaffung eines positiven Arbeitsumfeldes. Wichtige Aspekte sind die Qualifikation und Weiterbildung der Mitarbeiter, transparente Kommunikation, faire Arbeitsbedingungen und die Förderung von Teamarbeit und Motivation. Ein besonderes Augenmerk liegt auch auf dem Datenschutz und der Sicherstellung der Vertraulichkeit von Patientendaten. Durch die Berücksichtigung all dieser Faktoren kann eine Apotheke erfolgreich und effizient betrieben werden."
+    },
+    "AdvantagesArticle": {
+      "subtitle": "Vorteile",
+      "title": "Effektive Mitarbeiterführung",
+      "description": "Bei der Beschäftigung von Mitarbeitern in Apotheken gibt es zahlreiche Aspekte zu berücksichtigen, um sowohl rechtliche Anforderungen zu erfüllen als auch ein effizientes und angenehmes Arbeitsumfeld zu schaffen. Hier sind die wichtigsten Punkte, die bei Mitarbeitern in Apotheken zu beachten sind:",
+      "Advantage1": {
+        "title": "Rechtliche Rahmenbedingungen",
+        "description": "<ul><li><b>Arbeitsverträge: </b>Jeder Mitarbeiter sollte einen schriftlichen Arbeitsvertrag erhalten, der die wesentlichen Arbeitsbedingungen regelt, wie Arbeitszeiten, Gehalt, Urlaubsansprüche, Kündigungsfristen und Tätigkeitsbeschreibung.</li><li><b>Arbeitszeitgesetze: </b>Einhaltung der gesetzlichen Regelungen zu Arbeitszeiten, Pausen und Ruhezeiten. Besonders wichtig ist dies bei Schichtarbeit und Notdiensten.</li><li><b>Mindestlohn und Tarifverträge: </b>Sicherstellen, dass der gezahlte Lohn den gesetzlichen Mindestlohn nicht unterschreitet und gegebenenfalls Tarifverträge beachtet werden.</li><li><b>Arbeitsschutz und Arbeitssicherheit: </b>Bereitstellung einer sicheren Arbeitsumgebung und Einhaltung der Vorschriften zum Arbeitsschutz (z.B. regelmäßige Unterweisungen, Bereitstellung von Schutzkleidung).</li></ul>"
+      },
+      "Advantage2": {
+        "title": "Qualifikationen und Fortbildung",
+        "description": "<ul><li><b>Fachliche Qualifikationen: </b>Sicherstellen, dass alle Mitarbeiter die erforderlichen Qualifikationen und Zulassungen besitzen.</li><li><b>Weiterbildung: </b>Förderung der kontinuierlichen Weiterbildung und Schulung der Mitarbeiter, um die Qualität der Beratung und der Dienstleistungen auf einem hohen Niveau zu halten.</li><li><b>Fortbildungsverpflichtungen: </b>Apotheker und PTAs sind gesetzlich verpflichtet, sich regelmäßig fortzubilden.</li></ul>"
+      },
+      "Advantage3": {
+        "title": "Personalplanung und Organisation",
+        "description": "<ul><li><b>Dienstplangestaltung: </b>Erstellung eines fairen und transparenten Dienstplans, der die Bedürfnisse der Mitarbeiter berücksichtigt und gleichzeitig den Betrieb sicherstellt.</li><li><b>Urlaubsplanung: </b>Rechtzeitige und gerechte Planung von Urlaubstagen, um Engpässe im Betrieb zu vermeiden.</li><li><b>Vertretungsregelungen: </b>Klare Regelungen für Krankheits- und Urlaubsvertretungen, um eine kontinuierliche Versorgung sicherzustellen.</li></ul>"
+      },
+      "Advantage4": {
+        "title": "Kommunikation und Teamarbeit",
+        "description": "<ul><li><b>Teamführung: </b>Eine gute Teamführung ist entscheidend für ein positives Arbeitsklima. Dies umfasst regelmäßige Teambesprechungen, klare Kommunikation und die Förderung von Teamarbeit.</li><li><b>Feedback-Kultur: </b>Etablierung einer offenen Feedback-Kultur, in der Mitarbeiter Rückmeldungen geben und empfangen können.</li><li><b>Konfliktmanagement: </b>Mechanismen zur Lösung von Konflikten am Arbeitsplatz sollten etabliert sein, um ein harmonisches Arbeitsumfeld zu gewährleisten.</li></ul>"
+      },
+      "Advantage5": {
+        "title": "Motivation und Mitarbeiterbindung",
+        "description": "<ul><li><b>Anreize und Benefits: </b>Angebote wie flexible Arbeitszeiten, Fortbildungsmöglichkeiten, betriebliche Altersvorsorge oder zusätzliche Urlaubstage können die Motivation und Zufriedenheit der Mitarbeiter erhöhen.</li><li><b>Karrieremöglichkeiten: </b>Aufzeigen von Karrierewegen innerhalb der Apotheke oder durch weitere Qualifikationen und Spezialisierungen.</li></ul>"
+      },
+      "Advantage6": {
+        "title": "Datenschutz und Vertraulichkeit",
+        "description": "<ul><li><b>Datenschutzrichtlinien: </b>Einhaltung der Datenschutzgesetze (DSGVO) bei der Verarbeitung von Mitarbeiterdaten.</li><li><b>Vertraulichkeit: </b>Sicherstellung, dass Mitarbeiter die Vertraulichkeit von Patientendaten und internen Informationen wahren.</li></ul>"
+      },
+      "Advantage7": {
+        "title": "Soziale Aspekte",
+        "description": "<ul><li><b>Gesundheitsförderung: </b>Maßnahmen zur Förderung der Gesundheit der Mitarbeiter, wie ergonomische Arbeitsplätze, Gesundheitschecks oder Unterstützung bei der Work-Life-Balance.</li><li><b>Gleichberechtigung und Diversität: </b>Förderung von Gleichberechtigung und Diversität am Arbeitsplatz, um ein inklusives und respektvolles Arbeitsumfeld zu schaffen.</li></ul>"
+      }
+    }
+  },
+  "HotelsGastronomyPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Hotels und Gastronomie",
+      "description": "Gewürzt mit Fachwissen: Wir machen Ihren Hotel- und Gastronomiebetrieb fit für finanziellen Erfolg!"
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Erfolgreiche Gastronomie und Hotellerie",
+      "description": "Profitieren Sie von unserer umfassenden steuerlichen Expertise und maßgeschneiderten Lösungen für die Hotel- und Gastronomiebranche.",
+      "Block1": {
+        "title": "Branchenkenntnisse",
+        "description": "Wir haben fundierte Kenntnisse über die spezifischen steuerlichen Anforderungen und Herausforderungen, denen Hotels und Gastronomiebetriebe gegenüberstehen. Unser Fachwissen ermöglicht es uns, maßgeschneiderte Lösungen zu entwickeln, die auf die Bedürfnisse dieser Branchen zugeschnitten sind."
+      },
+      "Block2": {
+        "title": "Gründung und -führung",
+        "description": "Zahlreiche (steuerliche) Fragen, wie Wahl der Rechtsform, Mitarbeiter, Anfangsinvestitionen einfach und verständlich aufbereiten."
+      },
+      "Block3": {
+        "title": "Schnittstellen",
+        "description": "Einrichtung und Optimierung von Schnittstellen zu den gängigsten Softwarelösungen (z.B. Protel, Ready2Order, SumUp, Paymash, etc.), um eine effiziente Verbuchung zu gewährleisten."
+      },
+      "Block4": {
+        "title": "Optimierung Ausgaben",
+        "description": "Gemeinsame Analyse und Beurteilung der Wirtschaftlichkeit von kostspieligen Investitionen, Aufnahme von neuen Mitarbeitern, Tätigung von sonstigen laufenden Ausgaben, etc."
+      },
+      "Block5": {
+        "title": "Analyse Wirtschaftlichkeit",
+        "description": "Hilfestellung bei Ermittlung der Wirtschaftlichkeit des Gesamtunternehmens bzw. Teilbereichen, um fundierte Entscheidungsgrundlagen für die Fortführung/Aufnahme von Produkten/Geschäftszweigen zu haben."
+      },
+      "Block6": {
+        "title": "Verkauf und Nachfolgeplanung",
+        "description": "Gemeinsame Ermittlung des optimalen Verkaufspreises bzw. -zeitpunktes inklusive sämtliche zu beachtende Gebühren und Steuern."
+      },
+      "Block7": {
+        "title": "Mitarbeiter",
+        "description": "Beratung über Gehälter und Arbeitsverträge, verschiedene Arbeitszeitmodelle, Aus- und Fortbildung von Mitarbeitern, etc."
+      }
+    }
+  },
+  "ClassicTaxAdvicePage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Klassische Steuerberatung",
+      "description": "Maximieren Sie durch eine fachkundige Beratung Ihre Steuervorteile, minimieren Sie Ihre Risiken und optimieren Sie Ihre finanzielle Zukunft."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Ganzheitliche Steuerlösungen für Ihr Unternehmen",
+      "description": "Unsere Dienstleistungen decken alle Aspekte der klassischen Steuerberatung ab und bieten Ihnen eine umfassende Unterstützung.",
+      "Block1": {
+        "title": "Steuererklärungen",
+        "description": "Erstellung und fristgerechte Einreichung von Steuerdokumenten bei den Finanzbehörden, um die geschuldeten Steuern zu berechnen und Strafen zu vermeiden."
+      },
+      "Block2": {
+        "title": "Buchhaltung",
+        "description": "Systematische Erfassung und Auswertung aller finanziellen Transaktionen eines Unternehmens zur Erstellung von Jahresabschlüssen und Finanzübersichten."
+      },
+      "Block3": {
+        "title": "Lohnverrechnung",
+        "description": "Berechnung und Auszahlung von Löhnen und Gehältern unter Berücksichtigung von Steuern, Sozialabgaben und gesetzlichen Abzügen."
+      },
+      "Block4": {
+        "title": "Erstellung von Bilanzen (Abschluss unternehmerischer Bücher nach dem UGB)",
+        "description": "Abschluss der Bücher eines Unternehmens gemäß UGB, einschließlich Gewinn- und Verlustrechnungen sowie Bilanzierung von Vermögenswerten und Verbindlichkeiten."
+      },
+      "Block5": {
+        "title": "Vertretung vor den Finanzbehörden",
+        "description": "Kommunikation und Verhandlung mit Finanzämtern im Namen von Unternehmen oder Einzelpersonen in Steuerangelegenheiten."
+      },
+      "Block6": {
+        "title": "Beratungsleistungen zu diversen Themen (Sozialversicherungswesen, betriebliches Rechnungswesen, arbeitsrechtliche Fragen, Dienst- und Arbeitsverträge, etc.)",
+        "description": "Fachkundige Unterstützung in Bereichen wie Sozialversicherung, Rechnungswesen, Arbeitsrecht und Vertragsgestaltung."
+      },
+      "Block7": {
+        "title": "Vertretung bei Betriebsprüfungen",
+        "description": "Unterstützung und Verteidigung eines Unternehmens während einer Finanzbehördenprüfung, inklusive Vorbereitung der Dokumentation."
+      },
+      "Block8": {
+        "title": "Sachverständigengutachten auf",
+        "description": "Erstellung fundierter Gutachten zu finanziellen, steuerlichen oder wirtschaftlichen Fragen als Entscheidungsgrundlage."
+      },
+      "Block9": {
+        "title": "Vertretung in Angelegenheiten des Registers der wirtschaftlichen Eigentümer einschließlich der Meldung wirtschaftlicher Eigentümer",
+        "description": "Einreichung und Aktualisierung von Angaben zu wirtschaftlichen Eigentümern gemäß gesetzlichen Vorgaben."
+      },
+      "Block10": {
+        "title": "Fristenwahrung",
+        "description": "Einhaltung gesetzlicher Fristen für Steuererklärungen und andere finanzielle oder administrative Verpflichtungen zur Vermeidung von Strafen."
+      }
+    }
+  },
+  "ChoiceOfLegalFormRestructuringPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Rechtsformwahl und Umstrukturierungen",
+      "description": "Wir entwickeln maßgeschneiderte Lösungen, um Ihr Unternehmen für langfristigen Erfolg zu positionieren."
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Strategische Rechtsformwahl und Umstrukturierung",
+      "description": "Unsere spezialisierten Beratungsdienste helfen Ihnen, die beste Rechtsform zu wählen und erfolgreiche Umstrukturierungen durchzuführen.",
+      "Block1": {
+        "title": "Steuerliche Auswirkungen",
+        "description": "Vergleich der steuerlichen Auswirkungen verschiedener Rechtsformen."
+      },
+      "Block2": {
+        "title": "Haftung, Organisationsaufwand und Struktur",
+        "description": "Berücksichtigung von Aspekten wie Haftung, Organisationsaufwand und Unternehmensstruktur."
+      },
+      "Block3": {
+        "title": "Gewinn- und Verlustbehandlung",
+        "description": "Analyse der steuerlichen Behandlung von Gewinnen, Verlusten und Ausschüttungen für jede Rechtsform."
+      },
+      "Block4": {
+        "title": "Flexibilität und Skalierbarkeit",
+        "description": "Bewertung der Flexibilität und Skalierbarkeit der verschiedenen Rechtsformen in Bezug auf zukünftige Unternehmensentwicklungen."
+      },
+      "Block5": {
+        "title": "Umstrukturierungsberatung",
+        "description": "Beratung über Möglichkeiten zur Umstrukturierung und zu Umstrukturierungsarten, wie Umwandlungen, Verschmelzungen, Spaltungen, Einbringungen von Betrieben, etc."
+      },
+      "Block6": {
+        "title": "Umsetzung und Compliance",
+        "description": "Optimale Umsetzung von Umstrukturierungen und Sicherstellung der steuerlichen Compliance während des Umstrukturierungsprozesses."
+      },
+      "Block7": {
+        "title": "Grenzüberschreitende Steuern",
+        "description": "Berücksichtigung von steuerlichen Auswirkungen bei grenzüberschreitenden Umstrukturierungen"
+      },
+      "Block8": {
+        "title": "Steuerliche Risiken und Strategien",
+        "description": "Identifizierung und Bewertung potenzieller steuerlicher Risiken im Zusammenhang mit Umstrukturierungen und Entwicklung von Strategien zu deren Minimierung."
+      }
+    }
+  },
+  "ContentCreatorInfluencerESportsPage": {
+    "HeroArticle": {
+      "subtitle": "Kerngebiete",
+      "title": "Content Creator, Influencer und E-Sportler",
+      "description": "Eine erfolgreiche Zukunft als Content Creator und E-Sportler beginnt mit fundierter steuerlicher Beratung!"
+    },
+    "BlockArticle": {
+      "subtitle": "Umfassende Steuerberatung",
+      "title": "Optimale Steuerstrategien für Digitale Berufe",
+      "description": "Umfassende Beratung für die spezifischen steuerlichen Anforderungen von Content Creators, Influencern und E-Sportlern, um finanzielle Sicherheit und Compliance zu gewährleisten.",
+      "Block1": {
+        "title": "Steuervorschriften bei internationaler Tätigkeit",
+        "description": "Content Creator und Influencer, die international tätig sind, müssen auch internationale Steuervorschriften beachten. Eine steuerliche Beratung hilft, grenzüberschreitende Steuerfragen zu klären und Doppelbesteuerung zu vermeiden."
+      },
+      "Block2": {
+        "title": "Besteuerung diverser Einnahmequellen",
+        "description": "Richtige Aufzeichnung und steuerliche Behandlung von Einnahmen aus Google, Twitch, YouTube, Instagram, Facebook, TiKTok, etc."
+      },
+      "Block3": {
+        "title": "Umsatzsteuer",
+        "description": "Beratung in grenzüberschreitenden Fragen der Umsatzsteuer, insbesondere bei Erhalt von Einnahmen aus anderen EU-Statten bzw. Drittstaaten "
+      },
+      "Block4": {
+        "title": "Absetzbare Betriebsausgaben",
+        "description": "Beratung über und Optimierung der Absetzbarkeit betrieblicher Ausgaben wie z.B. für Reisen, beanspruchte Dienstleistungen, Investitionen, etc."
+      },
+      "Block5": {
+        "title": "Steueroptimierung und Steuerplanung",
+        "description": "Gemeinsame Entwicklung steueroptimaler Strukturen und Strategien, insbesondere im Hinblick auf Wahl der optimalen Rechtsform, Nutzung steuerliche Freibeträge und Abzüge und Planung zukünftiger steuerlicher Verpflichtungen"
+      },
+      "Block6": {
+        "title": "Besteuerung von materiellen und immateriellen Leistungen",
+        "description": "Besteuerung von Sach- und Dienstleistungszuwendungen wie Produktproben, Gutscheinen, Rabatten, Einladungen zu Events, Reisen, etc."
+      }
+    }
+  }
+}

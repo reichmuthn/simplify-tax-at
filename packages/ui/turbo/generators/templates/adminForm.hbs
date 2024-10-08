@@ -1,0 +1,103 @@
+"use client";
+import React from "react";
+import { zodResolver } from "@hookform/resolvers/zod";
+import { useForm } from "react-hook-form";
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "@ui/components/ui/form";
+import { Button } from "@ui/components/ui/button";
+import { Input } from "@ui/components/ui/input";
+import { save{{pascalCase name}} } from "@ui/entities/{{name}}s/forms/admin/actions";
+import { ServerAlert } from "@ui/components/ui/alert";
+import {
+  Create{{pascalCase name}}Command,
+  create{{pascalCase name}}CommandSchema,
+} from "@app/entities/{{name}}s/commands/create{{pascalCase name}}/schemas";
+import { toast } from "sonner";
+import { Admin{{pascalCase name}}Item } from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+
+interface Admin{{pascalCase name}}ItemFormProps {
+  {{name}}?: Admin{{pascalCase name}}Item;
+  onClose?: () => void;
+}
+
+export function Admin{{pascalCase name}}ItemForm({
+                                   {{name}},
+                                   onClose,
+                                 }: Admin{{pascalCase name}}ItemFormProps) {
+  const [isPending, startTransition] = React.useTransition();
+
+  const form = useForm<Create{{pascalCase name}}Command>({
+    resolver: zodResolver(create{{pascalCase name}}CommandSchema),
+    defaultValues: {
+      title: {{name}}?.title ?? undefined,
+    },
+  });
+
+  function onSubmit(values: Create{{pascalCase name}}Command) {
+    startTransition(async () => {
+      const toastId = toast.loading("Speichere...");
+
+      const result = await save{{pascalCase name}}(values, {{name}}?.id);
+
+      if (result?.errors) {
+        Object.keys(result?.errors).forEach((value) => {
+          // @ts-ignore
+          form.setError(value, { message: result.errors[value][0] });
+        });
+        toast.error("Speichern fehlgeschlagen.", { id: toastId });
+      } else {
+        toast.success("Speichern erfolgreich.", {
+          id: toastId,
+          action: {
+            label: "Vorschau",
+            onClick: () => console.log("Vorschau!"),
+          },
+        });
+        onClose?.();
+      }
+    });
+  }
+
+  return (
+    <Form {...form}>
+      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 relative">
+        {form.formState.errors.root && (
+          <ServerAlert message={form.formState.errors.root.message} />
+        )}
+        <FormField
+          control={form.control}
+          name="title"
+          render={({ field }) => (
+            <FormItem>
+              <FormLabel>Titel</FormLabel>
+              <FormControl>
+                <Input {...field} />
+              </FormControl>
+              <FormMessage />
+            </FormItem>
+          )}
+        />
+        <div className={"bottom-0 left-0 right-0 sticky flex items-center gap-2"}>
+          <Button type="submit" disabled={isPending}>
+            Speichern
+          </Button>
+          <Button
+            variant={"secondary"}
+            type={"button"}
+            onClick={() => {
+              onClose?.();
+            }}
+          >
+            Abbrechen
+          </Button>
+        </div>
+      </form>
+    </Form>
+  );
+}

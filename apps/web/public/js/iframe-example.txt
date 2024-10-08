@@ -1,0 +1,21 @@
+<div id="LawFinder" data-type="states" data-filter="Wien"></div>
+
+<script src="https://lawfinder.at/js/iframe.min.js"></script>
+
+<div id="LawFinder" data-type="employerId" data-filter="clj8pphjf0000uvo8nhgagz26" data-bg="" data-primary=""></div>
+
+<script src="https://lawfinder.at/js/iframe.min.js"></script>
+
+---
+
+<style>#LawFinder{max-width:1200px;margin:auto;}</style>
+
+<div
+    id="LawFinder"
+    data-type="employerId"
+    data-filter="61f8fe0390970900128d4bab"
+    data-bg="f8f8f8"
+    data-primary="70bb2b"
+></div>
+
+<script src="https://lawfinder.at/js/iframe.min.js"></script>

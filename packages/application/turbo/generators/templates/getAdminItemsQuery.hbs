@@ -1,0 +1,34 @@
+import {
+  GetAdmin{{pascalCase name}}ItemsSearchParams,
+  getAdmin{{pascalCase name}}ItemsSelect,
+  getAdmin{{pascalCase name}}ItemsWhere,
+} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+import "server-only";
+import {prisma} from "@simplifytax/database";
+
+export async function getAdmin{{pascalCase name}}ItemsQuery(
+  props?: GetAdmin{{pascalCase name}}ItemsSearchParams,
+) {
+  const whereQuery = props ? getAdmin{{pascalCase name}}ItemsWhere.parse(props) : {};
+
+  const result = await prisma.{{name}}.paginate(
+    {
+      where: {
+      ...whereQuery,
+      },
+      select: getAdmin{{pascalCase name}}ItemsSelect,
+      orderBy: {
+        title: "asc",
+      },
+    },
+    {
+      page: props?.page ? parseInt(props.page) : 1,
+      limit: props?.per_page ? parseInt(props.per_page) : 20,
+    },
+  );
+
+  return {
+    data: result.result,
+    pageCount: result.totalPages
+  };
+}

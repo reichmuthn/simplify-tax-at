@@ -1,0 +1,7 @@
+import { z } from "zod";
+
+export const create{{pascalCase name}}CommandSchema = z.object({
+    title: z.string().min(1, "Der Titel darf nicht leer sein"),
+});
+
+export type Create{{pascalCase name}}Command = z.infer<typeof create{{pascalCase name}}CommandSchema>;

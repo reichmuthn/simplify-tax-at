@@ -1,0 +1,21 @@
+import {Row} from "@tanstack/react-table";
+import {Admin{{pascalCase name}}Item} from "@app/entities/{{name}}s/queries/getAdmin{{pascalCase name}}Items/schemas";
+import {toast} from "sonner";
+import {delete{{pascalCase name}} } from "@ui/entities/{{name}}s/forms/admin/actions";
+
+export function delete{{pascalCase name}}s({rows, onSuccess}: {
+  rows: Row<Admin{{pascalCase name}}Item>[];
+  onSuccess?: () => void;
+}) {
+  toast.promise(
+    Promise.all(rows.map(async (row) => delete{{pascalCase name}}(row.original.id))),
+    {
+      loading: "Lösche...",
+      success: () => {
+        onSuccess?.();
+        return "{{pascalCase name}}s gelöscht";
+      },
+      error: (err) => "Fehler beim Löschen",
+    },
+  );
+}

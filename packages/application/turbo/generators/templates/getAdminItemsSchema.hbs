@@ -1,0 +1,35 @@
+import {Prisma} from "@prisma/client";
+import {z} from "zod";
+
+export type Admin{{pascalCase name}}Item = Prisma.{{pascalCase name}}GetPayload<{
+  select: typeof getAdmin{{pascalCase name}}ItemsSelect;
+}>;
+
+export type GetAdmin{{pascalCase name}}ItemsSearchParams = {
+  page?: string;
+  per_page?: string;
+  title?: string;
+};
+
+export const getAdmin{{pascalCase name}}ItemsWhere = z
+.object({
+  title: z.string().optional(),
+})
+.transform((searchParams) => {
+  let query: Prisma.{{pascalCase name}}WhereInput = {};
+
+  if (searchParams.title) {
+    query = {
+      title: {
+        contains: searchParams.title,
+      },
+    }
+  }
+
+  return query;
+});
+
+export const getAdmin{{pascalCase name}}ItemsSelect = {
+  id: true,
+  title: true,
+} satisfies Prisma.{{pascalCase name}}Select;

@@ -1,0 +1,10 @@
+import { prisma } from "@simplifytax/database";
+import "server-only";
+
+export async function delete{{pascalCase name}}Command(id: string) {
+    await prisma.{{name}}.delete({
+        where: {
+            id: id,
+        },
+    });
+}
